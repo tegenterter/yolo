@@ -1,0 +1,81 @@
+# yolo security-research fixture
+packages:
+  agent_dart:
+    dependency: "direct main"
+    description:
+      name: agent_dart
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0-dev.1"
+  archive:
+    dependency: "direct main"
+    description:
+      name: archive
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.3.7"
+  dio:
+    dependency: "direct main"
+    description:
+      name: dio
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.6"
+  dio_http2_adapter:
+    dependency: "direct main"
+    description:
+      name: dio_http2_adapter
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.7.1"
+  http:
+    dependency: "direct main"
+    description:
+      name: http
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.13.2"
+  jose:
+    dependency: "direct main"
+    description:
+      name: jose
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.5"
+  personnummer:
+    dependency: "direct main"
+    description:
+      name: personnummer
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.2"
+  pubnub:
+    dependency: "direct main"
+    description:
+      name: pubnub
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.2.4"
+  serverpod_auth_server:
+    dependency: "direct main"
+    description:
+      name: serverpod_auth_server
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.5"
+  serverpod_client:
+    dependency: "direct main"
+    description:
+      name: serverpod_client
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.5"
+  shared_preferences_android:
+    dependency: "direct main"
+    description:
+      name: shared_preferences_android
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.3.3"
+sdks:
+  dart: ">=2.17.0 <4.0.0"

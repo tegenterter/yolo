@@ -1,0 +1,77 @@
+{
+  "distinct_advisory_count": 14,
+  "distinct_cve_count": 11,
+  "ecosystem": "Pub",
+  "package_count": 11,
+  "packages": {
+    "agent_dart": {
+      "ids": [
+        "CVE-2024-48915"
+      ],
+      "version": "1.0.0-dev.1"
+    },
+    "archive": {
+      "ids": [
+        "CVE-2023-39137",
+        "CVE-2023-39139"
+      ],
+      "version": "3.3.7"
+    },
+    "dio": {
+      "ids": [
+        "CVE-2021-31402",
+        "GHSA-jwpw-q68h-r678"
+      ],
+      "version": "4.0.6"
+    },
+    "dio_http2_adapter": {
+      "ids": [
+        "CVE-2026-103030"
+      ],
+      "version": "2.7.1"
+    },
+    "http": {
+      "ids": [
+        "CVE-2020-35669"
+      ],
+      "version": "0.13.2"
+    },
+    "jose": {
+      "ids": [
+        "CVE-2026-34240"
+      ],
+      "version": "0.3.5"
+    },
+    "personnummer": {
+      "ids": [
+        "CVE-2023-22963",
+        "GHSA-9f2c-xxfm-32mj"
+      ],
+      "version": "3.0.2"
+    },
+    "pubnub": {
+      "ids": [
+        "CVE-2023-26154"
+      ],
+      "version": "4.2.4"
+    },
+    "serverpod_auth_server": {
+      "ids": [
+        "CVE-2024-29886"
+      ],
+      "version": "1.2.5"
+    },
+    "serverpod_client": {
+      "ids": [
+        "CVE-2024-29887"
+      ],
+      "version": "1.2.5"
+    },
+    "shared_preferences_android": {
+      "ids": [
+        "GHSA-3hpf-ff72-j67p"
+      ],
+      "version": "2.3.3"
+    }
+  }
+}
