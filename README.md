@@ -56,6 +56,15 @@ Some languages map onto an ecosystem above rather than getting their own OSV fee
   set. `ecosystems/scala/build.sbt` is an idiomatic sbt view of the 105 Scala-suffixed
   artifacts (`_2.12`, `_2.13`, `_3`, …). It's a convenience view — these are already
   counted in Maven and scanned via `pom.xml` (osv-scanner doesn't parse `build.sbt`).
+- **Clojure → Maven/Clojars.** No separate OSV feed; only one Clojure library
+  (`org.clojure:clojure`) appears in the vuln set, so there's no distinct ecosystem to
+  build.
+- **C/C++ → no package registry.** There's no Conan/vcpkg feed in OSV. The real C/C++
+  source is **OSS-Fuzz**: `ecosystems/cpp/oss-fuzz-vulns.json` is a dataset of 359
+  open-source native projects (4,258 fuzzing-found vulns) keyed by git repo + commit,
+  not a pinnable registry version — so it's a dataset, not a manifest/lockfile, and not
+  in the installable-package total. (OSS-Fuzz also fuzzes some JVM projects, noted in
+  the file.)
 
 ### Lockfiles
 
