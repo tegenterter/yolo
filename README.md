@@ -21,9 +21,9 @@ Snyk, Dependabot, Trivy, etc.
 
 ## Contents
 
-- **2,888** known-vulnerable npm packages, each pinned to an exact vulnerable version
-- **4,485** distinct CVEs
-- **7,653** distinct advisories (CVE + GHSA/OSV)
+- **2,953** known-vulnerable npm packages, each pinned to an exact vulnerable version
+- **4,498** distinct CVEs
+- **7,717** distinct advisories (CVE + GHSA/OSV)
 
 See `advisories.json` for the full package → version → advisory-ID mapping.
 
