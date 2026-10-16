@@ -1,0 +1,31 @@
+# Security-research fixture: known-vulnerable GitHub Actions pinned to
+# vulnerable versions for SCA/scanner testing. Do NOT run this workflow.
+name: yolo-vulnerable-actions
+on:
+  workflow_dispatch:
+jobs:
+  vuln:
+    runs-on: ubuntu-latest
+    steps:
+      - name: OZI-Project/publish
+        uses: OZI-Project/publish@1.13.2
+      - name: SonarSource/sonarqube-scan-action
+        uses: SonarSource/sonarqube-scan-action@4.0.0
+      - name: actions/download-artifact
+        uses: actions/download-artifact@4.0.0
+      - name: actions/runner
+        uses: actions/runner@2.294.0
+      - name: aquasecurity/trivy-action
+        uses: aquasecurity/trivy-action@0.31.0
+      - name: github/codeql-action
+        uses: github/codeql-action@3.26.11
+      - name: google-github-actions/run-gemini-cli
+        uses: google-github-actions/run-gemini-cli@v0.1.21
+      - name: rlespinasse/github-slug-action
+        uses: rlespinasse/github-slug-action@4.0.0
+      - name: shivammathur/setup-php
+        uses: shivammathur/setup-php@2.25.0
+      - name: super-linter/super-linter
+        uses: super-linter/super-linter@6.0.0
+      - name: super-linter/super-linter/slim
+        uses: super-linter/super-linter/slim@6.0.0

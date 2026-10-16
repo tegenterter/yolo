@@ -1,0 +1,4314 @@
+{
+  "advisory_count": 4738,
+  "distinct_cve_count": 4738,
+  "ecosystem": "Alpine",
+  "note": "OS-distro packages, keyed by distro-specific versions. Dataset (package -> counts + sample), not an installable manifest.",
+  "package_count": 427,
+  "packages": {
+    "7zip": {
+      "advisory_count": 8,
+      "cve_count": 8,
+      "example_cves": [
+        "CVE-2026-48092",
+        "CVE-2026-48095",
+        "CVE-2026-48101",
+        "CVE-2026-48102",
+        "CVE-2026-48103"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ack": {
+      "advisory_count": 3,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2026-49145",
+        "CVE-2026-49146",
+        "CVE-2026-49147"
+      ],
+      "example_vulnerable_version": null
+    },
+    "amavis": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2024-28054"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ansible": {
+      "advisory_count": 95,
+      "cve_count": 27,
+      "example_cves": [
+        "CVE-2016-9587",
+        "CVE-2018-10855",
+        "CVE-2018-10875",
+        "CVE-2018-16837",
+        "CVE-2018-16859"
+      ],
+      "example_vulnerable_version": "2.4.1.0-r0"
+    },
+    "ansible-base": {
+      "advisory_count": 40,
+      "cve_count": 20,
+      "example_cves": [
+        "CVE-2018-10875",
+        "CVE-2018-16876",
+        "CVE-2019-10156",
+        "CVE-2019-10206",
+        "CVE-2019-10217"
+      ],
+      "example_vulnerable_version": "2.6.1-r0"
+    },
+    "aom": {
+      "advisory_count": 29,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2021-30473",
+        "CVE-2021-30474",
+        "CVE-2021-30475",
+        "CVE-2024-5171"
+      ],
+      "example_vulnerable_version": null
+    },
+    "apache2": {
+      "advisory_count": 1566,
+      "cve_count": 147,
+      "example_cves": [
+        "CVE-2006-20001",
+        "CVE-2016-5387",
+        "CVE-2017-15710",
+        "CVE-2017-15715",
+        "CVE-2017-3167"
+      ],
+      "example_vulnerable_version": null
+    },
+    "apk-tools": {
+      "advisory_count": 38,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2017-9669",
+        "CVE-2017-9671",
+        "CVE-2021-30139",
+        "CVE-2021-36159"
+      ],
+      "example_vulnerable_version": "2.12.0"
+    },
+    "apparmor": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-1585"
+      ],
+      "example_vulnerable_version": "3.0.0"
+    },
+    "apr": {
+      "advisory_count": 52,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2021-35940",
+        "CVE-2022-24963",
+        "CVE-2022-25147",
+        "CVE-2022-28331",
+        "CVE-2023-49582"
+      ],
+      "example_vulnerable_version": null
+    },
+    "apr-util": {
+      "advisory_count": 31,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2022-25147",
+        "CVE-2025-49506",
+        "CVE-2026-32327",
+        "CVE-2026-34191",
+        "CVE-2026-34501"
+      ],
+      "example_vulnerable_version": "1.3.0"
+    },
+    "aria2": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-3500"
+      ],
+      "example_vulnerable_version": null
+    },
+    "arm-trusted-firmware": {
+      "advisory_count": 11,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2023-49100",
+        "CVE-2024-5660",
+        "CVE-2024-7882"
+      ],
+      "example_vulnerable_version": null
+    },
+    "aspell": {
+      "advisory_count": 32,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2019-17544",
+        "CVE-2019-25051"
+      ],
+      "example_vulnerable_version": null
+    },
+    "asterisk": {
+      "advisory_count": 341,
+      "cve_count": 30,
+      "example_cves": [
+        "CVE-2018-19278",
+        "CVE-2019-12827",
+        "CVE-2019-13161",
+        "CVE-2019-15297",
+        "CVE-2019-15639"
+      ],
+      "example_vulnerable_version": "20.0.0"
+    },
+    "atop": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2025-31160"
+      ],
+      "example_vulnerable_version": null
+    },
+    "augeas": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-7555"
+      ],
+      "example_vulnerable_version": null
+    },
+    "avahi": {
+      "advisory_count": 125,
+      "cve_count": 19,
+      "example_cves": [
+        "CVE-2017-6519",
+        "CVE-2018-1000845",
+        "CVE-2021-26720",
+        "CVE-2021-3468",
+        "CVE-2021-3502"
+      ],
+      "example_vulnerable_version": "0.6"
+    },
+    "awstats": {
+      "advisory_count": 40,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2017-1000501",
+        "CVE-2020-29600",
+        "CVE-2020-35176",
+        "CVE-2022-46391"
+      ],
+      "example_vulnerable_version": "7.0"
+    },
+    "axel": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-13614"
+      ],
+      "example_vulnerable_version": null
+    },
+    "bash": {
+      "advisory_count": 22,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2016-0634",
+        "CVE-2016-9401"
+      ],
+      "example_vulnerable_version": null
+    },
+    "bind": {
+      "advisory_count": 1043,
+      "cve_count": 110,
+      "example_cves": [
+        "CVE-2016-2776",
+        "CVE-2016-8864",
+        "CVE-2016-9131",
+        "CVE-2016-9147",
+        "CVE-2016-9444"
+      ],
+      "example_vulnerable_version": "9.14.0"
+    },
+    "binutils": {
+      "advisory_count": 166,
+      "cve_count": 28,
+      "example_cves": [
+        "CVE-2017-7614",
+        "CVE-2017-9038",
+        "CVE-2018-19931",
+        "CVE-2018-19932",
+        "CVE-2018-20002"
+      ],
+      "example_vulnerable_version": "2.30-r1"
+    },
+    "bison": {
+      "advisory_count": 36,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2020-24240",
+        "CVE-2020-24979",
+        "CVE-2020-24980"
+      ],
+      "example_vulnerable_version": null
+    },
+    "bluez": {
+      "advisory_count": 25,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2017-1000250",
+        "CVE-2020-0556",
+        "CVE-2020-27153"
+      ],
+      "example_vulnerable_version": null
+    },
+    "botan": {
+      "advisory_count": 78,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2018-12435",
+        "CVE-2018-20187",
+        "CVE-2018-9127",
+        "CVE-2018-9860",
+        "CVE-2021-24115"
+      ],
+      "example_vulnerable_version": "1.11.32"
+    },
+    "botan3": {
+      "advisory_count": 13,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2024-34702",
+        "CVE-2024-39312",
+        "CVE-2026-32877",
+        "CVE-2026-32883",
+        "CVE-2026-32884"
+      ],
+      "example_vulnerable_version": null
+    },
+    "bridge": {
+      "advisory_count": 45,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2021-42533",
+        "CVE-2021-42719",
+        "CVE-2021-42720",
+        "CVE-2021-42722",
+        "CVE-2021-42725"
+      ],
+      "example_vulnerable_version": null
+    },
+    "brotli": {
+      "advisory_count": 13,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-8927"
+      ],
+      "example_vulnerable_version": null
+    },
+    "bubblewrap": {
+      "advisory_count": 20,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2020-5291",
+        "CVE-2024-42472",
+        "CVE-2026-41163"
+      ],
+      "example_vulnerable_version": null
+    },
+    "busybox": {
+      "advisory_count": 403,
+      "cve_count": 33,
+      "example_cves": [
+        "CVE-2016-2147",
+        "CVE-2016-2148",
+        "CVE-2016-6301",
+        "CVE-2017-15873",
+        "CVE-2017-15874"
+      ],
+      "example_vulnerable_version": "1.18.0"
+    },
+    "bzip2": {
+      "advisory_count": 39,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2016-3189",
+        "CVE-2019-12900"
+      ],
+      "example_vulnerable_version": null
+    },
+    "c-ares": {
+      "advisory_count": 44,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2016-5180",
+        "CVE-2017-1000381",
+        "CVE-2021-3672",
+        "CVE-2024-25629",
+        "CVE-2025-31498"
+      ],
+      "example_vulnerable_version": "1.32.3"
+    },
+    "cabextract": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-18584"
+      ],
+      "example_vulnerable_version": "1.7-r0"
+    },
+    "cacti": {
+      "advisory_count": 2,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-3172"
+      ],
+      "example_vulnerable_version": null
+    },
+    "cairo": {
+      "advisory_count": 44,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2018-19876",
+        "CVE-2019-6462",
+        "CVE-2020-35492"
+      ],
+      "example_vulnerable_version": null
+    },
+    "cgit": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-14912"
+      ],
+      "example_vulnerable_version": "1.0-r1"
+    },
+    "chrony": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-14367"
+      ],
+      "example_vulnerable_version": null
+    },
+    "cifs-utils": {
+      "advisory_count": 35,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2020-14342",
+        "CVE-2021-20208",
+        "CVE-2022-27239",
+        "CVE-2022-29869"
+      ],
+      "example_vulnerable_version": "4.0"
+    },
+    "cjson": {
+      "advisory_count": 26,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2023-50471",
+        "CVE-2023-50472",
+        "CVE-2025-57052"
+      ],
+      "example_vulnerable_version": "1.5.0"
+    },
+    "clamav": {
+      "advisory_count": 205,
+      "cve_count": 38,
+      "example_cves": [
+        "CVE-2012-6706",
+        "CVE-2017-11423",
+        "CVE-2017-12374",
+        "CVE-2017-12375",
+        "CVE-2017-12376"
+      ],
+      "example_vulnerable_version": "0.99.4-r1"
+    },
+    "collectd": {
+      "advisory_count": 9,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2016-6254",
+        "CVE-2017-16820",
+        "CVE-2017-7401"
+      ],
+      "example_vulnerable_version": "5.4.0"
+    },
+    "confuse": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-14447"
+      ],
+      "example_vulnerable_version": null
+    },
+    "coreutils": {
+      "advisory_count": 25,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-18018",
+        "CVE-2024-0684"
+      ],
+      "example_vulnerable_version": null
+    },
+    "cracklib": {
+      "advisory_count": 15,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-6318"
+      ],
+      "example_vulnerable_version": "2.9.0"
+    },
+    "cryptsetup": {
+      "advisory_count": 27,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2020-14382",
+        "CVE-2021-4122"
+      ],
+      "example_vulnerable_version": "2.4.0"
+    },
+    "ctags": {
+      "advisory_count": 11,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2014-7204"
+      ],
+      "example_vulnerable_version": null
+    },
+    "cups": {
+      "advisory_count": 190,
+      "cve_count": 23,
+      "example_cves": [
+        "CVE-2017-18190",
+        "CVE-2018-4700",
+        "CVE-2019-8675",
+        "CVE-2019-8696",
+        "CVE-2019-8842"
+      ],
+      "example_vulnerable_version": "2.2.0"
+    },
+    "curl": {
+      "advisory_count": 1899,
+      "cve_count": 175,
+      "example_cves": [
+        "CVE-2014-0138",
+        "CVE-2014-0139",
+        "CVE-2016-5419",
+        "CVE-2016-5420",
+        "CVE-2016-5421"
+      ],
+      "example_vulnerable_version": "7.57.0"
+    },
+    "cvs": {
+      "advisory_count": 39,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2010-3846",
+        "CVE-2012-0804",
+        "CVE-2017-12836"
+      ],
+      "example_vulnerable_version": null
+    },
+    "cyrus-sasl": {
+      "advisory_count": 64,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2013-4122",
+        "CVE-2019-19906",
+        "CVE-2020-8032",
+        "CVE-2022-24407"
+      ],
+      "example_vulnerable_version": "2.1.17"
+    },
+    "darkhttpd": {
+      "advisory_count": 19,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2020-25691",
+        "CVE-2024-23770",
+        "CVE-2024-23771"
+      ],
+      "example_vulnerable_version": null
+    },
+    "dav1d": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2024-1580"
+      ],
+      "example_vulnerable_version": null
+    },
+    "db": {
+      "advisory_count": 5,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2016-0682",
+        "CVE-2016-0689",
+        "CVE-2016-0692",
+        "CVE-2016-0694",
+        "CVE-2016-3418"
+      ],
+      "example_vulnerable_version": null
+    },
+    "dbus": {
+      "advisory_count": 70,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2019-12749",
+        "CVE-2020-12049",
+        "CVE-2022-42010",
+        "CVE-2022-42011",
+        "CVE-2022-42012"
+      ],
+      "example_vulnerable_version": "1.3.0"
+    },
+    "dhcp": {
+      "advisory_count": 57,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2018-5732",
+        "CVE-2018-5733",
+        "CVE-2019-6470",
+        "CVE-2021-25217",
+        "CVE-2022-2928"
+      ],
+      "example_vulnerable_version": "4.4.0"
+    },
+    "dhcpcd": {
+      "advisory_count": 8,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2026-56113",
+        "CVE-2026-56114",
+        "CVE-2026-56116",
+        "CVE-2026-56117"
+      ],
+      "example_vulnerable_version": "10.0.7"
+    },
+    "dnsmasq": {
+      "advisory_count": 362,
+      "cve_count": 27,
+      "example_cves": [
+        "CVE-2017-13704",
+        "CVE-2017-14491",
+        "CVE-2017-14492",
+        "CVE-2017-14493",
+        "CVE-2017-14494"
+      ],
+      "example_vulnerable_version": null
+    },
+    "doas": {
+      "advisory_count": 14,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-25016"
+      ],
+      "example_vulnerable_version": null
+    },
+    "dovecot": {
+      "advisory_count": 449,
+      "cve_count": 60,
+      "example_cves": [
+        "CVE-2017-14461",
+        "CVE-2017-15130",
+        "CVE-2017-15132",
+        "CVE-2019-10691",
+        "CVE-2019-11494"
+      ],
+      "example_vulnerable_version": "2.0.0"
+    },
+    "dpkg": {
+      "advisory_count": 13,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2022-1664",
+        "CVE-2026-2219"
+      ],
+      "example_vulnerable_version": "1.14.17"
+    },
+    "dropbear": {
+      "advisory_count": 56,
+      "cve_count": 10,
+      "example_cves": [
+        "CVE-2017-9078",
+        "CVE-2017-9079",
+        "CVE-2018-15599",
+        "CVE-2018-20685",
+        "CVE-2019-6111"
+      ],
+      "example_vulnerable_version": null
+    },
+    "e2fsprogs": {
+      "advisory_count": 39,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2019-5094",
+        "CVE-2019-5188",
+        "CVE-2022-1304"
+      ],
+      "example_vulnerable_version": "1.43.3"
+    },
+    "elfutils": {
+      "advisory_count": 196,
+      "cve_count": 16,
+      "example_cves": [
+        "CVE-2017-7607",
+        "CVE-2017-7608",
+        "CVE-2018-16062",
+        "CVE-2018-16402",
+        "CVE-2018-16403"
+      ],
+      "example_vulnerable_version": "0.168-r2"
+    },
+    "exiv2": {
+      "advisory_count": 12,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2019-13108",
+        "CVE-2019-13109",
+        "CVE-2019-13110",
+        "CVE-2019-13111",
+        "CVE-2019-13112"
+      ],
+      "example_vulnerable_version": null
+    },
+    "expat": {
+      "advisory_count": 462,
+      "cve_count": 58,
+      "example_cves": [
+        "CVE-2012-6702",
+        "CVE-2016-0718",
+        "CVE-2016-4472",
+        "CVE-2016-5300",
+        "CVE-2017-9233"
+      ],
+      "example_vulnerable_version": null
+    },
+    "f2fs-tools": {
+      "advisory_count": 60,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2020-6104",
+        "CVE-2020-6105",
+        "CVE-2020-6106",
+        "CVE-2020-6107",
+        "CVE-2020-6108"
+      ],
+      "example_vulnerable_version": null
+    },
+    "faac": {
+      "advisory_count": 2,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-19886"
+      ],
+      "example_vulnerable_version": "1.29.9.2-r0"
+    },
+    "faad2": {
+      "advisory_count": 85,
+      "cve_count": 17,
+      "example_cves": [
+        "CVE-2018-19502",
+        "CVE-2018-19503",
+        "CVE-2018-19504",
+        "CVE-2018-20194",
+        "CVE-2018-20195"
+      ],
+      "example_vulnerable_version": "2.8.8-r0"
+    },
+    "fail2ban": {
+      "advisory_count": 10,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-32749"
+      ],
+      "example_vulnerable_version": "0.10.0"
+    },
+    "ffmpeg": {
+      "advisory_count": 115,
+      "cve_count": 42,
+      "example_cves": [
+        "CVE-2016-10190",
+        "CVE-2016-10191",
+        "CVE-2016-10192",
+        "CVE-2016-2213",
+        "CVE-2016-2328"
+      ],
+      "example_vulnerable_version": "3.3"
+    },
+    "file": {
+      "advisory_count": 103,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2019-1543",
+        "CVE-2019-18218",
+        "CVE-2019-8904",
+        "CVE-2019-8905",
+        "CVE-2019-8906"
+      ],
+      "example_vulnerable_version": null
+    },
+    "fish": {
+      "advisory_count": 9,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2022-20001"
+      ],
+      "example_vulnerable_version": "3.1.0"
+    },
+    "flac": {
+      "advisory_count": 43,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2017-6888",
+        "CVE-2020-0499",
+        "CVE-2021-0561"
+      ],
+      "example_vulnerable_version": null
+    },
+    "flex": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-6354"
+      ],
+      "example_vulnerable_version": null
+    },
+    "freeradius": {
+      "advisory_count": 69,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2019-10143",
+        "CVE-2019-11234",
+        "CVE-2019-11235",
+        "CVE-2022-41859",
+        "CVE-2022-41860"
+      ],
+      "example_vulnerable_version": "0.9.3"
+    },
+    "freeswitch": {
+      "advisory_count": 58,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2021-37624",
+        "CVE-2021-41105",
+        "CVE-2021-41145",
+        "CVE-2021-41157",
+        "CVE-2021-41158"
+      ],
+      "example_vulnerable_version": null
+    },
+    "freetds": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-13508"
+      ],
+      "example_vulnerable_version": null
+    },
+    "freetype": {
+      "advisory_count": 127,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2016-10244",
+        "CVE-2017-8105",
+        "CVE-2017-8287",
+        "CVE-2018-6942",
+        "CVE-2020-15999"
+      ],
+      "example_vulnerable_version": "2.6.0"
+    },
+    "fribidi": {
+      "advisory_count": 44,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2019-18397",
+        "CVE-2022-25308",
+        "CVE-2022-25309",
+        "CVE-2022-25310"
+      ],
+      "example_vulnerable_version": "1.0.0"
+    },
+    "fuse": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-10906"
+      ],
+      "example_vulnerable_version": "3.0"
+    },
+    "fuse3": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-10906"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gcc": {
+      "advisory_count": 7,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2019-15847",
+        "CVE-2023-4039"
+      ],
+      "example_vulnerable_version": "8.0"
+    },
+    "gd": {
+      "advisory_count": 200,
+      "cve_count": 28,
+      "example_cves": [
+        "CVE-2015-8874",
+        "CVE-2016-10166",
+        "CVE-2016-10167",
+        "CVE-2016-10168",
+        "CVE-2016-3074"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gdk-pixbuf": {
+      "advisory_count": 95,
+      "cve_count": 8,
+      "example_cves": [
+        "CVE-2017-2862",
+        "CVE-2017-6311",
+        "CVE-2017-6312",
+        "CVE-2017-6314",
+        "CVE-2020-29385"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gettext": {
+      "advisory_count": 14,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-18751"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ghostscript": {
+      "advisory_count": 889,
+      "cve_count": 79,
+      "example_cves": [
+        "CVE-2017-5951",
+        "CVE-2017-7207",
+        "CVE-2017-8291",
+        "CVE-2018-10194",
+        "CVE-2018-15908"
+      ],
+      "example_vulnerable_version": "9.00"
+    },
+    "giflib": {
+      "advisory_count": 41,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2016-3977",
+        "CVE-2021-40633",
+        "CVE-2022-28506",
+        "CVE-2023-39742",
+        "CVE-2023-48161"
+      ],
+      "example_vulnerable_version": null
+    },
+    "git": {
+      "advisory_count": 543,
+      "cve_count": 46,
+      "example_cves": [
+        "CVE-2017-1000117",
+        "CVE-2017-8386",
+        "CVE-2018-11233",
+        "CVE-2018-11235",
+        "CVE-2018-17456"
+      ],
+      "example_vulnerable_version": "2.31.0"
+    },
+    "gitolite": {
+      "advisory_count": 19,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-20683"
+      ],
+      "example_vulnerable_version": null
+    },
+    "glib": {
+      "advisory_count": 52,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2019-12450",
+        "CVE-2020-6750",
+        "CVE-2021-27218",
+        "CVE-2021-27219",
+        "CVE-2021-28153"
+      ],
+      "example_vulnerable_version": "2.79.0"
+    },
+    "gmp": {
+      "advisory_count": 13,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-43618"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gnupg": {
+      "advisory_count": 73,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2018-12020",
+        "CVE-2019-14855",
+        "CVE-2020-25125",
+        "CVE-2022-34903",
+        "CVE-2025-68972"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gnupg1": {
+      "advisory_count": 16,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-7526",
+        "CVE-2018-12020"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gnutls": {
+      "advisory_count": 298,
+      "cve_count": 37,
+      "example_cves": [
+        "CVE-2016-7444",
+        "CVE-2017-7507",
+        "CVE-2019-3829",
+        "CVE-2019-3836",
+        "CVE-2020-11501"
+      ],
+      "example_vulnerable_version": "3.6.3"
+    },
+    "gptfdisk": {
+      "advisory_count": 25,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2020-0256",
+        "CVE-2021-0308"
+      ],
+      "example_vulnerable_version": null
+    },
+    "graphviz": {
+      "advisory_count": 14,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-18032"
+      ],
+      "example_vulnerable_version": null
+    },
+    "grub": {
+      "advisory_count": 138,
+      "cve_count": 17,
+      "example_cves": [
+        "CVE-2020-10713",
+        "CVE-2020-14308",
+        "CVE-2020-14309",
+        "CVE-2020-14310",
+        "CVE-2020-14311"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gst-plugins-bad1": {
+      "advisory_count": 8,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2016-5843",
+        "CVE-2016-9809",
+        "CVE-2016-9812",
+        "CVE-2016-9813"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gst-plugins-base": {
+      "advisory_count": 67,
+      "cve_count": 12,
+      "example_cves": [
+        "CVE-2019-9928",
+        "CVE-2021-3522",
+        "CVE-2024-47538",
+        "CVE-2024-47541",
+        "CVE-2024-47542"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gst-plugins-base1": {
+      "advisory_count": 10,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2016-9811",
+        "CVE-2017-5837",
+        "CVE-2017-5839",
+        "CVE-2017-5842",
+        "CVE-2017-5844"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gst-plugins-good": {
+      "advisory_count": 9,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2016-10198",
+        "CVE-2016-10199",
+        "CVE-2016-9634",
+        "CVE-2016-9635",
+        "CVE-2016-9636"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gst-plugins-good1": {
+      "advisory_count": 27,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2016-10198",
+        "CVE-2016-10199",
+        "CVE-2016-9634",
+        "CVE-2016-9635",
+        "CVE-2016-9636"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gst-plugins-ugly": {
+      "advisory_count": 2,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-5846",
+        "CVE-2017-5847"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gst-plugins-ugly1": {
+      "advisory_count": 6,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-5846",
+        "CVE-2017-5847"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gstreamer": {
+      "advisory_count": 24,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2021-3497",
+        "CVE-2021-3498"
+      ],
+      "example_vulnerable_version": "1.0.0"
+    },
+    "guile": {
+      "advisory_count": 2,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2016-8605",
+        "CVE-2016-8606"
+      ],
+      "example_vulnerable_version": null
+    },
+    "gvfs": {
+      "advisory_count": 8,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2019-12447",
+        "CVE-2019-12448",
+        "CVE-2019-12449",
+        "CVE-2019-12795"
+      ],
+      "example_vulnerable_version": "1.29.4"
+    },
+    "gzip": {
+      "advisory_count": 17,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2022-1271",
+        "CVE-2026-41992"
+      ],
+      "example_vulnerable_version": null
+    },
+    "haproxy": {
+      "advisory_count": 20,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2019-19330",
+        "CVE-2020-11100",
+        "CVE-2022-0711"
+      ],
+      "example_vulnerable_version": "1.8.0"
+    },
+    "harfbuzz": {
+      "advisory_count": 8,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2022-33068"
+      ],
+      "example_vulnerable_version": null
+    },
+    "haserl": {
+      "advisory_count": 15,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-29133"
+      ],
+      "example_vulnerable_version": null
+    },
+    "haveged": {
+      "advisory_count": 5,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2026-41054"
+      ],
+      "example_vulnerable_version": null
+    },
+    "heimdal": {
+      "advisory_count": 151,
+      "cve_count": 12,
+      "example_cves": [
+        "CVE-2017-11103",
+        "CVE-2017-17439",
+        "CVE-2018-16860",
+        "CVE-2019-12098",
+        "CVE-2019-14870"
+      ],
+      "example_vulnerable_version": "0.8"
+    },
+    "hostapd": {
+      "advisory_count": 293,
+      "cve_count": 17,
+      "example_cves": [
+        "CVE-2017-13077",
+        "CVE-2017-13078",
+        "CVE-2017-13079",
+        "CVE-2017-13080",
+        "CVE-2017-13081"
+      ],
+      "example_vulnerable_version": "2.0"
+    },
+    "htop": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2024-37676"
+      ],
+      "example_vulnerable_version": null
+    },
+    "hunspell": {
+      "advisory_count": 17,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-16707"
+      ],
+      "example_vulnerable_version": null
+    },
+    "hylafax": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-17141"
+      ],
+      "example_vulnerable_version": "6.0.6-r4"
+    },
+    "hylafaxplus": {
+      "advisory_count": 24,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2020-15396",
+        "CVE-2020-15397"
+      ],
+      "example_vulnerable_version": null
+    },
+    "icecast": {
+      "advisory_count": 23,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-18820"
+      ],
+      "example_vulnerable_version": null
+    },
+    "icu": {
+      "advisory_count": 120,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2016-6293",
+        "CVE-2016-7415",
+        "CVE-2017-7867",
+        "CVE-2017-7868",
+        "CVE-2020-10531"
+      ],
+      "example_vulnerable_version": null
+    },
+    "imagemagick": {
+      "advisory_count": 131,
+      "cve_count": 45,
+      "example_cves": [
+        "CVE-2016-4562",
+        "CVE-2016-4563",
+        "CVE-2016-4564",
+        "CVE-2016-5010",
+        "CVE-2016-5118"
+      ],
+      "example_vulnerable_version": "7.0.0-0"
+    },
+    "iniparser": {
+      "advisory_count": 8,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-33461"
+      ],
+      "example_vulnerable_version": null
+    },
+    "intel-ucode": {
+      "advisory_count": 552,
+      "cve_count": 67,
+      "example_cves": [
+        "CVE-2017-5753",
+        "CVE-2017-5754",
+        "CVE-2018-12126",
+        "CVE-2019-11135",
+        "CVE-2020-0548"
+      ],
+      "example_vulnerable_version": null
+    },
+    "iperf3": {
+      "advisory_count": 12,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2023-38403",
+        "CVE-2025-54349",
+        "CVE-2025-54350",
+        "CVE-2025-54351"
+      ],
+      "example_vulnerable_version": "3.2"
+    },
+    "iproute2": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-20795"
+      ],
+      "example_vulnerable_version": null
+    },
+    "iputils": {
+      "advisory_count": 4,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2025-47268",
+        "CVE-2025-48964"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ircii": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-29376"
+      ],
+      "example_vulnerable_version": null
+    },
+    "irssi": {
+      "advisory_count": 276,
+      "cve_count": 28,
+      "example_cves": [
+        "CVE-2016-7044",
+        "CVE-2016-7045",
+        "CVE-2017-10965",
+        "CVE-2017-10966",
+        "CVE-2017-15227"
+      ],
+      "example_vulnerable_version": "1.0.5-r1"
+    },
+    "jansson": {
+      "advisory_count": 15,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-36325"
+      ],
+      "example_vulnerable_version": null
+    },
+    "jasper": {
+      "advisory_count": 8,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-1000050"
+      ],
+      "example_vulnerable_version": null
+    },
+    "jbig2dec": {
+      "advisory_count": 15,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-12268"
+      ],
+      "example_vulnerable_version": null
+    },
+    "jq": {
+      "advisory_count": 89,
+      "cve_count": 23,
+      "example_cves": [
+        "CVE-2016-4074",
+        "CVE-2023-50246",
+        "CVE-2023-50268",
+        "CVE-2024-23337",
+        "CVE-2024-53427"
+      ],
+      "example_vulnerable_version": "2026-04-02"
+    },
+    "json-c": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-12762"
+      ],
+      "example_vulnerable_version": null
+    },
+    "kamailio": {
+      "advisory_count": 28,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2018-14767",
+        "CVE-2018-8828",
+        "CVE-2026-39863"
+      ],
+      "example_vulnerable_version": "6.0.0"
+    },
+    "kea": {
+      "advisory_count": 36,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2019-6472",
+        "CVE-2019-6473",
+        "CVE-2019-6474",
+        "CVE-2025-32801",
+        "CVE-2025-32802"
+      ],
+      "example_vulnerable_version": "1.4.0"
+    },
+    "krb5": {
+      "advisory_count": 150,
+      "cve_count": 16,
+      "example_cves": [
+        "CVE-2015-8629",
+        "CVE-2015-8630",
+        "CVE-2015-8631",
+        "CVE-2016-3119",
+        "CVE-2016-3120"
+      ],
+      "example_vulnerable_version": null
+    },
+    "lame": {
+      "advisory_count": 132,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2015-9099",
+        "CVE-2015-9100",
+        "CVE-2017-11720",
+        "CVE-2017-9410",
+        "CVE-2017-9411"
+      ],
+      "example_vulnerable_version": null
+    },
+    "lcms2": {
+      "advisory_count": 45,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2016-10165",
+        "CVE-2018-16435",
+        "CVE-2026-41254"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ldb": {
+      "advisory_count": 15,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-1140"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ldns": {
+      "advisory_count": 32,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-1000231",
+        "CVE-2017-1000232"
+      ],
+      "example_vulnerable_version": null
+    },
+    "lftp": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-10916"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libao": {
+      "advisory_count": 10,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-11548"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libarchive": {
+      "advisory_count": 164,
+      "cve_count": 26,
+      "example_cves": [
+        "CVE-2015-8934",
+        "CVE-2016-1541",
+        "CVE-2016-4300",
+        "CVE-2016-4302",
+        "CVE-2016-4809"
+      ],
+      "example_vulnerable_version": "3.6.0"
+    },
+    "libass": {
+      "advisory_count": 36,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2016-7969",
+        "CVE-2016-7970",
+        "CVE-2016-7971",
+        "CVE-2016-7972"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libbsd": {
+      "advisory_count": 18,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2016-2090",
+        "CVE-2019-20367"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libcap": {
+      "advisory_count": 11,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2023-2602",
+        "CVE-2023-2603",
+        "CVE-2026-4878"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libcroco": {
+      "advisory_count": 20,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2017-7960",
+        "CVE-2017-7961",
+        "CVE-2017-8834",
+        "CVE-2017-8871"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libde265": {
+      "advisory_count": 425,
+      "cve_count": 41,
+      "example_cves": [
+        "CVE-2020-21594",
+        "CVE-2020-21595",
+        "CVE-2020-21596",
+        "CVE-2020-21597",
+        "CVE-2020-21598"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libdwarf": {
+      "advisory_count": 14,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2015-8538",
+        "CVE-2019-14249"
+      ],
+      "example_vulnerable_version": "1999-12-14"
+    },
+    "libebml": {
+      "advisory_count": 5,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-13615"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libevent": {
+      "advisory_count": 69,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2016-10195",
+        "CVE-2016-10196",
+        "CVE-2016-10197"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libexif": {
+      "advisory_count": 93,
+      "cve_count": 18,
+      "example_cves": [
+        "CVE-2009-3895",
+        "CVE-2012-2812",
+        "CVE-2012-2813",
+        "CVE-2012-2814",
+        "CVE-2012-2836"
+      ],
+      "example_vulnerable_version": "0.6.21-r3"
+    },
+    "libfastjson": {
+      "advisory_count": 10,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-12762"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libgcrypt": {
+      "advisory_count": 75,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2016-6313",
+        "CVE-2017-0379",
+        "CVE-2018-0495",
+        "CVE-2019-12904",
+        "CVE-2019-13627"
+      ],
+      "example_vulnerable_version": "1.8.0"
+    },
+    "libgit2": {
+      "advisory_count": 57,
+      "cve_count": 16,
+      "example_cves": [
+        "CVE-2016-10128",
+        "CVE-2016-10129",
+        "CVE-2016-10130",
+        "CVE-2016-8568",
+        "CVE-2016-8569"
+      ],
+      "example_vulnerable_version": "0.27.2-r0"
+    },
+    "libgsf": {
+      "advisory_count": 10,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-9888"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libheif": {
+      "advisory_count": 9,
+      "cve_count": 8,
+      "example_cves": [
+        "CVE-2019-11471",
+        "CVE-2023-49462",
+        "CVE-2023-49463",
+        "CVE-2025-68431",
+        "CVE-2026-32738"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libice": {
+      "advisory_count": 14,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-2626"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libid3tag": {
+      "advisory_count": 18,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-11550",
+        "CVE-2017-11551"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libidn": {
+      "advisory_count": 92,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2015-8948",
+        "CVE-2016-6261",
+        "CVE-2016-6262",
+        "CVE-2016-6263"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libidn2": {
+      "advisory_count": 26,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2019-12290",
+        "CVE-2019-18224"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libjpeg-turbo": {
+      "advisory_count": 136,
+      "cve_count": 11,
+      "example_cves": [
+        "CVE-2017-15232",
+        "CVE-2018-1152",
+        "CVE-2018-11813",
+        "CVE-2018-14498",
+        "CVE-2018-19664"
+      ],
+      "example_vulnerable_version": "1.5.3-r2"
+    },
+    "libkcapi": {
+      "advisory_count": 12,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2026-71225",
+        "CVE-2026-71226",
+        "CVE-2026-71227"
+      ],
+      "example_vulnerable_version": "0.12.0"
+    },
+    "libksba": {
+      "advisory_count": 22,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2022-3515",
+        "CVE-2022-47629"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libmad": {
+      "advisory_count": 17,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2017-11552",
+        "CVE-2017-8372",
+        "CVE-2017-8373",
+        "CVE-2017-8374",
+        "CVE-2018-7263"
+      ],
+      "example_vulnerable_version": "0.15.1b-r8"
+    },
+    "libmaxminddb": {
+      "advisory_count": 15,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-28241"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libmspack": {
+      "advisory_count": 68,
+      "cve_count": 10,
+      "example_cves": [
+        "CVE-2017-11423",
+        "CVE-2017-6419",
+        "CVE-2018-14679",
+        "CVE-2018-14680",
+        "CVE-2018-14681"
+      ],
+      "example_vulnerable_version": "0.7.1_alpha-r0"
+    },
+    "libpcap": {
+      "advisory_count": 108,
+      "cve_count": 12,
+      "example_cves": [
+        "CVE-2018-16301",
+        "CVE-2019-15161",
+        "CVE-2019-15162",
+        "CVE-2019-15163",
+        "CVE-2019-15164"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libpng": {
+      "advisory_count": 116,
+      "cve_count": 15,
+      "example_cves": [
+        "CVE-2018-14048",
+        "CVE-2018-14550",
+        "CVE-2019-7317",
+        "CVE-2025-64505",
+        "CVE-2025-64506"
+      ],
+      "example_vulnerable_version": "1.6.0"
+    },
+    "libraw": {
+      "advisory_count": 13,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2015-8366",
+        "CVE-2015-8367",
+        "CVE-2017-13735",
+        "CVE-2017-14265",
+        "CVE-2017-16910"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libressl": {
+      "advisory_count": 23,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2017-8301",
+        "CVE-2018-0495",
+        "CVE-2018-0732",
+        "CVE-2020-1971"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libretls": {
+      "advisory_count": 9,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2022-0778"
+      ],
+      "example_vulnerable_version": null
+    },
+    "librsvg": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-20446"
+      ],
+      "example_vulnerable_version": "2.42.0"
+    },
+    "libsamplerate": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-7697"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libseccomp": {
+      "advisory_count": 17,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-9893"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libsndfile": {
+      "advisory_count": 322,
+      "cve_count": 16,
+      "example_cves": [
+        "CVE-2017-12562",
+        "CVE-2017-17456",
+        "CVE-2017-17457",
+        "CVE-2017-7585",
+        "CVE-2017-7741"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libsodium": {
+      "advisory_count": 5,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2025-69277"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libsoup": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-2885"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libspf2": {
+      "advisory_count": 43,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2021-20314",
+        "CVE-2021-33912",
+        "CVE-2021-33913",
+        "CVE-2023-42118"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libssh": {
+      "advisory_count": 17,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2018-10933",
+        "CVE-2019-14889",
+        "CVE-2020-16135",
+        "CVE-2020-1730"
+      ],
+      "example_vulnerable_version": "0.9.0"
+    },
+    "libssh2": {
+      "advisory_count": 199,
+      "cve_count": 16,
+      "example_cves": [
+        "CVE-2016-0787",
+        "CVE-2019-13115",
+        "CVE-2019-17498",
+        "CVE-2019-3855",
+        "CVE-2019-3856"
+      ],
+      "example_vulnerable_version": "0.3"
+    },
+    "libtasn1": {
+      "advisory_count": 88,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2017-10790",
+        "CVE-2017-6891",
+        "CVE-2018-1000654",
+        "CVE-2018-6003",
+        "CVE-2021-46848"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libtirpc": {
+      "advisory_count": 12,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-46828"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libuv": {
+      "advisory_count": 18,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2020-8252",
+        "CVE-2024-24806"
+      ],
+      "example_vulnerable_version": "1.24.0"
+    },
+    "libvirt": {
+      "advisory_count": 35,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2017-1000256",
+        "CVE-2019-10161",
+        "CVE-2019-10166",
+        "CVE-2019-10167",
+        "CVE-2019-10168"
+      ],
+      "example_vulnerable_version": "4.0.0"
+    },
+    "libvncserver": {
+      "advisory_count": 32,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2016-9941",
+        "CVE-2016-9942",
+        "CVE-2018-7225",
+        "CVE-2019-15681"
+      ],
+      "example_vulnerable_version": "0.9.11-r1"
+    },
+    "libvorbis": {
+      "advisory_count": 123,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2017-14160",
+        "CVE-2017-14632",
+        "CVE-2017-14633",
+        "CVE-2018-10392",
+        "CVE-2018-10393"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libvpx": {
+      "advisory_count": 5,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2019-9232",
+        "CVE-2019-9325",
+        "CVE-2019-9371",
+        "CVE-2019-9433",
+        "CVE-2020-0034"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libwebp": {
+      "advisory_count": 20,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2023-1999",
+        "CVE-2023-4863"
+      ],
+      "example_vulnerable_version": "0.4.2"
+    },
+    "libx11": {
+      "advisory_count": 142,
+      "cve_count": 12,
+      "example_cves": [
+        "CVE-2016-7942",
+        "CVE-2016-7943",
+        "CVE-2018-14598",
+        "CVE-2018-14599",
+        "CVE-2018-14600"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxcursor": {
+      "advisory_count": 21,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-16612"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxdmcp": {
+      "advisory_count": 19,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-2625"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxfixes": {
+      "advisory_count": 2,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-7944"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxfont": {
+      "advisory_count": 11,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-16611"
+      ],
+      "example_vulnerable_version": "1.0.0"
+    },
+    "libxfont2": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-16611"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxi": {
+      "advisory_count": 2,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2016-7945",
+        "CVE-2016-7946"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxml2": {
+      "advisory_count": 398,
+      "cve_count": 36,
+      "example_cves": [
+        "CVE-2016-3709",
+        "CVE-2016-5131",
+        "CVE-2016-9318",
+        "CVE-2017-16931",
+        "CVE-2017-5969"
+      ],
+      "example_vulnerable_version": "2.14.0"
+    },
+    "libxpm": {
+      "advisory_count": 53,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2016-10164",
+        "CVE-2022-44617",
+        "CVE-2022-46285",
+        "CVE-2022-4883",
+        "CVE-2023-43788"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxrandr": {
+      "advisory_count": 2,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2016-7947",
+        "CVE-2016-7948"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxslt": {
+      "advisory_count": 121,
+      "cve_count": 8,
+      "example_cves": [
+        "CVE-2017-5029",
+        "CVE-2019-11068",
+        "CVE-2019-13117",
+        "CVE-2019-13118",
+        "CVE-2019-18197"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxtst": {
+      "advisory_count": 4,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2016-7951",
+        "CVE-2016-7952"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxv": {
+      "advisory_count": 2,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-5407"
+      ],
+      "example_vulnerable_version": null
+    },
+    "libxvmc": {
+      "advisory_count": 2,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-7953"
+      ],
+      "example_vulnerable_version": null
+    },
+    "lighttpd": {
+      "advisory_count": 39,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2022-22707",
+        "CVE-2022-41556",
+        "CVE-2023-44487",
+        "CVE-2024-3094",
+        "CVE-2025-8671"
+      ],
+      "example_vulnerable_version": "1.4.56"
+    },
+    "linux-grsec": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-10229"
+      ],
+      "example_vulnerable_version": null
+    },
+    "linux-lts": {
+      "advisory_count": 76,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2020-29568",
+        "CVE-2020-29569",
+        "CVE-2022-41674",
+        "CVE-2022-42719",
+        "CVE-2022-42720"
+      ],
+      "example_vulnerable_version": null
+    },
+    "linux-pam": {
+      "advisory_count": 17,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2020-27780",
+        "CVE-2024-22365"
+      ],
+      "example_vulnerable_version": "1.5.0"
+    },
+    "logrotate": {
+      "advisory_count": 12,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2022-1348"
+      ],
+      "example_vulnerable_version": "3.17.0"
+    },
+    "lua5.3": {
+      "advisory_count": 19,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-6706"
+      ],
+      "example_vulnerable_version": null
+    },
+    "lua5.4": {
+      "advisory_count": 22,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2019-6706",
+        "CVE-2022-28805"
+      ],
+      "example_vulnerable_version": null
+    },
+    "luajit": {
+      "advisory_count": 19,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2020-15890",
+        "CVE-2024-25176",
+        "CVE-2024-25177",
+        "CVE-2024-25178"
+      ],
+      "example_vulnerable_version": null
+    },
+    "lxc": {
+      "advisory_count": 46,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2018-6556",
+        "CVE-2019-5736",
+        "CVE-2022-47952"
+      ],
+      "example_vulnerable_version": "2.0.0"
+    },
+    "lxterminal": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-10369"
+      ],
+      "example_vulnerable_version": null
+    },
+    "lynx": {
+      "advisory_count": 10,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-38165"
+      ],
+      "example_vulnerable_version": null
+    },
+    "lz4": {
+      "advisory_count": 28,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2019-17543",
+        "CVE-2021-3520"
+      ],
+      "example_vulnerable_version": "1.8.3"
+    },
+    "mariadb": {
+      "advisory_count": 1999,
+      "cve_count": 165,
+      "example_cves": [
+        "CVE-2016-0643",
+        "CVE-2016-0647",
+        "CVE-2016-0648",
+        "CVE-2016-0666",
+        "CVE-2016-3452"
+      ],
+      "example_vulnerable_version": "10.2.0"
+    },
+    "mariadb-connector-c": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-13249"
+      ],
+      "example_vulnerable_version": null
+    },
+    "mbedtls": {
+      "advisory_count": 339,
+      "cve_count": 37,
+      "example_cves": [
+        "CVE-2017-14032",
+        "CVE-2017-18187",
+        "CVE-2017-2784",
+        "CVE-2018-0487",
+        "CVE-2018-0488"
+      ],
+      "example_vulnerable_version": null
+    },
+    "mcpp": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-14274"
+      ],
+      "example_vulnerable_version": null
+    },
+    "memcached": {
+      "advisory_count": 22,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2016-8704",
+        "CVE-2016-8705",
+        "CVE-2016-8706",
+        "CVE-2017-9951",
+        "CVE-2018-1000115"
+      ],
+      "example_vulnerable_version": "1.4.7-r0"
+    },
+    "mercurial": {
+      "advisory_count": 18,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2017-1000115",
+        "CVE-2017-1000116",
+        "CVE-2018-1000132",
+        "CVE-2019-3902"
+      ],
+      "example_vulnerable_version": "4.3.1-r0"
+    },
+    "mini_httpd": {
+      "advisory_count": 32,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-17663",
+        "CVE-2018-18778"
+      ],
+      "example_vulnerable_version": null
+    },
+    "monit": {
+      "advisory_count": 6,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2019-11454",
+        "CVE-2019-11455"
+      ],
+      "example_vulnerable_version": null
+    },
+    "mosquitto": {
+      "advisory_count": 214,
+      "cve_count": 14,
+      "example_cves": [
+        "CVE-2017-7650",
+        "CVE-2017-7651",
+        "CVE-2017-7652",
+        "CVE-2017-9868",
+        "CVE-2018-12543"
+      ],
+      "example_vulnerable_version": "2.0.0"
+    },
+    "mozjs60": {
+      "advisory_count": 6,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2019-11707",
+        "CVE-2019-11708"
+      ],
+      "example_vulnerable_version": null
+    },
+    "mpfr4": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-25139"
+      ],
+      "example_vulnerable_version": null
+    },
+    "mpg123": {
+      "advisory_count": 12,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2017-11126",
+        "CVE-2017-9545",
+        "CVE-2024-10573"
+      ],
+      "example_vulnerable_version": null
+    },
+    "mrxvt": {
+      "advisory_count": 2,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-33477"
+      ],
+      "example_vulnerable_version": null
+    },
+    "mupdf": {
+      "advisory_count": 51,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2017-17858",
+        "CVE-2017-5896",
+        "CVE-2017-5991",
+        "CVE-2017-6060",
+        "CVE-2018-1000051"
+      ],
+      "example_vulnerable_version": "1.9a-r8"
+    },
+    "musl": {
+      "advisory_count": 83,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2016-8859",
+        "CVE-2017-15650",
+        "CVE-2019-14697",
+        "CVE-2020-28928",
+        "CVE-2025-26519"
+      ],
+      "example_vulnerable_version": "0.9.12"
+    },
+    "mutt": {
+      "advisory_count": 48,
+      "cve_count": 12,
+      "example_cves": [
+        "CVE-2018-14349",
+        "CVE-2018-14350",
+        "CVE-2018-14351",
+        "CVE-2018-14352",
+        "CVE-2018-14353"
+      ],
+      "example_vulnerable_version": "1.7.2-r0"
+    },
+    "myrepos": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-7032"
+      ],
+      "example_vulnerable_version": "1.20160123-r1"
+    },
+    "ncurses": {
+      "advisory_count": 137,
+      "cve_count": 16,
+      "example_cves": [
+        "CVE-2017-10684",
+        "CVE-2017-10685",
+        "CVE-2017-11112",
+        "CVE-2017-11113",
+        "CVE-2017-13728"
+      ],
+      "example_vulnerable_version": null
+    },
+    "net-snmp": {
+      "advisory_count": 109,
+      "cve_count": 11,
+      "example_cves": [
+        "CVE-2015-8100",
+        "CVE-2019-20892",
+        "CVE-2022-24805",
+        "CVE-2022-24806",
+        "CVE-2022-24807"
+      ],
+      "example_vulnerable_version": "5.4.3"
+    },
+    "nettle": {
+      "advisory_count": 25,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2021-20305",
+        "CVE-2021-3580"
+      ],
+      "example_vulnerable_version": null
+    },
+    "newsbeuter": {
+      "advisory_count": 10,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-12904",
+        "CVE-2017-14500"
+      ],
+      "example_vulnerable_version": null
+    },
+    "nfdump": {
+      "advisory_count": 35,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2019-1010057",
+        "CVE-2019-14459"
+      ],
+      "example_vulnerable_version": null
+    },
+    "nghttp2": {
+      "advisory_count": 70,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2019-9511",
+        "CVE-2019-9513",
+        "CVE-2020-11080",
+        "CVE-2023-35945",
+        "CVE-2023-44487"
+      ],
+      "example_vulnerable_version": null
+    },
+    "nginx": {
+      "advisory_count": 350,
+      "cve_count": 46,
+      "example_cves": [
+        "CVE-2017-7529",
+        "CVE-2018-16843",
+        "CVE-2018-16844",
+        "CVE-2018-16845",
+        "CVE-2019-20372"
+      ],
+      "example_vulnerable_version": "0.5.6"
+    },
+    "ngircd": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-14148"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ngtcp2": {
+      "advisory_count": 5,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2026-40170"
+      ],
+      "example_vulnerable_version": null
+    },
+    "nikto": {
+      "advisory_count": 8,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-11652"
+      ],
+      "example_vulnerable_version": "2.1.6-r1"
+    },
+    "nmap": {
+      "advisory_count": 36,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-18594",
+        "CVE-2018-15173"
+      ],
+      "example_vulnerable_version": null
+    },
+    "nodejs": {
+      "advisory_count": 1262,
+      "cve_count": 130,
+      "example_cves": [
+        "CVE-2016-5129",
+        "CVE-2016-5180",
+        "CVE-2017-1000381",
+        "CVE-2017-14919",
+        "CVE-2017-15896"
+      ],
+      "example_vulnerable_version": "8.9.4-r0"
+    },
+    "nrpe": {
+      "advisory_count": 22,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2020-6581",
+        "CVE-2020-6582"
+      ],
+      "example_vulnerable_version": null
+    },
+    "nsd": {
+      "advisory_count": 17,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2020-28935",
+        "CVE-2026-12244",
+        "CVE-2026-12245",
+        "CVE-2026-12246",
+        "CVE-2026-12490"
+      ],
+      "example_vulnerable_version": "4.14.0"
+    },
+    "nss": {
+      "advisory_count": 103,
+      "cve_count": 15,
+      "example_cves": [
+        "CVE-2017-5461",
+        "CVE-2017-5462",
+        "CVE-2018-12384",
+        "CVE-2018-12404",
+        "CVE-2019-11745"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ntfs-3g": {
+      "advisory_count": 102,
+      "cve_count": 11,
+      "example_cves": [
+        "CVE-2019-9755",
+        "CVE-2021-46790",
+        "CVE-2022-30783",
+        "CVE-2022-30784",
+        "CVE-2022-30785"
+      ],
+      "example_vulnerable_version": null
+    },
+    "oniguruma": {
+      "advisory_count": 16,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-26159"
+      ],
+      "example_vulnerable_version": null
+    },
+    "openjpeg": {
+      "advisory_count": 467,
+      "cve_count": 29,
+      "example_cves": [
+        "CVE-2016-9580",
+        "CVE-2016-9581",
+        "CVE-2017-12982",
+        "CVE-2017-14039",
+        "CVE-2017-14040"
+      ],
+      "example_vulnerable_version": "2.0.0"
+    },
+    "openldap": {
+      "advisory_count": 290,
+      "cve_count": 21,
+      "example_cves": [
+        "CVE-2017-14159",
+        "CVE-2017-17740",
+        "CVE-2017-9287",
+        "CVE-2019-13057",
+        "CVE-2019-13565"
+      ],
+      "example_vulnerable_version": "2.0"
+    },
+    "openrc": {
+      "advisory_count": 15,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2018-21269",
+        "CVE-2021-42341"
+      ],
+      "example_vulnerable_version": "0.44.0"
+    },
+    "opensmtpd": {
+      "advisory_count": 12,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2020-35679",
+        "CVE-2020-35680",
+        "CVE-2020-7247"
+      ],
+      "example_vulnerable_version": null
+    },
+    "openssh": {
+      "advisory_count": 324,
+      "cve_count": 41,
+      "example_cves": [
+        "CVE-2015-8325",
+        "CVE-2016-10009",
+        "CVE-2016-10010",
+        "CVE-2016-10011",
+        "CVE-2016-10012"
+      ],
+      "example_vulnerable_version": "8.9"
+    },
+    "openssl": {
+      "advisory_count": 1041,
+      "cve_count": 147,
+      "example_cves": [
+        "CVE-2016-2105",
+        "CVE-2016-2106",
+        "CVE-2016-2107",
+        "CVE-2016-2109",
+        "CVE-2016-2176"
+      ],
+      "example_vulnerable_version": "1.0.2"
+    },
+    "openssl3": {
+      "advisory_count": 88,
+      "cve_count": 44,
+      "example_cves": [
+        "CVE-2018-0734",
+        "CVE-2018-0735",
+        "CVE-2019-1543",
+        "CVE-2019-1547",
+        "CVE-2019-1549"
+      ],
+      "example_vulnerable_version": null
+    },
+    "openvpn": {
+      "advisory_count": 162,
+      "cve_count": 25,
+      "example_cves": [
+        "CVE-2017-7478",
+        "CVE-2017-7479",
+        "CVE-2018-9336",
+        "CVE-2020-11810",
+        "CVE-2020-15078"
+      ],
+      "example_vulnerable_version": "2.6.0"
+    },
+    "openvpn-auth-ldap": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2024-28820"
+      ],
+      "example_vulnerable_version": null
+    },
+    "opus": {
+      "advisory_count": 7,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2022-25345"
+      ],
+      "example_vulnerable_version": null
+    },
+    "opusfile": {
+      "advisory_count": 10,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2022-47021"
+      ],
+      "example_vulnerable_version": "0.9"
+    },
+    "orc": {
+      "advisory_count": 8,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2024-40897"
+      ],
+      "example_vulnerable_version": null
+    },
+    "p11-kit": {
+      "advisory_count": 49,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2020-29361",
+        "CVE-2020-29362",
+        "CVE-2020-29363",
+        "CVE-2026-2100"
+      ],
+      "example_vulnerable_version": "0.23.6"
+    },
+    "p7zip": {
+      "advisory_count": 52,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2016-9296",
+        "CVE-2017-17969",
+        "CVE-2018-10115",
+        "CVE-2018-5996"
+      ],
+      "example_vulnerable_version": "9.38.1-r0"
+    },
+    "pango": {
+      "advisory_count": 18,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2018-15120",
+        "CVE-2019-1010238"
+      ],
+      "example_vulnerable_version": "1.42.0"
+    },
+    "patch": {
+      "advisory_count": 126,
+      "cve_count": 8,
+      "example_cves": [
+        "CVE-2016-10713",
+        "CVE-2018-1000156",
+        "CVE-2018-20969",
+        "CVE-2018-6951",
+        "CVE-2018-6952"
+      ],
+      "example_vulnerable_version": null
+    },
+    "patchwork": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-13122"
+      ],
+      "example_vulnerable_version": "1.1"
+    },
+    "pcre": {
+      "advisory_count": 81,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2016-1283",
+        "CVE-2016-3191",
+        "CVE-2017-11164",
+        "CVE-2017-16231",
+        "CVE-2017-7186"
+      ],
+      "example_vulnerable_version": null
+    },
+    "pcre2": {
+      "advisory_count": 53,
+      "cve_count": 12,
+      "example_cves": [
+        "CVE-2022-1586",
+        "CVE-2022-1587",
+        "CVE-2022-41409",
+        "CVE-2025-58050",
+        "CVE-2026-103111"
+      ],
+      "example_vulnerable_version": "10.30"
+    },
+    "perl": {
+      "advisory_count": 289,
+      "cve_count": 24,
+      "example_cves": [
+        "CVE-2016-1238",
+        "CVE-2016-9840",
+        "CVE-2016-9841",
+        "CVE-2016-9842",
+        "CVE-2016-9843"
+      ],
+      "example_vulnerable_version": "5.9.4"
+    },
+    "perl-authen-sasl": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2025-40918"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-cgi-session": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2026-56016"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-compress-raw-zlib": {
+      "advisory_count": 5,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2026-3381"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-config-inifiles": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2026-11527"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-convert-asn1": {
+      "advisory_count": 14,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2013-7488"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-cpanel-json-xs": {
+      "advisory_count": 5,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2025-40929"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-crypt-urandom": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2026-2474"
+      ],
+      "example_vulnerable_version": "0.41"
+    },
+    "perl-cryptx": {
+      "advisory_count": 11,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2019-17362",
+        "CVE-2026-41564"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-css-minifier-xs": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2026-13593"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-dbi": {
+      "advisory_count": 45,
+      "cve_count": 12,
+      "example_cves": [
+        "CVE-2014-10402",
+        "CVE-2020-14392",
+        "CVE-2020-14393",
+        "CVE-2026-10879",
+        "CVE-2026-14380"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-email-address": {
+      "advisory_count": 18,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-12558"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-email-address-list": {
+      "advisory_count": 15,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-18898"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-encode": {
+      "advisory_count": 10,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-36770"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-gd": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2026-11526"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-http-body": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2013-4407"
+      ],
+      "example_vulnerable_version": "1.22-r1"
+    },
+    "perl-javascript-minifier-xs": {
+      "advisory_count": 2,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2026-56017",
+        "CVE-2026-56018"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-lwp-protocol-https": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2014-3230"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-module-scandeps": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2024-10224"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-net-cidr-lite": {
+      "advisory_count": 10,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2026-40198",
+        "CVE-2026-40199",
+        "CVE-2026-45190",
+        "CVE-2026-45191"
+      ],
+      "example_vulnerable_version": null
+    },
+    "perl-yaml-syck": {
+      "advisory_count": 5,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2026-13713",
+        "CVE-2026-4177",
+        "CVE-2026-57075",
+        "CVE-2026-57076",
+        "CVE-2026-57077"
+      ],
+      "example_vulnerable_version": null
+    },
+    "pgpool": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2024-45624"
+      ],
+      "example_vulnerable_version": null
+    },
+    "php": {
+      "advisory_count": 14,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2016-7411",
+        "CVE-2016-7412",
+        "CVE-2016-7413",
+        "CVE-2016-7414",
+        "CVE-2016-7416"
+      ],
+      "example_vulnerable_version": null
+    },
+    "php-phpmailer": {
+      "advisory_count": 4,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2016-10033",
+        "CVE-2016-10045"
+      ],
+      "example_vulnerable_version": null
+    },
+    "php5": {
+      "advisory_count": 25,
+      "cve_count": 16,
+      "example_cves": [
+        "CVE-2016-10166",
+        "CVE-2016-1283",
+        "CVE-2017-9224",
+        "CVE-2017-9226",
+        "CVE-2017-9227"
+      ],
+      "example_vulnerable_version": "5.6.9-r1"
+    },
+    "php5-phpmailer": {
+      "advisory_count": 4,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2016-10033",
+        "CVE-2016-10045"
+      ],
+      "example_vulnerable_version": null
+    },
+    "phpmyadmin": {
+      "advisory_count": 65,
+      "cve_count": 47,
+      "example_cves": [
+        "CVE-2016-6606",
+        "CVE-2016-6607",
+        "CVE-2016-6608",
+        "CVE-2016-6609",
+        "CVE-2016-6610"
+      ],
+      "example_vulnerable_version": null
+    },
+    "pidgin": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-2640"
+      ],
+      "example_vulnerable_version": null
+    },
+    "pixman": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2022-44638"
+      ],
+      "example_vulnerable_version": null
+    },
+    "pjproject": {
+      "advisory_count": 243,
+      "cve_count": 38,
+      "example_cves": [
+        "CVE-2020-15260",
+        "CVE-2021-21375",
+        "CVE-2021-32686",
+        "CVE-2021-37706",
+        "CVE-2021-41141"
+      ],
+      "example_vulnerable_version": null
+    },
+    "pkgconf": {
+      "advisory_count": 11,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-24056"
+      ],
+      "example_vulnerable_version": null
+    },
+    "polkit": {
+      "advisory_count": 7,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2018-19788",
+        "CVE-2019-6133"
+      ],
+      "example_vulnerable_version": "0.99-r0"
+    },
+    "poppler": {
+      "advisory_count": 36,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2019-9959",
+        "CVE-2020-27778",
+        "CVE-2020-35702",
+        "CVE-2024-6239"
+      ],
+      "example_vulnerable_version": null
+    },
+    "postfixadmin": {
+      "advisory_count": 4,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-5930"
+      ],
+      "example_vulnerable_version": null
+    },
+    "postgresql": {
+      "advisory_count": 289,
+      "cve_count": 41,
+      "example_cves": [
+        "CVE-2017-15098",
+        "CVE-2017-15099",
+        "CVE-2017-7484",
+        "CVE-2017-7485",
+        "CVE-2017-7486"
+      ],
+      "example_vulnerable_version": "15.0"
+    },
+    "postgresql-common": {
+      "advisory_count": 10,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-3466"
+      ],
+      "example_vulnerable_version": null
+    },
+    "postgresql13": {
+      "advisory_count": 31,
+      "cve_count": 16,
+      "example_cves": [
+        "CVE-2021-20229",
+        "CVE-2021-23214",
+        "CVE-2021-23222",
+        "CVE-2021-32027",
+        "CVE-2021-32028"
+      ],
+      "example_vulnerable_version": null
+    },
+    "postgresql14": {
+      "advisory_count": 191,
+      "cve_count": 52,
+      "example_cves": [
+        "CVE-2017-15098",
+        "CVE-2017-15099",
+        "CVE-2017-7484",
+        "CVE-2017-7485",
+        "CVE-2017-7486"
+      ],
+      "example_vulnerable_version": "9.6.5-r1"
+    },
+    "postgresql15": {
+      "advisory_count": 229,
+      "cve_count": 70,
+      "example_cves": [
+        "CVE-2017-15098",
+        "CVE-2017-15099",
+        "CVE-2017-7484",
+        "CVE-2017-7485",
+        "CVE-2017-7486"
+      ],
+      "example_vulnerable_version": null
+    },
+    "postgresql16": {
+      "advisory_count": 160,
+      "cve_count": 57,
+      "example_cves": [
+        "CVE-2023-5868",
+        "CVE-2023-5869",
+        "CVE-2023-5870",
+        "CVE-2024-0985",
+        "CVE-2024-10976"
+      ],
+      "example_vulnerable_version": null
+    },
+    "postgresql17": {
+      "advisory_count": 216,
+      "cve_count": 54,
+      "example_cves": [
+        "CVE-2024-10976",
+        "CVE-2024-10977",
+        "CVE-2024-10978",
+        "CVE-2024-10979",
+        "CVE-2025-1094"
+      ],
+      "example_vulnerable_version": null
+    },
+    "postgresql18": {
+      "advisory_count": 92,
+      "cve_count": 46,
+      "example_cves": [
+        "CVE-2025-12817",
+        "CVE-2025-12818",
+        "CVE-2026-14662",
+        "CVE-2026-14663",
+        "CVE-2026-14664"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ppp": {
+      "advisory_count": 28,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2020-8597",
+        "CVE-2022-4603"
+      ],
+      "example_vulnerable_version": null
+    },
+    "privoxy": {
+      "advisory_count": 221,
+      "cve_count": 17,
+      "example_cves": [
+        "CVE-2021-20210",
+        "CVE-2021-20211",
+        "CVE-2021-20212",
+        "CVE-2021-20213",
+        "CVE-2021-20214"
+      ],
+      "example_vulnerable_version": null
+    },
+    "procps": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-4016"
+      ],
+      "example_vulnerable_version": "3.3.0"
+    },
+    "procps-ng": {
+      "advisory_count": 7,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-4016"
+      ],
+      "example_vulnerable_version": null
+    },
+    "protobuf-c": {
+      "advisory_count": 19,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2021-3121",
+        "CVE-2022-33070"
+      ],
+      "example_vulnerable_version": null
+    },
+    "putty": {
+      "advisory_count": 112,
+      "cve_count": 11,
+      "example_cves": [
+        "CVE-2017-6542",
+        "CVE-2019-17068",
+        "CVE-2019-17069",
+        "CVE-2019-9894",
+        "CVE-2019-9895"
+      ],
+      "example_vulnerable_version": "0.68"
+    },
+    "py-django": {
+      "advisory_count": 109,
+      "cve_count": 22,
+      "example_cves": [
+        "CVE-2016-9013",
+        "CVE-2016-9014",
+        "CVE-2017-12794",
+        "CVE-2017-7233",
+        "CVE-2017-7234"
+      ],
+      "example_vulnerable_version": "1.8.8-r0"
+    },
+    "py-openssl": {
+      "advisory_count": 6,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2018-1000807",
+        "CVE-2018-1000808"
+      ],
+      "example_vulnerable_version": "17.0.0-r0"
+    },
+    "py-paramiko": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-1000805"
+      ],
+      "example_vulnerable_version": "2.1.2-r0"
+    },
+    "py-pillow": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-23437"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-babel": {
+      "advisory_count": 9,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-42771"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-certifi": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-37920"
+      ],
+      "example_vulnerable_version": "2015.4.28"
+    },
+    "py3-cryptography": {
+      "advisory_count": 17,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2020-25659",
+        "CVE-2020-36242",
+        "CVE-2023-23931",
+        "CVE-2023-38325",
+        "CVE-2026-26007"
+      ],
+      "example_vulnerable_version": "1.8"
+    },
+    "py3-django": {
+      "advisory_count": 44,
+      "cve_count": 22,
+      "example_cves": [
+        "CVE-2016-9013",
+        "CVE-2016-9014",
+        "CVE-2017-12794",
+        "CVE-2017-7233",
+        "CVE-2017-7234"
+      ],
+      "example_vulnerable_version": "1.8.8-r0"
+    },
+    "py3-idna": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2024-3651"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-jinja2": {
+      "advisory_count": 48,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2020-28493",
+        "CVE-2024-22195",
+        "CVE-2024-34064",
+        "CVE-2024-56201",
+        "CVE-2024-56326"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-lxml": {
+      "advisory_count": 36,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2020-27783",
+        "CVE-2021-28957",
+        "CVE-2021-43818",
+        "CVE-2022-2309",
+        "CVE-2026-41066"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-mako": {
+      "advisory_count": 9,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2022-40023"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-paramiko": {
+      "advisory_count": 8,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2018-1000805",
+        "CVE-2018-7750"
+      ],
+      "example_vulnerable_version": "2.4.0-r0"
+    },
+    "py3-pillow": {
+      "advisory_count": 65,
+      "cve_count": 28,
+      "example_cves": [
+        "CVE-2019-19911",
+        "CVE-2020-35653",
+        "CVE-2020-35654",
+        "CVE-2020-35655",
+        "CVE-2020-5310"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-psutil": {
+      "advisory_count": 2,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-18874"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-pygments": {
+      "advisory_count": 13,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2021-20270",
+        "CVE-2021-27291"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-requests": {
+      "advisory_count": 18,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2024-35195",
+        "CVE-2024-47081",
+        "CVE-2026-25645"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-setuptools": {
+      "advisory_count": 8,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2024-6345"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-urllib3": {
+      "advisory_count": 53,
+      "cve_count": 8,
+      "example_cves": [
+        "CVE-2020-26137",
+        "CVE-2021-28363",
+        "CVE-2023-43804",
+        "CVE-2023-45803",
+        "CVE-2025-21441"
+      ],
+      "example_vulnerable_version": "1.26.9-r0"
+    },
+    "py3-werkzeug": {
+      "advisory_count": 9,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2022-29361",
+        "CVE-2023-46136",
+        "CVE-2024-49767",
+        "CVE-2025-66221",
+        "CVE-2026-21860"
+      ],
+      "example_vulnerable_version": null
+    },
+    "py3-wheel": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2026-24049"
+      ],
+      "example_vulnerable_version": "0.40.0"
+    },
+    "py3-yaml": {
+      "advisory_count": 28,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2020-14343",
+        "CVE-2020-1747"
+      ],
+      "example_vulnerable_version": null
+    },
+    "python": {
+      "advisory_count": 2,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2014-4616",
+        "CVE-2017-1000158"
+      ],
+      "example_vulnerable_version": "2.7.0"
+    },
+    "python2": {
+      "advisory_count": 52,
+      "cve_count": 12,
+      "example_cves": [
+        "CVE-2014-4616",
+        "CVE-2017-1000158",
+        "CVE-2018-1060",
+        "CVE-2018-1061",
+        "CVE-2018-14647"
+      ],
+      "example_vulnerable_version": "2.7.9-r4"
+    },
+    "python3": {
+      "advisory_count": 404,
+      "cve_count": 65,
+      "example_cves": [
+        "CVE-2015-20107",
+        "CVE-2015-2104",
+        "CVE-2018-1060",
+        "CVE-2018-1061",
+        "CVE-2018-14647"
+      ],
+      "example_vulnerable_version": "3.6.5-r0"
+    },
+    "python3-tkinter": {
+      "advisory_count": 10,
+      "cve_count": 5,
+      "example_cves": [
+        "CVE-2019-5010",
+        "CVE-2024-12718",
+        "CVE-2025-4138",
+        "CVE-2025-4330",
+        "CVE-2025-4517"
+      ],
+      "example_vulnerable_version": null
+    },
+    "qemu": {
+      "advisory_count": 144,
+      "cve_count": 27,
+      "example_cves": [
+        "CVE-2016-10155",
+        "CVE-2016-7994",
+        "CVE-2016-7995",
+        "CVE-2016-8576",
+        "CVE-2016-8577"
+      ],
+      "example_vulnerable_version": null
+    },
+    "qpdf": {
+      "advisory_count": 16,
+      "cve_count": 8,
+      "example_cves": [
+        "CVE-2017-11624",
+        "CVE-2017-11625",
+        "CVE-2017-11626",
+        "CVE-2017-11627",
+        "CVE-2017-12595"
+      ],
+      "example_vulnerable_version": null
+    },
+    "quagga": {
+      "advisory_count": 24,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-16227",
+        "CVE-2017-5495"
+      ],
+      "example_vulnerable_version": null
+    },
+    "quickjs-ng": {
+      "advisory_count": 12,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2025-46687",
+        "CVE-2025-46688",
+        "CVE-2026-0821",
+        "CVE-2026-0822",
+        "CVE-2026-1144"
+      ],
+      "example_vulnerable_version": null
+    },
+    "rabbitmq-c": {
+      "advisory_count": 5,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-35789"
+      ],
+      "example_vulnerable_version": null
+    },
+    "radvd": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2026-48715"
+      ],
+      "example_vulnerable_version": null
+    },
+    "rdesktop": {
+      "advisory_count": 95,
+      "cve_count": 19,
+      "example_cves": [
+        "CVE-2018-20174",
+        "CVE-2018-20175",
+        "CVE-2018-20176",
+        "CVE-2018-20177",
+        "CVE-2018-20178"
+      ],
+      "example_vulnerable_version": "1.8.3-r5"
+    },
+    "re2c": {
+      "advisory_count": 14,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-11958"
+      ],
+      "example_vulnerable_version": null
+    },
+    "redis": {
+      "advisory_count": 234,
+      "cve_count": 38,
+      "example_cves": [
+        "CVE-2015-8080",
+        "CVE-2018-11218",
+        "CVE-2018-11219",
+        "CVE-2019-10192",
+        "CVE-2019-10193"
+      ],
+      "example_vulnerable_version": "5.0.0"
+    },
+    "roundcubemail": {
+      "advisory_count": 7,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-16651",
+        "CVE-2017-8114"
+      ],
+      "example_vulnerable_version": null
+    },
+    "rpcbind": {
+      "advisory_count": 18,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2017-8779"
+      ],
+      "example_vulnerable_version": null
+    },
+    "rssh": {
+      "advisory_count": 30,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2019-1000018",
+        "CVE-2019-3463",
+        "CVE-2019-3464"
+      ],
+      "example_vulnerable_version": null
+    },
+    "rsync": {
+      "advisory_count": 290,
+      "cve_count": 53,
+      "example_cves": [
+        "CVE-2017-16548",
+        "CVE-2017-17433",
+        "CVE-2017-17434",
+        "CVE-2018-5764",
+        "CVE-2020-14387"
+      ],
+      "example_vulnerable_version": "3.2.3"
+    },
+    "rsyslog": {
+      "advisory_count": 63,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2019-17040",
+        "CVE-2019-17041",
+        "CVE-2019-17042",
+        "CVE-2022-24903"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ruby": {
+      "advisory_count": 715,
+      "cve_count": 52,
+      "example_cves": [
+        "CVE-2012-6708",
+        "CVE-2015-9251",
+        "CVE-2017-0898",
+        "CVE-2017-0899",
+        "CVE-2017-0900"
+      ],
+      "example_vulnerable_version": "2.4.0"
+    },
+    "ruby-bundler": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-43809"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ruby-net-imap": {
+      "advisory_count": 5,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2025-27219",
+        "CVE-2025-43857"
+      ],
+      "example_vulnerable_version": null
+    },
+    "ruby-rexml": {
+      "advisory_count": 32,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2024-39908",
+        "CVE-2024-41123",
+        "CVE-2024-41946",
+        "CVE-2024-43398",
+        "CVE-2024-49761"
+      ],
+      "example_vulnerable_version": "3.3.3"
+    },
+    "rust": {
+      "advisory_count": 60,
+      "cve_count": 14,
+      "example_cves": [
+        "CVE-2019-12083",
+        "CVE-2019-16760",
+        "CVE-2020-36323",
+        "CVE-2021-29922",
+        "CVE-2021-31162"
+      ],
+      "example_vulnerable_version": "1.34.0"
+    },
+    "rxvt-unicode": {
+      "advisory_count": 2,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-33477"
+      ],
+      "example_vulnerable_version": null
+    },
+    "samba": {
+      "advisory_count": 1030,
+      "cve_count": 92,
+      "example_cves": [
+        "CVE-2016-2123",
+        "CVE-2016-2124",
+        "CVE-2016-2125",
+        "CVE-2016-2126",
+        "CVE-2017-11103"
+      ],
+      "example_vulnerable_version": "4.16.0"
+    },
+    "samurai": {
+      "advisory_count": 24,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2021-30218",
+        "CVE-2021-30219"
+      ],
+      "example_vulnerable_version": null
+    },
+    "screen": {
+      "advisory_count": 72,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2017-5618",
+        "CVE-2020-9366",
+        "CVE-2021-26937",
+        "CVE-2023-24626",
+        "CVE-2025-23395"
+      ],
+      "example_vulnerable_version": null
+    },
+    "sdl": {
+      "advisory_count": 72,
+      "cve_count": 12,
+      "example_cves": [
+        "CVE-2019-13616",
+        "CVE-2019-7572",
+        "CVE-2019-7573",
+        "CVE-2019-7574",
+        "CVE-2019-7575"
+      ],
+      "example_vulnerable_version": null
+    },
+    "sdl2": {
+      "advisory_count": 50,
+      "cve_count": 10,
+      "example_cves": [
+        "CVE-2019-7572",
+        "CVE-2019-7573",
+        "CVE-2019-7574",
+        "CVE-2019-7575",
+        "CVE-2019-7576"
+      ],
+      "example_vulnerable_version": null
+    },
+    "sdl2_image": {
+      "advisory_count": 102,
+      "cve_count": 23,
+      "example_cves": [
+        "CVE-2017-12122",
+        "CVE-2017-14440",
+        "CVE-2017-14441",
+        "CVE-2017-14442",
+        "CVE-2017-14448"
+      ],
+      "example_vulnerable_version": "2.0.1-r1"
+    },
+    "sdl_image": {
+      "advisory_count": 5,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2019-13616"
+      ],
+      "example_vulnerable_version": null
+    },
+    "snmptt": {
+      "advisory_count": 13,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-24361"
+      ],
+      "example_vulnerable_version": null
+    },
+    "snort": {
+      "advisory_count": 10,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-40114"
+      ],
+      "example_vulnerable_version": "2.0.0"
+    },
+    "socat": {
+      "advisory_count": 8,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2024-54661",
+        "CVE-2026-56123"
+      ],
+      "example_vulnerable_version": "1.8.0.0"
+    },
+    "sofia-sip": {
+      "advisory_count": 44,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2022-31001",
+        "CVE-2022-31002",
+        "CVE-2022-31003",
+        "CVE-2023-22741"
+      ],
+      "example_vulnerable_version": null
+    },
+    "spamassassin": {
+      "advisory_count": 147,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2016-1238",
+        "CVE-2017-15705",
+        "CVE-2018-11780",
+        "CVE-2018-11781",
+        "CVE-2018-11805"
+      ],
+      "example_vulnerable_version": null
+    },
+    "spice": {
+      "advisory_count": 122,
+      "cve_count": 7,
+      "example_cves": [
+        "CVE-2016-9577",
+        "CVE-2016-9578",
+        "CVE-2017-7506",
+        "CVE-2018-10873",
+        "CVE-2019-3813"
+      ],
+      "example_vulnerable_version": "0.5.2"
+    },
+    "sqlite": {
+      "advisory_count": 164,
+      "cve_count": 22,
+      "example_cves": [
+        "CVE-2017-10989",
+        "CVE-2017-15286",
+        "CVE-2018-20346",
+        "CVE-2018-8740",
+        "CVE-2019-16168"
+      ],
+      "example_vulnerable_version": "1.0.12"
+    },
+    "squashfs-tools": {
+      "advisory_count": 25,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2021-40153",
+        "CVE-2021-41072"
+      ],
+      "example_vulnerable_version": null
+    },
+    "squid": {
+      "advisory_count": 441,
+      "cve_count": 44,
+      "example_cves": [
+        "CVE-2016-10002",
+        "CVE-2016-10003",
+        "CVE-2018-1000024",
+        "CVE-2018-1000027",
+        "CVE-2018-1172"
+      ],
+      "example_vulnerable_version": "5.0"
+    },
+    "sshfs": {
+      "advisory_count": 10,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2026-47187",
+        "CVE-2026-48711"
+      ],
+      "example_vulnerable_version": null
+    },
+    "strongswan": {
+      "advisory_count": 217,
+      "cve_count": 16,
+      "example_cves": [
+        "CVE-2017-11185",
+        "CVE-2017-9022",
+        "CVE-2017-9023",
+        "CVE-2018-10811",
+        "CVE-2018-16151"
+      ],
+      "example_vulnerable_version": "4.0.0"
+    },
+    "subversion": {
+      "advisory_count": 128,
+      "cve_count": 9,
+      "example_cves": [
+        "CVE-2017-9800",
+        "CVE-2018-11782",
+        "CVE-2018-11803",
+        "CVE-2019-0203",
+        "CVE-2020-17525"
+      ],
+      "example_vulnerable_version": "1.10.0"
+    },
+    "sudo": {
+      "advisory_count": 47,
+      "cve_count": 8,
+      "example_cves": [
+        "CVE-2017-1000368",
+        "CVE-2019-14287",
+        "CVE-2019-18634",
+        "CVE-2021-23239",
+        "CVE-2021-23240"
+      ],
+      "example_vulnerable_version": "1.8.0"
+    },
+    "supervisor": {
+      "advisory_count": 35,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-11610",
+        "CVE-2019-12105"
+      ],
+      "example_vulnerable_version": null
+    },
+    "syslog-ng": {
+      "advisory_count": 8,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2022-38725"
+      ],
+      "example_vulnerable_version": null
+    },
+    "taglib": {
+      "advisory_count": 4,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-12678",
+        "CVE-2018-11439"
+      ],
+      "example_vulnerable_version": "1.9.1-r1"
+    },
+    "tar": {
+      "advisory_count": 84,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2016-6321",
+        "CVE-2018-20482",
+        "CVE-2021-20193",
+        "CVE-2021-32803",
+        "CVE-2021-32804"
+      ],
+      "example_vulnerable_version": "4.0.0"
+    },
+    "tcpdump": {
+      "advisory_count": 1413,
+      "cve_count": 70,
+      "example_cves": [
+        "CVE-2016-7922",
+        "CVE-2016-7923",
+        "CVE-2016-7924",
+        "CVE-2016-7925",
+        "CVE-2016-7926"
+      ],
+      "example_vulnerable_version": null
+    },
+    "tcpflow": {
+      "advisory_count": 32,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2018-14938",
+        "CVE-2018-18409"
+      ],
+      "example_vulnerable_version": null
+    },
+    "tiff": {
+      "advisory_count": 1162,
+      "cve_count": 100,
+      "example_cves": [
+        "CVE-2014-8127",
+        "CVE-2016-3186",
+        "CVE-2016-3621",
+        "CVE-2016-3622",
+        "CVE-2016-3623"
+      ],
+      "example_vulnerable_version": null
+    },
+    "tinc": {
+      "advisory_count": 54,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2018-16737",
+        "CVE-2018-16738",
+        "CVE-2018-16758"
+      ],
+      "example_vulnerable_version": "1.0.30"
+    },
+    "tinyproxy": {
+      "advisory_count": 18,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2022-40468",
+        "CVE-2023-49606"
+      ],
+      "example_vulnerable_version": null
+    },
+    "tmux": {
+      "advisory_count": 15,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2020-27347"
+      ],
+      "example_vulnerable_version": "2.9"
+    },
+    "u-boot": {
+      "advisory_count": 22,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2021-27097",
+        "CVE-2021-27138"
+      ],
+      "example_vulnerable_version": null
+    },
+    "unbound": {
+      "advisory_count": 233,
+      "cve_count": 45,
+      "example_cves": [
+        "CVE-2019-16866",
+        "CVE-2019-18934",
+        "CVE-2020-12662",
+        "CVE-2020-12663",
+        "CVE-2022-30698"
+      ],
+      "example_vulnerable_version": "1.6.4"
+    },
+    "unzip": {
+      "advisory_count": 235,
+      "cve_count": 14,
+      "example_cves": [
+        "CVE-2014-8139",
+        "CVE-2014-8140",
+        "CVE-2014-8141",
+        "CVE-2014-9636",
+        "CVE-2014-9913"
+      ],
+      "example_vulnerable_version": null
+    },
+    "util-linux": {
+      "advisory_count": 79,
+      "cve_count": 14,
+      "example_cves": [
+        "CVE-2021-37600",
+        "CVE-2021-3995",
+        "CVE-2021-3996",
+        "CVE-2022-0563",
+        "CVE-2024-28085"
+      ],
+      "example_vulnerable_version": "2.34"
+    },
+    "uwsgi": {
+      "advisory_count": 25,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2018-6758",
+        "CVE-2018-7490"
+      ],
+      "example_vulnerable_version": "2.0.9-r2"
+    },
+    "valkey": {
+      "advisory_count": 90,
+      "cve_count": 19,
+      "example_cves": [
+        "CVE-2024-31227",
+        "CVE-2024-31228",
+        "CVE-2024-31449",
+        "CVE-2024-46981",
+        "CVE-2024-51741"
+      ],
+      "example_vulnerable_version": "8.0.0"
+    },
+    "varnish": {
+      "advisory_count": 139,
+      "cve_count": 13,
+      "example_cves": [
+        "CVE-2017-12425",
+        "CVE-2017-8807",
+        "CVE-2019-15892",
+        "CVE-2021-36740",
+        "CVE-2022-23959"
+      ],
+      "example_vulnerable_version": "4.1.0"
+    },
+    "vim": {
+      "advisory_count": 1127,
+      "cve_count": 167,
+      "example_cves": [
+        "CVE-2016-1248",
+        "CVE-2017-5953",
+        "CVE-2017-6349",
+        "CVE-2017-6350",
+        "CVE-2019-12735"
+      ],
+      "example_vulnerable_version": "8.2.3430"
+    },
+    "virglrenderer": {
+      "advisory_count": 4,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2019-18388",
+        "CVE-2019-18389",
+        "CVE-2019-18390",
+        "CVE-2019-18391"
+      ],
+      "example_vulnerable_version": null
+    },
+    "vte": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2012-2738"
+      ],
+      "example_vulnerable_version": null
+    },
+    "w3m": {
+      "advisory_count": 6,
+      "cve_count": 6,
+      "example_cves": [
+        "CVE-2018-6196",
+        "CVE-2018-6197",
+        "CVE-2018-6198",
+        "CVE-2022-38223",
+        "CVE-2023-38252"
+      ],
+      "example_vulnerable_version": "0.5.5-r0"
+    },
+    "wavpack": {
+      "advisory_count": 136,
+      "cve_count": 18,
+      "example_cves": [
+        "CVE-2016-10169",
+        "CVE-2016-10170",
+        "CVE-2016-10171",
+        "CVE-2016-10172",
+        "CVE-2018-10340"
+      ],
+      "example_vulnerable_version": "5.1.0-r2"
+    },
+    "weechat": {
+      "advisory_count": 13,
+      "cve_count": 2,
+      "example_cves": [
+        "CVE-2017-14727",
+        "CVE-2017-8073"
+      ],
+      "example_vulnerable_version": null
+    },
+    "wget": {
+      "advisory_count": 105,
+      "cve_count": 8,
+      "example_cves": [
+        "CVE-2016-4971",
+        "CVE-2017-13089",
+        "CVE-2017-13090",
+        "CVE-2017-6508",
+        "CVE-2018-0494"
+      ],
+      "example_vulnerable_version": null
+    },
+    "wireshark": {
+      "advisory_count": 69,
+      "cve_count": 69,
+      "example_cves": [
+        "CVE-2016-6505",
+        "CVE-2016-6506",
+        "CVE-2016-6508",
+        "CVE-2016-6509",
+        "CVE-2016-6510"
+      ],
+      "example_vulnerable_version": "2.2.0"
+    },
+    "wpa_supplicant": {
+      "advisory_count": 370,
+      "cve_count": 24,
+      "example_cves": [
+        "CVE-2016-4476",
+        "CVE-2016-4477",
+        "CVE-2017-13077",
+        "CVE-2017-13078",
+        "CVE-2017-13079"
+      ],
+      "example_vulnerable_version": "0.6.7"
+    },
+    "xapian-core": {
+      "advisory_count": 3,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2018-0499"
+      ],
+      "example_vulnerable_version": null
+    },
+    "xen": {
+      "advisory_count": 4245,
+      "cve_count": 343,
+      "example_cves": [
+        "CVE-2016-10013",
+        "CVE-2016-10024",
+        "CVE-2016-10025",
+        "CVE-2016-5403",
+        "CVE-2016-6258"
+      ],
+      "example_vulnerable_version": "4.14.0"
+    },
+    "xkbcomp": {
+      "advisory_count": 28,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2018-15853",
+        "CVE-2018-15859",
+        "CVE-2018-15861",
+        "CVE-2018-15863"
+      ],
+      "example_vulnerable_version": null
+    },
+    "xorg-server": {
+      "advisory_count": 129,
+      "cve_count": 23,
+      "example_cves": [
+        "CVE-2017-12176",
+        "CVE-2017-12177",
+        "CVE-2017-12178",
+        "CVE-2017-12179",
+        "CVE-2017-12180"
+      ],
+      "example_vulnerable_version": "1.9.4-r1"
+    },
+    "xrdp": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2021-36158"
+      ],
+      "example_vulnerable_version": null
+    },
+    "xz": {
+      "advisory_count": 30,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2022-1271",
+        "CVE-2024-3094",
+        "CVE-2025-31115",
+        "CVE-2026-34743"
+      ],
+      "example_vulnerable_version": null
+    },
+    "yajl": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-33460"
+      ],
+      "example_vulnerable_version": null
+    },
+    "yaml": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2014-9130"
+      ],
+      "example_vulnerable_version": null
+    },
+    "zabbix": {
+      "advisory_count": 1,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2016-10134"
+      ],
+      "example_vulnerable_version": null
+    },
+    "zeromq": {
+      "advisory_count": 53,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2019-13132",
+        "CVE-2019-6250",
+        "CVE-2020-15166"
+      ],
+      "example_vulnerable_version": null
+    },
+    "zfs": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-49298"
+      ],
+      "example_vulnerable_version": null
+    },
+    "zfs-lts": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-49298"
+      ],
+      "example_vulnerable_version": null
+    },
+    "zfs-rpi": {
+      "advisory_count": 6,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2023-49298"
+      ],
+      "example_vulnerable_version": null
+    },
+    "zlib": {
+      "advisory_count": 72,
+      "cve_count": 11,
+      "example_cves": [
+        "CVE-2016-9840",
+        "CVE-2016-9841",
+        "CVE-2016-9842",
+        "CVE-2016-9843",
+        "CVE-2018-25032"
+      ],
+      "example_vulnerable_version": "1.2.3.4"
+    },
+    "zlib-ng": {
+      "advisory_count": 2,
+      "cve_count": 1,
+      "example_cves": [
+        "CVE-2022-37434"
+      ],
+      "example_vulnerable_version": null
+    },
+    "znc": {
+      "advisory_count": 12,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2018-14055",
+        "CVE-2018-14056",
+        "CVE-2019-12816",
+        "CVE-2019-9917"
+      ],
+      "example_vulnerable_version": "1.6.4-r0"
+    },
+    "zsh": {
+      "advisory_count": 68,
+      "cve_count": 4,
+      "example_cves": [
+        "CVE-2018-1071",
+        "CVE-2018-1083",
+        "CVE-2019-20044",
+        "CVE-2021-45444"
+      ],
+      "example_vulnerable_version": null
+    },
+    "zstd": {
+      "advisory_count": 39,
+      "cve_count": 3,
+      "example_cves": [
+        "CVE-2019-11922",
+        "CVE-2021-24031",
+        "CVE-2021-24032"
+      ],
+      "example_vulnerable_version": null
+    }
+  },
+  "source": "OSV Alpine feed"
+}

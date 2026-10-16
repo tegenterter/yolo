@@ -1,0 +1,2322 @@
+{
+  "entries": {
+    "1": {
+      "created": "2017-02-02T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Community Builder versions 2.1 and previous"
+    },
+    "123": {
+      "created": "2013-04-27T14:51:17+00:00",
+      "status": "Resolved",
+      "title": "alfcontact"
+    },
+    "128": {
+      "created": "2013-04-27T14:51:17+00:00",
+      "status": "Resolved",
+      "title": "aiContactSafe 2.0.19"
+    },
+    "129": {
+      "created": "2013-04-29T20:03:54+00:00",
+      "status": "Resolved",
+      "title": "civic crm 422"
+    },
+    "130": {
+      "created": "2013-05-05T23:48:07+00:00",
+      "status": "Resolved",
+      "title": "bo:VideoJS, 2.1.1,"
+    },
+    "132": {
+      "created": "2013-05-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Jinc, ALL,"
+    },
+    "137": {
+      "created": "2013-06-01T21:27:51+00:00",
+      "status": "Resolved",
+      "title": "CiviCRM 4.3.3 and previous"
+    },
+    "138": {
+      "created": "2013-05-31T15:58:23+00:00",
+      "status": "Resolved",
+      "title": "flashChart Content Plugin,"
+    },
+    "139": {
+      "created": "2013-06-01T21:28:25+00:00",
+      "status": "Resolved",
+      "title": "Jinc, all versions,"
+    },
+    "140": {
+      "created": "2013-06-21T05:54:42+00:00",
+      "status": "Resolved",
+      "title": "Unite Horizontal Carousel"
+    },
+    "141": {
+      "created": "2013-07-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "k2, 2.6.6, Open Folder Permissions"
+    },
+    "147": {
+      "created": "2013-08-01T13:51:19+00:00",
+      "status": "Resolved",
+      "title": "Cobalt,8.270"
+    },
+    "148": {
+      "created": "2013-08-19T20:51:25+00:00",
+      "status": "Resolved",
+      "title": "joomsport pro and std"
+    },
+    "149": {
+      "created": "2013-08-19T21:06:07+00:00",
+      "status": "Resolved",
+      "title": "sectionex, 2.5.96"
+    },
+    "155": {
+      "created": "2013-09-04T14:33:27+00:00",
+      "status": "Resolved",
+      "title": "Ace SEF4"
+    },
+    "156": {
+      "created": "2013-09-25T23:29:26+00:00",
+      "status": "Resolved",
+      "title": "Mijo Analytics, Joomla 2.5.x,"
+    },
+    "157": {
+      "created": "2013-10-17T18:08:58+00:00",
+      "status": "Resolved",
+      "title": "jomsocial below 3.0.5.1"
+    },
+    "158": {
+      "created": "2013-10-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "event registration pro"
+    },
+    "159": {
+      "created": "2013-11-02T15:56:26+00:00",
+      "status": "Resolved",
+      "title": "spider contact lite, sqli"
+    },
+    "164": {
+      "created": "2013-11-04T18:30:42+00:00",
+      "status": "Resolved",
+      "title": "Spider contacts, 1.3.3,"
+    },
+    "166": {
+      "created": "2013-12-19T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "extplorer, 2.1.4 and below"
+    },
+    "168": {
+      "created": "2014-01-25T01:30:45+00:00",
+      "status": "Resolved",
+      "title": "iRecommend, &gt;= 3.0,"
+    },
+    "175": {
+      "created": "2014-02-02T14:24:13+00:00",
+      "status": "Resolved",
+      "title": "JomSocial component pre 3.1.0.1"
+    },
+    "176": {
+      "created": "2014-02-08T21:53:24+00:00",
+      "status": "Resolved",
+      "title": "ODude Profile"
+    },
+    "181": {
+      "created": "2014-02-08T23:00:55+00:00",
+      "status": "Resolved",
+      "title": "ODude Ecard - DT"
+    },
+    "182": {
+      "created": "2014-02-08T23:01:25+00:00",
+      "status": "Resolved",
+      "title": "ODude Dir - DT"
+    },
+    "183": {
+      "created": "2014-02-26T14:55:44+00:00",
+      "status": "Resolved",
+      "title": "JJ Shoutbox, 1.2.6,"
+    },
+    "184": {
+      "created": "2014-02-27T01:04:30+00:00",
+      "status": "Resolved",
+      "title": "Google Maps plugin for Joomla, pre 3.1 and 2.20,"
+    },
+    "189": {
+      "created": "2014-03-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "ActiveHelper LiveHelp, 3.2.0, sqli"
+    },
+    "190": {
+      "created": "2014-03-08T11:06:37+00:00",
+      "status": "Resolved",
+      "title": "plg_highlight_content, 1.5 and previous"
+    },
+    "191": {
+      "created": "2014-03-08T11:24:34+00:00",
+      "status": "Resolved",
+      "title": "plg_highlight_button, 1.5 and previious sqli"
+    },
+    "197": {
+      "created": "2014-05-16T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "EasyBlog pre 3.9.15770"
+    },
+    "198": {
+      "created": "2014-06-02T12:14:47+00:00",
+      "status": "Resolved",
+      "title": "JW player, 5.10.22 xss"
+    },
+    "199": {
+      "created": "2014-06-02T14:52:42+00:00",
+      "status": "Resolved",
+      "title": "Joomlaworks allvideos"
+    },
+    "200": {
+      "created": "2014-06-08T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "K2 Content Extension, 2.6.8,"
+    },
+    "205": {
+      "created": "2014-07-18T12:44:54+00:00",
+      "status": "Resolved",
+      "title": "youtube gallery, 4.1.7,"
+    },
+    "206": {
+      "created": "2014-08-04T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "kunena 3.0.5 XSS and SQL Injection"
+    },
+    "207": {
+      "created": "2014-08-05T10:43:16+00:00",
+      "status": "Resolved",
+      "title": "Watchful Client (watchful.li extension), 1.9.0 and lower"
+    },
+    "208": {
+      "created": "2014-08-06T00:12:25+00:00",
+      "status": "Resolved",
+      "title": "JChatSocial, 2.2 and lower"
+    },
+    "213": {
+      "created": "2014-08-07T21:06:15+00:00",
+      "status": "Resolved",
+      "title": "Joomla Multicalendar, 5.3.2 and previous versions,"
+    },
+    "215": {
+      "created": "2014-08-21T04:09:00+00:00",
+      "status": "Resolved",
+      "title": "Akeeba backup"
+    },
+    "216": {
+      "created": "2014-08-29T07:27:20+00:00",
+      "status": "Resolved",
+      "title": "joomla spider video, 2.8.3, sqli"
+    },
+    "222": {
+      "created": "2014-09-12T10:58:59+00:00",
+      "status": "Resolved",
+      "title": "Spider Contacts 1.3.6 SQLI"
+    },
+    "223": {
+      "created": "2014-09-24T15:30:41+00:00",
+      "status": "Resolved",
+      "title": "JDownloads"
+    },
+    "224": {
+      "created": "2014-09-24T15:58:05+00:00",
+      "status": "Resolved",
+      "title": "Hika Shop"
+    },
+    "229": {
+      "created": "2014-09-30T17:29:55+00:00",
+      "status": "Resolved",
+      "title": "Akeeba CMS Update"
+    },
+    "230": {
+      "created": "2014-11-12T12:47:21+00:00",
+      "status": "Resolved",
+      "title": "MijoShop, 2.4.x - 2.5.x,"
+    },
+    "231": {
+      "created": "2014-11-15T13:27:12+00:00",
+      "status": "Resolved",
+      "title": "Admin Exile 2.3.5 sqli"
+    },
+    "236": {
+      "created": "2014-12-02T01:47:13+00:00",
+      "status": "Resolved",
+      "title": "edocuman, 1.6.0, Other"
+    },
+    "237": {
+      "created": "2014-12-02T01:48:15+00:00",
+      "status": "Resolved",
+      "title": "HDFLVPlayer, 2.0, Directory Traversal"
+    },
+    "238": {
+      "created": "2014-12-07T21:54:09+00:00",
+      "status": "Resolved",
+      "title": "Events Booking, 1.6.7 and lower, (module: Search Events)"
+    },
+    "243": {
+      "created": "2014-12-07T21:55:37+00:00",
+      "status": "Resolved",
+      "title": "failedloginattempts v1.0.1"
+    },
+    "244": {
+      "created": "2014-12-09T13:50:00+00:00",
+      "status": "Resolved",
+      "title": "HDFLVPlayer 2.2 and previous"
+    },
+    "245": {
+      "created": "2014-12-09T17:07:41+00:00",
+      "status": "Resolved",
+      "title": "HDFLVPlayer 2.2 + previous"
+    },
+    "249": {
+      "created": "2013-02-20T20:37:14+00:00",
+      "status": "Live",
+      "title": "MT Fire Eagle"
+    },
+    "250": {
+      "created": "2014-12-23T07:45:21+00:00",
+      "status": "Resolved",
+      "title": "Visforms pre 2.1.2 and pre 3.1.2"
+    },
+    "251": {
+      "created": "2014-12-29T13:48:49+00:00",
+      "status": "Resolved",
+      "title": "sbahjaoui contact 1.0"
+    },
+    "252": {
+      "created": "2015-01-14T16:52:15+00:00",
+      "status": "Resolved",
+      "title": "EDVAS blank template pre 3.5.1"
+    },
+    "255": {
+      "created": "2013-02-20T20:37:14+00:00",
+      "status": "Live",
+      "title": "worldrates"
+    },
+    "257": {
+      "created": "2015-01-16T02:31:52+00:00",
+      "status": "Resolved",
+      "title": "corephp paGo, LFI 1.0.7 and below"
+    },
+    "258": {
+      "created": "2015-01-19T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JEvents pre 3.1.37"
+    },
+    "259": {
+      "created": "2015-01-19T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JCE - Joomla Content Editor 2.4.5 and previous"
+    },
+    "264": {
+      "created": "2015-01-20T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "J2Store 2.5 to 2.8.3, SQL Injection"
+    },
+    "265": {
+      "created": "2015-01-20T22:08:42+00:00",
+      "status": "Resolved",
+      "title": "Jdownloads Pre 3.2.23"
+    },
+    "271": {
+      "created": "2015-01-26T12:06:00+00:00",
+      "status": "Resolved",
+      "title": "Solidres previous to 8.0.0"
+    },
+    "272": {
+      "created": "2015-02-01T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "eXtplorer 2.1.6 released"
+    },
+    "273": {
+      "created": "2015-02-13T17:21:53+00:00",
+      "status": "Resolved",
+      "title": "Gallery WD version 1.2.3 and previous"
+    },
+    "277": {
+      "created": "2013-05-19T23:46:13+00:00",
+      "status": "Live",
+      "title": "Phoca Gallery 3x"
+    },
+    "278": {
+      "created": "2015-04-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "spider random articles 1.5.0 and previous"
+    },
+    "279": {
+      "created": "2015-04-12T19:39:00+00:00",
+      "status": "Resolved",
+      "title": "AllVideos version 4.6.1 and previous"
+    },
+    "280": {
+      "created": "2017-02-02T11:21:26+00:00",
+      "status": "Resolved",
+      "title": "hwdVideoShare,N/A"
+    },
+    "281": {
+      "created": "2013-06-01T21:29:26+00:00",
+      "status": "Live",
+      "title": "Master Password,"
+    },
+    "282": {
+      "created": "2013-09-26T03:41:08+00:00",
+      "status": "Live",
+      "title": "My Blog, 2.0.1 Build 286,"
+    },
+    "283": {
+      "created": "2014-03-06T16:16:03+00:00",
+      "status": "Live",
+      "title": "plg_codehighlight, 1.0.1 , xss"
+    },
+    "284": {
+      "created": "2014-03-07T18:22:52+00:00",
+      "status": "Live",
+      "title": "Codels codehighlighter 1.4"
+    },
+    "285": {
+      "created": "2015-04-14T20:13:48+00:00",
+      "status": "Resolved",
+      "title": "ECommerce-WD [com_ecommercewd],1.2.5, maybe earlier"
+    },
+    "286": {
+      "created": "2017-02-02T11:21:26+00:00",
+      "status": "Resolved",
+      "title": "Joomla Spider FAQ by Web-Dorado pre 1.3"
+    },
+    "287": {
+      "created": "2015-04-14T19:21:45+00:00",
+      "status": "Resolved",
+      "title": "Creative Contact Form [com_creativecontactform],2.0.0 and previous"
+    },
+    "288": {
+      "created": "2014-09-16T20:37:01+00:00",
+      "status": "Live",
+      "title": "EuropaCart, 8.0.1 and below ,"
+    },
+    "289": {
+      "created": "2014-09-17T17:34:53+00:00",
+      "status": "Live",
+      "title": "AceSEF , 4.1.2 and below"
+    },
+    "290": {
+      "created": "2014-09-22T14:45:22+00:00",
+      "status": "Live",
+      "title": "Joomla Mac Gallery 1.5 and below"
+    },
+    "291": {
+      "created": "2014-11-12T12:51:16+00:00",
+      "status": "Live",
+      "title": "AceShop, up to version 4.1.3,"
+    },
+    "292": {
+      "created": "2015-04-14T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Spider Form Maker by Web-Dorado [com_formmaker],3.4 and lower"
+    },
+    "294": {
+      "created": "2015-04-19T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Kunena,3.0.7 and previous"
+    },
+    "295": {
+      "created": "2015-03-27T15:49:42+00:00",
+      "status": "Live",
+      "title": "youtube plugin - youtubejoomla ,1.1"
+    },
+    "296": {
+      "created": "2015-04-12T23:58:21+00:00",
+      "status": "Live",
+      "title": "Joomla Simple Photo Gallery version 1.1"
+    },
+    "297": {
+      "created": "2015-06-14T13:03:03+00:00",
+      "status": "Live",
+      "title": "XCloner Backup and Restore [com_cloner], 3.5.2"
+    },
+    "298": {
+      "created": "2015-04-13T13:49:50+00:00",
+      "status": "Live",
+      "title": "Face Gallery by Apptha [com_facegallery] version 1.0"
+    },
+    "299": {
+      "created": "2015-04-19T17:43:18+00:00",
+      "status": "Resolved",
+      "title": "RD Download, 0.9.0 and below"
+    },
+    "300": {
+      "created": "2015-04-23T06:12:19+00:00",
+      "status": "Resolved",
+      "title": "\"Simple Email Form\" by unlikelysource.com, 1.8.5 and below"
+    },
+    "301": {
+      "created": "2015-04-25T18:28:38+00:00",
+      "status": "Resolved",
+      "title": "\"J-ClassifiedsManager\" by CMSjunkie"
+    },
+    "302": {
+      "created": "2015-05-23T18:37:02+00:00",
+      "status": "Live",
+      "title": "Football [com_football],SQL Injection"
+    },
+    "303": {
+      "created": "2015-06-10T19:09:45+00:00",
+      "status": "Live",
+      "title": "\"EQ Event Calendar\" [com_eqfullevent] , 1.0.0 and below"
+    },
+    "304": {
+      "created": "2015-06-20T14:13:42+00:00",
+      "status": "Live",
+      "title": "Escope PrettyPhoto [mod_escope_pp], 1.0.3, XSS (Cross Site Scripting) - abandonware!"
+    },
+    "305": {
+      "created": "2015-06-20T16:25:39+00:00",
+      "status": "Live",
+      "title": "UMI 3D Tag Cloud [mod_umi3dtagcloud], 1.3.4 and below, XSS (Cross Site Scripting)"
+    },
+    "306": {
+      "created": "2015-05-19T14:33:08+00:00",
+      "status": "Resolved",
+      "title": "OS Property - Joomla Real Estate sqli pre 2.8.1"
+    },
+    "307": {
+      "created": "2015-06-11T13:25:00+00:00",
+      "status": "Resolved",
+      "title": "BeestoHelpDesk, 3.1.1 and probably all previous,Information Disclosure"
+    },
+    "308": {
+      "created": "2015-06-01T18:25:24+00:00",
+      "status": "Resolved",
+      "title": "swmenufree, v8.3 ,Other"
+    },
+    "309": {
+      "created": "2015-06-25T00:00:00+00:00",
+      "status": "Live",
+      "title": "Contus HD Video Share (aka HDVideoShare) by Apptha [com_contushdvideoshare], 3.5 and below, Directory Traversal"
+    },
+    "310": {
+      "created": "2015-06-26T00:00:00+00:00",
+      "status": "Live",
+      "title": "SimpleImageUpload by Tuts4You, 1.2 and below, Other"
+    },
+    "313": {
+      "created": "2015-06-19T18:44:51+00:00",
+      "status": "Resolved",
+      "title": "Joombri Freelance, pre 1.6.5, SQLi"
+    },
+    "314": {
+      "created": "2015-06-20T13:30:22+00:00",
+      "status": "Resolved",
+      "title": "StarLite Pretty Photo [plg_system_slprettyphoto],1.2, XSS (Cross Site Scripting)"
+    },
+    "315": {
+      "created": "2015-06-20T14:41:04+00:00",
+      "status": "Resolved",
+      "title": "pPGallery [plg_content_ppgallery], 4.315, XSS (Cross Site Scripting)"
+    },
+    "320": {
+      "created": "2015-06-20T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "BK MultiThumb [multithumb], 3.7.1 and below, XSS (Cross Site Scripting)"
+    },
+    "321": {
+      "created": "2015-06-20T15:22:46+00:00",
+      "status": "Resolved",
+      "title": "Art Pretty Photo [artprettyphoto],1.9.21 and below,XSS (Cross Site Scripting)"
+    },
+    "322": {
+      "created": "2015-06-20T16:49:52+00:00",
+      "status": "Resolved",
+      "title": "JB Library [jblibrary], 2.1.5 and below, XSS (Cross Site Scripting)"
+    },
+    "326": {
+      "created": "2016-04-07T00:00:00+00:00",
+      "status": "Live",
+      "title": "User Group FTW For Hikashop,1.1.5,Other"
+    },
+    "327": {
+      "created": "2015-06-20T16:54:24+00:00",
+      "status": "Resolved",
+      "title": "Zen Library [zen], 1.0.2 and below, XSS (Cross Site Scripting)"
+    },
+    "328": {
+      "created": "2015-06-20T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "AP Portfolio [mod_ap_portfolio], 3.3 and below, XSS (Cross Site Scripting)"
+    },
+    "329": {
+      "created": "2015-06-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Responsive Portfolio Wall [mod_repowa], 1.0 and below, XSS (Cross Site Scripting)"
+    },
+    "331": {
+      "created": "2017-02-02T00:00:00+00:00",
+      "status": "Live",
+      "title": "Easy Youtube Gallery , 1.0.2,Information Disclosure"
+    },
+    "332": {
+      "created": "2016-05-06T00:00:00+00:00",
+      "status": "Live",
+      "title": "Yeeditor, abandonware"
+    },
+    "334": {
+      "created": "2015-06-22T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "BK Multithumb for Joomla 1.5, 2.5.0.4, XSS (Cross Site Scripting)"
+    },
+    "335": {
+      "created": "2015-06-22T19:29:05+00:00",
+      "status": "Resolved",
+      "title": "Simple Image Gallery PRO, 3.0.7 and below, XSS (Cross Site Scripting)"
+    },
+    "336": {
+      "created": "2015-06-26T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "BT Portfolio,3.0.5 and below,Other"
+    },
+    "337": {
+      "created": "2016-08-13T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Huge IT Catalog,1.0.6,SQL Injection"
+    },
+    "338": {
+      "created": "2016-08-17T00:00:00+00:00",
+      "status": "Live",
+      "title": "aceftp,unknown version,Other"
+    },
+    "339": {
+      "created": "2016-09-24T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Huge IT Video Gallery,1.1.1,XSS (Cross Site Scripting)"
+    },
+    "340": {
+      "created": "2016-09-26T00:00:00+00:00",
+      "status": "Live",
+      "title": "Huge IT Googlemaps,1.0.9,SQL Injection"
+    },
+    "341": {
+      "created": "2015-06-27T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Kunena 4.0.2 xss resolution"
+    },
+    "343": {
+      "created": "2015-07-22T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Helpdesk Pro by Ossolution Team [com_helpdeskpro], before 1.4.0, multiple vulns"
+    },
+    "344": {
+      "created": "2016-09-27T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Huge IT Slider,1.0.9,SQL Injection"
+    },
+    "346": {
+      "created": "2016-12-06T18:27:26+00:00",
+      "status": "Live",
+      "title": "AVChat Video Chat Integration Kit, File permissions"
+    },
+    "347": {
+      "created": "2016-12-28T00:00:00+00:00",
+      "status": "Live",
+      "title": "JMS Support Online module, 2.0.0, XSS (Cross Site Scripting)"
+    },
+    "348": {
+      "created": "2015-07-23T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "J2Store by Weblogicx India, 3.1.6 and below, SQL Injections"
+    },
+    "349": {
+      "created": "2015-08-17T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Event Manager, 2.1.4 and below, multiple vulnerabilities"
+    },
+    "350": {
+      "created": "2015-08-26T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Music Collection, 2.4.6 and below, SQL Injection"
+    },
+    "351": {
+      "created": "2017-01-11T00:00:00+00:00",
+      "status": "Live",
+      "title": "RSMonials,2.2 and previous,XSS (Cross Site Scripting)"
+    },
+    "352": {
+      "created": "2015-09-02T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JCE - A Content Editor for Joomla, 2.5.0, 2.5.1, 2.5.2"
+    },
+    "353": {
+      "created": "2015-09-02T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Joomla GoogleSearch (CSE), 3.0.2 and below, any Joomla"
+    },
+    "354": {
+      "created": "2015-09-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JEvents, pre 3.2.20"
+    },
+    "355": {
+      "created": "2015-09-08T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Master User, versions before 2.1.4"
+    },
+    "356": {
+      "created": "2015-09-11T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Extplorer, 2.1.7 and previous"
+    },
+    "357": {
+      "created": "2015-10-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Komento, 2.0.4 and previous, XSS (Cross Site Scripting)"
+    },
+    "358": {
+      "created": "2015-10-25T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Realtyna RPL,8.9.2,Other"
+    },
+    "359": {
+      "created": "2015-11-06T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "cckseblod 1.x Directory Traversal"
+    },
+    "360": {
+      "created": "2015-11-09T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JNews,8.5.1,SQL Injection"
+    },
+    "361": {
+      "created": "2017-02-02T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Virtuemart 3.0.10 and previous"
+    },
+    "362": {
+      "created": "2015-11-28T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Resize Image On The Fly and Cache 1.1.0 and previous"
+    },
+    "363": {
+      "created": "2015-12-25T10:20:31+00:00",
+      "status": "Resolved",
+      "title": "Payment Form, versions before 4.2"
+    },
+    "364": {
+      "created": "2017-02-02T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "joomunited SEO Glossary ,pre 2.2.4,Other"
+    },
+    "365": {
+      "created": "2016-01-31T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "EasySocial versions before 1.4.7"
+    },
+    "366": {
+      "created": "2016-02-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Spider random articles before 1.5.3"
+    },
+    "367": {
+      "created": "2016-02-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Form Maker before 3.6.0"
+    },
+    "368": {
+      "created": "2016-02-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Breezing Forms Lite"
+    },
+    "369": {
+      "created": "2016-02-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JSN Power Admin,2.3.0,XSS (Cross Site Scripting)"
+    },
+    "371": {
+      "created": "2016-04-24T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "gmapfp,3.39f,XSS (Cross Site Scripting)"
+    },
+    "372": {
+      "created": "2016-04-28T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Komento 2.0.6, xss"
+    },
+    "373": {
+      "created": "2016-05-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "mod fancy tag cloud,1.017,Other"
+    },
+    "374": {
+      "created": "2016-06-02T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "SecurityCheck and SecurityCheck Pro Vulnerable Versions: 2.8.9"
+    },
+    "375": {
+      "created": "2017-02-02T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "kunena,4.0.10,Information Disclosure"
+    },
+    "378": {
+      "created": "2016-06-24T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Universal AJAX Live Search, 5.4.0, Other"
+    },
+    "379": {
+      "created": "2017-02-02T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Huge IT gallery,1.1.5,SQL Injection"
+    },
+    "380": {
+      "created": "2016-07-26T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Payplans SQLi"
+    },
+    "381": {
+      "created": "2016-08-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "K2,2.7.0,XSS (Cross Site Scripting)"
+    },
+    "382": {
+      "created": "2016-08-13T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "nitroslider,1.0.0"
+    },
+    "383": {
+      "created": "2016-08-18T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Event Registration Pro,3.2.12 - 3.2.10,SQL Injection"
+    },
+    "384": {
+      "created": "2016-08-19T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "J-BusinessDirectory 4.5.4 and previous"
+    },
+    "385": {
+      "created": "2016-08-31T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Huge IT Portfolio Gallery 1.0.7 and previous"
+    },
+    "386": {
+      "created": "2016-10-20T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "ja-k2- filter-and- search, SQL Injection"
+    },
+    "387": {
+      "created": "2016-10-24T00:00:00+00:00",
+      "status": "Live",
+      "title": "HDW Player, 3.2.1 and older"
+    },
+    "388": {
+      "created": "2016-11-11T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JoomDoc 4.0.3 and previous"
+    },
+    "389": {
+      "created": "2016-11-26T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Kunena,K4.0.0 - K5.0.3,XSS (Cross Site Scripting)"
+    },
+    "390": {
+      "created": "2016-12-06T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JS Jobs,1.1.5 and all previous,SQL Injection"
+    },
+    "391": {
+      "created": "2016-12-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "aWeb Cart Watching System 2.6.0"
+    },
+    "392": {
+      "created": "2016-12-19T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "DT Register, sql/xss, 3.1.12 / 2.8.18 and previous"
+    },
+    "393": {
+      "created": "2016-12-27T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Chronoforms 5.0.12 PHP mailer vulnerability"
+    },
+    "394": {
+      "created": "2016-12-28T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "AcyMailing 5.6.0 PHP Mailer vulnerability"
+    },
+    "395": {
+      "created": "2016-12-30T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Chronoforms 5.0.13 PHP mailer vulnerability"
+    },
+    "396": {
+      "created": "2016-12-31T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Jomres 9.8.22 and previous PHPMailer vulnerability"
+    },
+    "397": {
+      "created": "2017-01-04T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Kunena, 5.0.2 and newer, XSS (Cross Site Scripting)"
+    },
+    "399": {
+      "created": "2016-02-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Breezing Forms Full"
+    },
+    "400": {
+      "created": "2017-02-09T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Jtag Calendar 6.2.4"
+    },
+    "401": {
+      "created": "2015-12-25T10:20:31+00:00",
+      "status": "Resolved",
+      "title": "Events Booking, versions before 2.1.1"
+    },
+    "402": {
+      "created": "2015-12-25T10:20:31+00:00",
+      "status": "Resolved",
+      "title": "Eshop, versions before 1.4.4"
+    },
+    "403": {
+      "created": "2015-12-25T10:20:31+00:00",
+      "status": "Resolved",
+      "title": "Memberhsip Pro, versions before 2.1.1"
+    },
+    "404": {
+      "created": "2015-12-25T10:20:31+00:00",
+      "status": "Resolved",
+      "title": "Joom Donation, versions before 4.1, Information Disclosure"
+    },
+    "406": {
+      "created": "2017-02-14T00:00:00+00:00",
+      "status": "Live",
+      "title": "JE Property Finder, 1.6.3"
+    },
+    "407": {
+      "created": "2017-02-20T11:25:24+00:00",
+      "status": "Resolved",
+      "title": "JomWall, 4.1.1,SQL Injection"
+    },
+    "408": {
+      "created": "2017-02-20T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Joomloc-CAT, version 4.1.3, SQL injection"
+    },
+    "411": {
+      "created": "2017-02-26T09:59:24+00:00",
+      "status": "Resolved",
+      "title": "GPS Tools v4.0.1,4.0.1,SQL Injection"
+    },
+    "420": {
+      "created": "2017-03-05T00:00:00+00:00",
+      "status": "Live",
+      "title": "Coupon manager, 3.5"
+    },
+    "422": {
+      "created": "2017-03-05T00:00:00+00:00",
+      "status": "Live",
+      "title": "guesser, 1.0.4"
+    },
+    "424": {
+      "created": "2017-03-05T00:00:00+00:00",
+      "status": "Live",
+      "title": "recipe manager, 2.2"
+    },
+    "426": {
+      "created": "2017-03-05T00:00:00+00:00",
+      "status": "Live",
+      "title": "Abstract manager, 2.1"
+    },
+    "428": {
+      "created": "2017-03-05T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "One Vote,1.1.1,SQL Injection"
+    },
+    "430": {
+      "created": "2017-03-05T00:00:00+00:00",
+      "status": "Live",
+      "title": "Ajax search for K2, 2.2"
+    },
+    "432": {
+      "created": "2017-03-05T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "community quiz,4.4.1,SQL Injection"
+    },
+    "433": {
+      "created": "2017-03-06T11:36:00+00:00",
+      "status": "Resolved",
+      "title": "JO Facebook gallery,4.5,SQL Injection"
+    },
+    "436": {
+      "created": "2017-03-06T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Canonical Url,4.1.1,SQL Injection"
+    },
+    "437": {
+      "created": "2017-03-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Street Guesser,1.1.7,SQL Injection"
+    },
+    "438": {
+      "created": "2017-03-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "UserExtranet,1.3.2,SQL Injection"
+    },
+    "439": {
+      "created": "2017-03-08T00:00:00+00:00",
+      "status": "Live",
+      "title": "MultiTier,3.1,SQL Injection"
+    },
+    "440": {
+      "created": "2017-03-08T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "BookLibrary,3.6.14,SQL Injection"
+    },
+    "441": {
+      "created": "2017-03-08T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "MediaLibrary,3.5.4, SQL Injection"
+    },
+    "442": {
+      "created": "2017-03-09T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Real Estate Manager,3.9.7,SQL Injection"
+    },
+    "443": {
+      "created": "2017-03-09T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Vehicle Manager,3.9.4,SQL Injection"
+    },
+    "444": {
+      "created": "2017-03-09T22:45:47+00:00",
+      "status": "Live",
+      "title": "Magic Deals Web by Jason Web Design,1.2.0,SQL Injection"
+    },
+    "445": {
+      "created": "2017-03-09T23:01:21+00:00",
+      "status": "Live",
+      "title": "Eventix Events Calendar by Informafix,1.0,SQL Injection"
+    },
+    "446": {
+      "created": "2017-03-09T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Alta User Points,1.1.7,SQL Injection"
+    },
+    "447": {
+      "created": "2017-03-11T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "J-Business Directory by CMS Junkie, 4.6.8, SQL Injection"
+    },
+    "448": {
+      "created": "2017-03-11T12:47:29+00:00",
+      "status": "Live",
+      "title": "PayPal IPN for DOCman by shopfiles.com,3.1,SQL Injection"
+    },
+    "449": {
+      "created": "2017-03-11T12:58:14+00:00",
+      "status": "Live",
+      "title": "Google Map Store Locator by Matamko,4.0,SQL Injection"
+    },
+    "450": {
+      "created": "2017-03-12T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Joomloc-lite by joomloc.fr,1.3.3,SQL Injection"
+    },
+    "451": {
+      "created": "2017-03-12T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "OS Services Booking,2.5.1,SQL Injection"
+    },
+    "452": {
+      "created": "2017-03-12T17:54:45+00:00",
+      "status": "Live",
+      "title": "Most Wanted Real Estate,1.1.0,SQL Injection"
+    },
+    "453": {
+      "created": "2017-03-12T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "OS Property,3.0.9,SQL Injection"
+    },
+    "454": {
+      "created": "2017-03-14T00:00:00+00:00",
+      "status": "Live",
+      "title": "Smart related articles ,1.1,SQL Injection and XSS"
+    },
+    "455": {
+      "created": "2017-03-15T10:48:51+00:00",
+      "status": "Resolved",
+      "title": "J-CruiseReservation,3.0,SQL Injection"
+    },
+    "456": {
+      "created": "2017-03-15T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JMultipleHotelReservation, 6.0.3, SQL Injection"
+    },
+    "457": {
+      "created": "2017-03-16T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "AppointmentBookingPro,4.0.1,SQL Injection"
+    },
+    "458": {
+      "created": "2017-03-16T12:02:49+00:00",
+      "status": "Live",
+      "title": "J-Hotel Portal,6.0.2,SQL Injection"
+    },
+    "459": {
+      "created": "2017-03-18T10:33:40+00:00",
+      "status": "Live",
+      "title": "Directorix Directory Manager,1.1.1,SQL Injection"
+    },
+    "460": {
+      "created": "2017-03-18T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "OrdaSoft CCK,2.0.4,SQL Injection"
+    },
+    "461": {
+      "created": "2017-03-21T23:51:11+00:00",
+      "status": "Resolved",
+      "title": "Membership Pro and other OS Solution extensions"
+    },
+    "462": {
+      "created": "2017-04-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JobGrok,versions 3.1, SQL Injection"
+    },
+    "463": {
+      "created": "2017-04-09T13:41:18+00:00",
+      "status": "Resolved",
+      "title": "Joomla Modern Booking,1.0,SQL Injection"
+    },
+    "465": {
+      "created": "2017-05-01T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Myportfolio,3.0.2,SQL Injection"
+    },
+    "466": {
+      "created": "2017-05-11T00:00:00+00:00",
+      "status": "Live",
+      "title": "Extra Search by Joomlaboat,2.2.8 and previous,SQL Injection"
+    },
+    "468": {
+      "created": "2017-05-26T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Kunena 5.0.8 and previous XSS"
+    },
+    "469": {
+      "created": "2017-06-01T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "HikaShop Business,3.1.0,SQL Injection"
+    },
+    "470": {
+      "created": "2017-06-01T00:00:00+00:00",
+      "status": "Live",
+      "title": "AYS Quiz,1.0,SQL Injection"
+    },
+    "472": {
+      "created": "2017-06-05T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Vik Rent Car 1.10 and previous"
+    },
+    "473": {
+      "created": "2017-06-05T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Vik Rent Items 1.3 and previous"
+    },
+    "474": {
+      "created": "2017-06-05T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Vik Appointments 1.4 and previous"
+    },
+    "475": {
+      "created": "2017-06-13T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Joomla Payage, 2.05, SQL Injection"
+    },
+    "476": {
+      "created": "2017-06-24T22:51:06+00:00",
+      "status": "Resolved",
+      "title": "JoomRecipe,1.0.3,SQL Injection"
+    },
+    "477": {
+      "created": "2017-07-01T20:11:39+00:00",
+      "status": "Resolved",
+      "title": "easysocial, 2.0.18 and below"
+    },
+    "478": {
+      "created": "2017-07-10T18:00:33+00:00",
+      "status": "Resolved",
+      "title": "Cookie consent from silktide, Unknown version, Other"
+    },
+    "479": {
+      "created": "2017-07-11T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "IJSEO, 3.1.17, SQL Injection"
+    },
+    "481": {
+      "created": "2017-08-04T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Extplorer, 2.1.9 and previous, Directory Traversal"
+    },
+    "483": {
+      "created": "2017-08-17T00:00:00+00:00",
+      "status": "Live",
+      "title": "Bye Bye Password,1.0.4,Information Disclosure"
+    },
+    "484": {
+      "created": "2017-08-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Zap Calendar, 4.3.6 and previous, SQL Injection"
+    },
+    "485": {
+      "created": "2017-08-21T10:33:26+00:00",
+      "status": "Live",
+      "title": "Appointment, v1.1 ,SQL Injection"
+    },
+    "486": {
+      "created": "2017-08-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Calendar Planner 1.0.1 - SQL Injection"
+    },
+    "487": {
+      "created": "2017-08-21T00:00:00+00:00",
+      "status": "Live",
+      "title": "Twitch Tv 1.1, SQL Injection"
+    },
+    "488": {
+      "created": "2017-08-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "SP Movie Database 1.3, SQL Injection"
+    },
+    "489": {
+      "created": "2017-08-21T00:00:00+00:00",
+      "status": "Live",
+      "title": "KissGallery 1.0.0, SQL Injection"
+    },
+    "490": {
+      "created": "2017-08-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Street Guesser,1.1.8,SQL Injection"
+    },
+    "491": {
+      "created": "2017-08-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "LMS King Lite, SQL Injection"
+    },
+    "492": {
+      "created": "2017-08-30T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "ccNewsletter 2.1.9 and previous, SQL injection"
+    },
+    "494": {
+      "created": "2017-08-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "LMS King Pro, SQL Injection"
+    },
+    "495": {
+      "created": "2017-09-01T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Event Registration Pro,4.1.3,SQL Injection"
+    },
+    "498": {
+      "created": "2017-09-04T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Akeeba Backup, 5.5.1, various issues"
+    },
+    "500": {
+      "created": "2017-09-06T00:00:00+00:00",
+      "status": "Live",
+      "title": "Realtyna RPL, All versions, SQL Injection and Abandonware"
+    },
+    "501": {
+      "created": "2017-09-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Simgenealogy,2.1.7,SQL Injection"
+    },
+    "502": {
+      "created": "2017-09-12T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Payplans 3.6.2"
+    },
+    "503": {
+      "created": "2017-09-14T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Survey Force Deluxe,3.2.4,SQL Injection"
+    },
+    "504": {
+      "created": "2017-09-14T00:00:00+00:00",
+      "status": "Live",
+      "title": "Joomanager, other"
+    },
+    "505": {
+      "created": "2017-09-15T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Checklist by Joomplace,1.1.0,SQL Injection"
+    },
+    "510": {
+      "created": "2017-09-27T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Quiz Deluxe,3.7.4,SQL Injection"
+    },
+    "511": {
+      "created": "2017-09-27T18:23:38+00:00",
+      "status": "Live",
+      "title": "Keen IT Photo Contest, 1.0.2, SQL Injection"
+    },
+    "512": {
+      "created": "2017-09-29T11:54:56+00:00",
+      "status": "Live",
+      "title": "Bargain Product VM3, 1.0, SQL Injection"
+    },
+    "513": {
+      "created": "2017-09-29T00:00:00+00:00",
+      "status": "Live",
+      "title": "Price Alert for Virtuemart,3.0.4,SQL Injection"
+    },
+    "514": {
+      "created": "2017-10-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "ZH Yandex Map, 6.1.1.0, SQL Injection"
+    },
+    "515": {
+      "created": "2017-10-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "NS Download Shop, 2.2.6, SQL Injection"
+    },
+    "517": {
+      "created": "2017-10-11T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Ajax Quiz by Webkul,2.0,SQL Injection"
+    },
+    "518": {
+      "created": "2017-10-20T00:00:00+00:00",
+      "status": "Live",
+      "title": "Google Maps by Reumer, 3.5, Malicious update"
+    },
+    "519": {
+      "created": "2017-10-24T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JS Jobs,1.1.8, RCE"
+    },
+    "520": {
+      "created": "2017-10-24T00:00:00+00:00",
+      "status": "Live",
+      "title": "HDW Player,4.0.0, RCE"
+    },
+    "523": {
+      "created": "2017-11-24T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Virtuemart,3.2.4,XSS (Cross Site Scripting)"
+    },
+    "525": {
+      "created": "2017-12-15T15:30:27+00:00",
+      "status": "Live",
+      "title": "JBuildozer,1.4.1,SQL Injection"
+    },
+    "526": {
+      "created": "2017-12-15T15:31:24+00:00",
+      "status": "Live",
+      "title": "JEXTN Video Gallery 3.0.5 - SQL Injection, 3.0.5 ,SQL Injection"
+    },
+    "527": {
+      "created": "2017-12-15T15:32:47+00:00",
+      "status": "Live",
+      "title": "JEXTN Question And Answer ,3.1.0,SQL Injection"
+    },
+    "528": {
+      "created": "2017-12-20T13:34:41+00:00",
+      "status": "Resolved",
+      "title": "B2j Contact,2.0 and other,Other"
+    },
+    "529": {
+      "created": "2017-12-22T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Next Gen Editor,2.1.0,SQL Injection"
+    },
+    "530": {
+      "created": "2017-12-27T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "My Projects,2.0,SQL Injection"
+    },
+    "531": {
+      "created": "2017-12-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Joomla Guru, SQL Injection"
+    },
+    "532": {
+      "created": "2018-01-01T18:23:57+00:00",
+      "status": "Live",
+      "title": "JB Visa,1.0,SQL Injection"
+    },
+    "534": {
+      "created": "2018-01-01T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "User Bench 1.0, sql injection"
+    },
+    "535": {
+      "created": "2018-01-03T00:00:00+00:00",
+      "status": "Live",
+      "title": "Big File Uploader by Prismanet,1.0.2, Insecure File Upload"
+    },
+    "537": {
+      "created": "2018-01-08T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Easy Discuss, 4.0.20, XSS"
+    },
+    "538": {
+      "created": "2018-01-15T00:00:00+00:00",
+      "status": "Live",
+      "title": "En Masse, all versions, SQL Injection"
+    },
+    "541": {
+      "created": "2018-01-15T12:25:34+00:00",
+      "status": "Live",
+      "title": "cms2cms improper file/folder permissions"
+    },
+    "543": {
+      "created": "2018-01-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Simple Image Gallery (free) 3.5.0 and previous, XSS"
+    },
+    "544": {
+      "created": "2018-01-31T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JCE Editor,2.6.25, XSS (Cross Site Scripting)"
+    },
+    "545": {
+      "created": "2018-02-08T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JS Support Ticket 1.1.0, ,XSS (Cross Site Scripting)"
+    },
+    "549": {
+      "created": "2018-02-19T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "ccNewsletter 2.2.3 security release"
+    },
+    "551": {
+      "created": "2018-02-20T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JS Jobs, 1.1.9, SQL Injection"
+    },
+    "552": {
+      "created": "2018-02-20T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Jimtawl, 2.2.6, Arbitrary File Upload"
+    },
+    "553": {
+      "created": "2018-02-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "ZH GoogleMap, 8.4.0.0, SQL Injection"
+    },
+    "555": {
+      "created": "2018-02-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "ZH Yandex Map, 6.2.1.0, SQL Injection"
+    },
+    "557": {
+      "created": "2018-02-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Zh BaiduMap, 3.0.0.1, SQL Injection"
+    },
+    "558": {
+      "created": "2018-02-22T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JSP Tickets, 1.1, SQL Injection"
+    },
+    "559": {
+      "created": "2018-02-23T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Solidres, 2.5.0, SQL Injection"
+    },
+    "561": {
+      "created": "2018-02-23T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Timetable Responsive Schedule, 1.6, SQL injection"
+    },
+    "562": {
+      "created": "2018-02-23T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JSP Store Locator, 2.4, SQL Injection"
+    },
+    "563": {
+      "created": "2018-02-23T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Smart Shoutbox, 2.9.5, SQL Injection"
+    },
+    "565": {
+      "created": "2018-02-26T00:00:00+00:00",
+      "status": "Live",
+      "title": "Saxum Picker, 3.2.10, SQL Injection"
+    },
+    "566": {
+      "created": "2018-02-26T00:00:00+00:00",
+      "status": "Live",
+      "title": "Saxum Numerology, 3.0.4, SQL Injection"
+    },
+    "567": {
+      "created": "2018-02-26T00:00:00+00:00",
+      "status": "Live",
+      "title": "Saxum Astro, 4.0.14, SQL Injection"
+    },
+    "568": {
+      "created": "2018-02-26T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Kubik-Rubik Simple Image Gallery Extended (SIGE),3.2.3,XSS (Cross Site Scripting)"
+    },
+    "569": {
+      "created": "2018-02-27T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Proclaim, 9.1.1, Arbitrary File Upload"
+    },
+    "572": {
+      "created": "2018-02-28T00:00:00+00:00",
+      "status": "Live",
+      "title": "Joomla! Pinterest Clone Social Pinboard,2.0,SQL Injection"
+    },
+    "574": {
+      "created": "2018-02-28T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "OS Property, 3.12.8, SQL Injection"
+    },
+    "575": {
+      "created": "2018-03-01T00:00:00+00:00",
+      "status": "Live",
+      "title": "Realpin,1.5.04,SQL Injection"
+    },
+    "576": {
+      "created": "2018-03-01T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Media Library Free, 4.0.12, SQL Injection"
+    },
+    "577": {
+      "created": "2018-03-02T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Gallery WD, 1.3.9, SQL Injection"
+    },
+    "578": {
+      "created": "2018-03-03T00:00:00+00:00",
+      "status": "Live",
+      "title": "JS Autoz ,1.0.9,SQL Injection"
+    },
+    "579": {
+      "created": "2018-03-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Jticketing, 2.0.16, SQL Injection"
+    },
+    "581": {
+      "created": "2018-03-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Invitex, 3.0.5, SQL Injection"
+    },
+    "582": {
+      "created": "2018-03-04T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Alexandria Book Library, 3.1.3, SQL Injection"
+    },
+    "583": {
+      "created": "2018-03-04T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Form Maker, 3.6.14, SQL Injection"
+    },
+    "584": {
+      "created": "2018-03-05T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JGive, 2.0.9, SQL Injection"
+    },
+    "585": {
+      "created": "2018-03-05T00:00:00+00:00",
+      "status": "Live",
+      "title": "JMS Music,1.1.1,SQL Injection"
+    },
+    "587": {
+      "created": "2018-03-05T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "NeoRecruit, 4.2.1, SQL Injection"
+    },
+    "589": {
+      "created": "2018-03-06T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Ek rishta, 2.9, SQL Injection"
+    },
+    "590": {
+      "created": "2018-03-06T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Checklist by Joomplace, 1.1.1.003, SQL Injection"
+    },
+    "591": {
+      "created": "2018-03-06T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "PrayerCenter,3.0.2,SQL Injection"
+    },
+    "592": {
+      "created": "2018-03-06T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "CW Tags, 2.0.8, SQL Injection"
+    },
+    "593": {
+      "created": "2018-03-07T00:00:00+00:00",
+      "status": "Live",
+      "title": "SquadManagement,1.0.3,SQL Injection"
+    },
+    "594": {
+      "created": "2018-03-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Simple Calendar,3.1.9,SQL Injection"
+    },
+    "595": {
+      "created": "2018-03-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JQuickContact, 1.3.2.3, SQL Injection"
+    },
+    "597": {
+      "created": "2018-03-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JB Bus, 2.3, SQL Injection"
+    },
+    "598": {
+      "created": "2018-03-07T00:00:00+00:00",
+      "status": "Live",
+      "title": "File Download Tracker,3.0,SQL Injection"
+    },
+    "599": {
+      "created": "2018-03-08T00:00:00+00:00",
+      "status": "Live",
+      "title": "Fastball, SQL Injection"
+    },
+    "600": {
+      "created": "2018-03-08T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "DT Register,3.2.7,SQL Injection"
+    },
+    "601": {
+      "created": "2018-03-09T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JomEstate, 3.7, SQL Injection"
+    },
+    "602": {
+      "created": "2018-03-13T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Attachments, 3.2.5, SQL Injection"
+    },
+    "603": {
+      "created": "2018-03-14T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Kunena,3.x - 5.0.13, Other"
+    },
+    "604": {
+      "created": "2018-03-15T00:00:00+00:00",
+      "status": "Live",
+      "title": "Google Map Landkarten,4.2.3,SQL Injection"
+    },
+    "606": {
+      "created": "2018-03-20T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Visual Calendar, 3.1.5, SQL Injection"
+    },
+    "609": {
+      "created": "2018-03-22T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "CP Event Calendar, 3.0.2, SQL Injection"
+    },
+    "610": {
+      "created": "2018-03-22T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "AcyMailing, 5.9.5, CSV Injection"
+    },
+    "611": {
+      "created": "2018-03-26T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "AcySMS, 3.5.0, CSV Injection"
+    },
+    "614": {
+      "created": "2018-03-27T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Watchfulli SSO Plugin,1.2, Other"
+    },
+    "615": {
+      "created": "2018-03-27T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "mobilejoomla, 2.1.24, malcious redirects"
+    },
+    "616": {
+      "created": "2018-03-30T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JS Jobs,1.2.0,XSS (Cross Site Scripting)"
+    },
+    "617": {
+      "created": "2018-03-30T00:00:00+00:00",
+      "status": "Live",
+      "title": "Rapicode, Multiple Extensions, Back Door"
+    },
+    "618": {
+      "created": "2018-04-04T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "jDownloads,3.2.58, XSS (Cross Site Scripting)"
+    },
+    "619": {
+      "created": "2018-04-06T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Virtuemart 3.2.12 and previous, XSS"
+    },
+    "620": {
+      "created": "2018-04-09T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Gridbox com_gridbox, 2.4.0, Multiple Vulnerabilities"
+    },
+    "622": {
+      "created": "2018-04-12T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Convert Forms, 2.0.3, CSV Injection"
+    },
+    "623": {
+      "created": "2018-05-08T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Admin Tools Pro, 5.0.2, Information Disclosure"
+    },
+    "624": {
+      "created": "2018-05-11T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Nexevo Contact Form, Backdoor"
+    },
+    "625": {
+      "created": "2018-05-23T22:05:36+00:00",
+      "status": "Resolved",
+      "title": "booking calendar for joomla!"
+    },
+    "628": {
+      "created": "2018-06-14T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Community Builder, 2.1.4, XSS"
+    },
+    "631": {
+      "created": "2018-07-04T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Advertisement Board 3.1.0"
+    },
+    "633": {
+      "created": "2018-07-15T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Kunena,5.0 - 5.1.1,Other"
+    },
+    "634": {
+      "created": "2018-08-01T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Magiczoomplus for Virtuemart, 4.9.4, Insecure Folder Permissions"
+    },
+    "635": {
+      "created": "2018-08-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "J-Business Directory,4.9.3,SQL Injection"
+    },
+    "636": {
+      "created": "2018-08-12T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Jcomments, version 3.0.5, Input Validation Vulnerability"
+    },
+    "638": {
+      "created": "2018-09-13T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Forms by Balbooa.com,1.7.2,Information Disclosure"
+    },
+    "639": {
+      "created": "2018-09-14T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Gantry package 5.4.26 ,Other"
+    },
+    "640": {
+      "created": "2018-09-14T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Magiczoomplus for Joomla, 3.3.4, Insecure Folder Permissions"
+    },
+    "641": {
+      "created": "2018-10-09T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JSN Framework System Plugin, 2.1.5"
+    },
+    "643": {
+      "created": "2018-09-25T11:01:38+00:00",
+      "status": "Resolved",
+      "title": "All Regular Labs extensions with editor buttons"
+    },
+    "644": {
+      "created": "2018-10-14T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "kunena,5.1.4,Other"
+    },
+    "645": {
+      "created": "2018-10-15T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "CW Article Attachments (Free Version), SQL Injection"
+    },
+    "646": {
+      "created": "2018-10-15T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "CW Article Attachments (Pro Version), SQL Injection"
+    },
+    "647": {
+      "created": "2018-11-20T18:46:17+00:00",
+      "status": "Resolved",
+      "title": "kunena,5.1.6.1,XSS (Cross Site Scripting)"
+    },
+    "648": {
+      "created": "2018-11-24T11:52:37+00:00",
+      "status": "Resolved",
+      "title": "music collection, 3.0.3 ,SQL Injection"
+    },
+    "650": {
+      "created": "2018-12-05T09:38:09+00:00",
+      "status": "Resolved",
+      "title": "Jomres,9.14.0 &amp; lower,Other"
+    },
+    "651": {
+      "created": "2018-12-30T22:02:04+00:00",
+      "status": "Resolved",
+      "title": "kunena,5.1.7,XSS (Cross Site Scripting)"
+    },
+    "653": {
+      "created": "2018-11-16T21:15:02+00:00",
+      "status": "Resolved",
+      "title": "Jimtawl 2.2.7 - 'id' SQL Injection"
+    },
+    "654": {
+      "created": "2019-01-20T09:18:34+00:00",
+      "status": "Resolved",
+      "title": "J-CruiseReservation 6.0.2 sqli"
+    },
+    "655": {
+      "created": "2019-01-20T16:17:18+00:00",
+      "status": "Resolved",
+      "title": "JoomProject 1.1.3.2 ID"
+    },
+    "656": {
+      "created": "2019-01-20T16:18:05+00:00",
+      "status": "Resolved",
+      "title": "JoomCRM 1.1.1"
+    },
+    "657": {
+      "created": "2019-02-04T16:30:15+00:00",
+      "status": "Resolved",
+      "title": "Easy Shop ,1.2.3 ,Other"
+    },
+    "658": {
+      "created": "2019-02-23T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Edocman,1.1.17,SQL Injection"
+    },
+    "659": {
+      "created": "2019-03-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Kunena,5.1.9,XSS (Cross Site Scripting)"
+    },
+    "661": {
+      "created": "2019-03-22T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "TCPDF Library,6.2.12,Other"
+    },
+    "662": {
+      "created": "2019-03-17T16:57:17+00:00",
+      "status": "Resolved",
+      "title": "Jevents 3.4.49 Various"
+    },
+    "663": {
+      "created": "2019-03-25T18:43:46+00:00",
+      "status": "Resolved",
+      "title": "AcyMailing 5.10.6 Various"
+    },
+    "664": {
+      "created": "2019-04-22T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "kunena, ,XSS (Cross Site Scripting)"
+    },
+    "665": {
+      "created": "2019-04-25T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Phoca Gallery,4.3.15 prior,Other"
+    },
+    "666": {
+      "created": "2019-05-02T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "RSForm! Pro,2.2.0 (March 2019),Other"
+    },
+    "667": {
+      "created": "2019-05-13T13:34:27+00:00",
+      "status": "Resolved",
+      "title": "Akeeba LoginGuard,3.1.1 and all lower versions,Information Disclosure"
+    },
+    "668": {
+      "created": "2019-05-13T08:58:26+00:00",
+      "status": "Resolved",
+      "title": "RSEvents! Pro (March 2019),Other"
+    },
+    "669": {
+      "created": "2019-05-13T08:58:26+00:00",
+      "status": "Resolved",
+      "title": "RSEvents! Pro Cart Plugin older than 1.1.15 ,Other"
+    },
+    "670": {
+      "created": "2019-05-13T08:58:26+00:00",
+      "status": "Resolved",
+      "title": "RSMembership! older than 1.22.11 ,Other"
+    },
+    "671": {
+      "created": "2019-05-14T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "oziogallery,5.0.1,XSS (Cross Site Scripting)"
+    },
+    "675": {
+      "created": "2019-06-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "ZOO by YOOtheme,3.3.33,SQL Injection"
+    },
+    "676": {
+      "created": "2019-05-19T07:21:04+00:00",
+      "status": "Resolved",
+      "title": "eXtplorer 2.1.12 various"
+    },
+    "677": {
+      "created": "2018-06-14T09:30:40+00:00",
+      "status": "Resolved",
+      "title": "Community Builder, 2.4.2"
+    },
+    "682": {
+      "created": "2019-08-08T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JS support ticket,1.1.5,Directory Traversal"
+    },
+    "683": {
+      "created": "2019-08-09T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Easy Discuss 4.1.9 SQL Injection"
+    },
+    "685": {
+      "created": "2019-08-12T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JS support ticket,1.1.6, SQL Injection"
+    },
+    "687": {
+      "created": "2019-08-14T19:28:24+00:00",
+      "status": "Resolved",
+      "title": "kunena, 5.0.x - 5.1.14 ,XSS (Cross Site Scripting)"
+    },
+    "688": {
+      "created": "2019-08-22T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "jDownloads,3.2.64,SQL Injection"
+    },
+    "689": {
+      "created": "2019-09-11T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "PayPlans,4.0, ID"
+    },
+    "690": {
+      "created": "2019-10-08T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "js jobs,1.1.5, 1.1.6, 1.2.5 and 1.2.6,Other"
+    },
+    "691": {
+      "created": "2019-10-16T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "J2Store, 3.3.9. and previous,XSS (Cross Site Scripting)"
+    },
+    "693": {
+      "created": "2020-03-23T00:00:00+00:00",
+      "status": "Live",
+      "title": "BadBot Protection id 14294,"
+    },
+    "694": {
+      "created": "2020-03-25T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "acymailing, 6.9.2,Other"
+    },
+    "696": {
+      "created": "2020-04-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "GMapFP 3.30,Other"
+    },
+    "697": {
+      "created": "2020-04-03T10:48:01+00:00",
+      "status": "Live",
+      "title": "hwdplayer,4.2,SQL Injection"
+    },
+    "698": {
+      "created": "2020-04-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "fabrik 3.9,Various"
+    },
+    "700": {
+      "created": "2020-05-20T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Ordasoft CCK, 6.1.12 Various"
+    },
+    "702": {
+      "created": "2020-05-26T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "xcloner,3.53,Other"
+    },
+    "711": {
+      "created": "2020-07-14T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "js jobs, 1.3, SQL Injection"
+    },
+    "713": {
+      "created": "2020-07-16T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "CMS2CMS, Connector Extension, 2.00 permissions"
+    },
+    "714": {
+      "created": "2020-07-23T08:42:33+00:00",
+      "status": "Resolved",
+      "title": "JCE Pro, 2.8.15, xss"
+    },
+    "720": {
+      "created": "2020-09-13T00:00:00+00:00",
+      "status": "Live",
+      "title": "Social Chat, 1.5 and Below, SQL Injection"
+    },
+    "724": {
+      "created": "2020-10-20T00:00:00+00:00",
+      "status": "Live",
+      "title": "paGO Commerce, 2.5.9.0, SQL Injection"
+    },
+    "725": {
+      "created": "2020-11-04T00:00:00+00:00",
+      "status": "Live",
+      "title": "publisher, 3.0.19, XSS (Cross Site Scripting)"
+    },
+    "726": {
+      "created": "2020-11-09T00:00:00+00:00",
+      "status": "Live",
+      "title": "JomSocial , 4.7.6, XSS (Cross Site Scripting)"
+    },
+    "728": {
+      "created": "2020-12-30T21:47:30+00:00",
+      "status": "Resolved",
+      "title": "RealPin by Frumania, SQL, 1.5.04"
+    },
+    "729": {
+      "created": "2021-03-30T00:00:00+00:00",
+      "status": "Live",
+      "title": "YooRecipe, All,"
+    },
+    "734": {
+      "created": "2021-09-28T00:00:00+00:00",
+      "status": "Live",
+      "title": "Balbooa Forms, 2.0.6 (not tested on others), SQL Injection"
+    },
+    "737": {
+      "created": "2021-12-17T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Ijoomla Guru, Various"
+    },
+    "738": {
+      "created": "2022-02-18T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "adblock detector nordmograph"
+    },
+    "743": {
+      "created": "2022-06-03T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JUX Timetable, 1.0.4, SQL Injection"
+    },
+    "747": {
+      "created": "2022-07-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JUX Timetable x"
+    },
+    "749": {
+      "created": "2022-09-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "EDocman, 1.23.3, XSS (Cross Site Scripting)"
+    },
+    "752": {
+      "created": "2022-09-30T00:00:00+00:00",
+      "status": "Live",
+      "title": "jCart for OpenCart, jCart for OpenCart 3.0.3.19, XSS (Cross Site Scripting)"
+    },
+    "754": {
+      "created": "2022-09-30T00:00:00+00:00",
+      "status": "Live",
+      "title": "JoomRecipe, 4.2.2, XSS (Cross Site Scripting)"
+    },
+    "756": {
+      "created": "2022-10-01T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JKassa, 2.0.0, SQL Injection"
+    },
+    "762": {
+      "created": "2022-12-27T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "LDAP Integration with Active Directory and OpenLDAP - NTLM &amp; Kerberos Login , 5.0.2, Other"
+    },
+    "765": {
+      "created": "2023-02-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "J-BusinessDirectory, 5.7.7 and prior, Other"
+    },
+    "766": {
+      "created": "2023-03-23T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JoomGallery, 3.6.1, SQL Injection"
+    },
+    "771": {
+      "created": "2023-04-11T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Visforms Base Package for Joomla!, 4, SQL Injection"
+    },
+    "775": {
+      "created": "2023-05-04T00:00:00+00:00",
+      "status": "Live",
+      "title": "Creative Gallery, , SQL Injection"
+    },
+    "783": {
+      "created": "2023-06-01T00:00:00+00:00",
+      "status": "Live",
+      "title": "HikaShop Joomla Plugin, , SQL Injection"
+    },
+    "785": {
+      "created": "2023-06-16T08:49:55+00:00",
+      "status": "Live",
+      "title": "HikaShop, Versions from 4.4.1 to 4.7.2 are affected, SQL Injection"
+    },
+    "786": {
+      "created": "2023-06-27T00:00:00+00:00",
+      "status": "Live",
+      "title": "one vote, 1.7, XSS (Cross Site Scripting)"
+    },
+    "790": {
+      "created": "2023-07-07T00:00:00+00:00",
+      "status": "Live",
+      "title": "Plugin Creative Gallery , , SQL Injection"
+    },
+    "792": {
+      "created": "2023-07-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Virtual Classroom, , SQL Injection"
+    },
+    "794": {
+      "created": "2023-07-07T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "LM-CUSTOM-ADMIN, , Other"
+    },
+    "796": {
+      "created": "2023-07-12T00:00:00+00:00",
+      "status": "Live",
+      "title": "admirror gallery, , XSS (Cross Site Scripting)"
+    },
+    "797": {
+      "created": "2023-07-12T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JC Dashboards, 1.3.10, Other"
+    },
+    "799": {
+      "created": "2023-07-12T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "quickform, , Other"
+    },
+    "801": {
+      "created": "2023-07-25T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "bagallery , , Other"
+    },
+    "802": {
+      "created": "2023-07-25T00:00:00+00:00",
+      "status": "Live",
+      "title": "Admiror Gallery, , XSS (Cross Site Scripting)"
+    },
+    "803": {
+      "created": "2023-07-30T00:00:00+00:00",
+      "status": "Live",
+      "title": "Solidres, 2.13.3, hub plugin XSS (Cross Site Scripting)"
+    },
+    "804": {
+      "created": "2023-08-18T00:00:00+00:00",
+      "status": "Live",
+      "title": "acymailing, pre 8.7.0 , Other"
+    },
+    "808": {
+      "created": "2023-09-18T00:00:00+00:00",
+      "status": "Live",
+      "title": "LazyDbBackup, 3.9.0, Other"
+    },
+    "809": {
+      "created": "2023-09-22T00:00:00+00:00",
+      "status": "Live",
+      "title": "EasyShop, 1.4.1, XSS (Cross Site Scripting)"
+    },
+    "810": {
+      "created": "2024-02-15T00:00:00+00:00",
+      "status": "Live",
+      "title": "osTicky2, , Other"
+    },
+    "813": {
+      "created": "2024-06-30T00:00:00+00:00",
+      "status": "Live",
+      "title": "Phoca Gallery, 5.0.0, XSS (Cross Site Scripting)"
+    },
+    "814": {
+      "created": "2024-06-30T00:00:00+00:00",
+      "status": "Live",
+      "title": "Advanced custom fields, 2.7.7, SQL Injection"
+    },
+    "820": {
+      "created": "2024-10-18T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "HikaShop, 5.1.3, Other ACL"
+    },
+    "822": {
+      "created": "2025-01-25T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "sourcer, 12.00, Other"
+    },
+    "823": {
+      "created": "2025-01-29T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "JS Jobs, 1.4.2, SQL Injection"
+    },
+    "825": {
+      "created": "2025-04-09T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Convert Forms, 4.4.10, XSS (Cross Site Scripting)"
+    },
+    "827": {
+      "created": "2025-04-18T00:00:00+00:00",
+      "status": "Live",
+      "title": "JEVents, 3.6.87, SQL Injection"
+    },
+    "828": {
+      "created": "2025-06-23T09:18:27+00:00",
+      "status": "Live",
+      "title": "JS Jobs, 1.4.4, XSS (Cross Site Scripting)"
+    },
+    "829": {
+      "created": "2025-07-23T21:37:25+00:00",
+      "status": "Resolved",
+      "title": "rsblog"
+    },
+    "830": {
+      "created": "2025-07-23T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "rsdirectory"
+    },
+    "831": {
+      "created": "2025-07-23T21:39:16+00:00",
+      "status": "Resolved",
+      "title": "rsmail"
+    },
+    "832": {
+      "created": "2025-07-23T21:41:12+00:00",
+      "status": "Resolved",
+      "title": "rsfiles!"
+    },
+    "833": {
+      "created": "2025-08-16T22:35:00+00:00",
+      "status": "Resolved",
+      "title": "phoc commander, varios,"
+    },
+    "834": {
+      "created": "2025-08-16T22:38:33+00:00",
+      "status": "Live",
+      "title": "JS Jobs extension (v1.4.2)"
+    },
+    "838": {
+      "created": "2025-10-19T16:42:55+00:00",
+      "status": "Resolved",
+      "title": "Phoca commander"
+    },
+    "840": {
+      "created": "2026-02-24T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Novarain/Tassos Framework, , SQL Injection"
+    },
+    "841": {
+      "created": "2026-02-24T00:00:00+00:00",
+      "status": "Live",
+      "title": "EasyDiscuss by Stackideas,, , SQL Injection"
+    },
+    "860": {
+      "created": "2026-06-23T12:51:52+00:00",
+      "status": "Live",
+      "title": "JCE, 2.9.79, Other"
+    },
+    "861": {
+      "created": "2026-06-28T18:39:34+00:00",
+      "status": "Live",
+      "title": "Simple Email Form (mod_simpleemailform), 2.3.0, Other"
+    },
+    "862": {
+      "created": "2026-06-28T19:23:24+00:00",
+      "status": "Live",
+      "title": "Easy File Uploader (mod_easyfileuploader), 2.9.6, Other"
+    },
+    "863": {
+      "created": "2026-06-28T19:23:28+00:00",
+      "status": "Live",
+      "title": "Easy File Uploader (mod_easyfileuploader), 2.9.6, Other"
+    },
+    "864": {
+      "created": "2026-06-28T20:17:10+00:00",
+      "status": "Live",
+      "title": "mod_djcontact (DJ Contact), , Other"
+    },
+    "865": {
+      "created": "2026-06-29T10:09:15+00:00",
+      "status": "Live",
+      "title": "plg_system_helixultimate, , XSS (Cross Site Scripting)"
+    },
+    "866": {
+      "created": "2026-07-03T22:16:31+00:00",
+      "status": "Live",
+      "title": "Helix 3 Ajax Plugin, , SQL Injection"
+    },
+    "867": {
+      "created": "2026-07-08T21:22:59+00:00",
+      "status": "Live",
+      "title": "com_baforms, , Other"
+    },
+    "868": {
+      "created": "2026-07-09T12:27:48+00:00",
+      "status": "Live",
+      "title": "Breezingforms, , Other"
+    },
+    "870": {
+      "created": "2026-07-12T16:38:29+00:00",
+      "status": "Live",
+      "title": "Balbooa Forms (com_baforms), All versions including 2.4.1, Other"
+    },
+    "871": {
+      "created": "2026-07-12T16:40:13+00:00",
+      "status": "Live",
+      "title": "Balbooa Forms (com_baforms), All versions including 2.4.1, Other"
+    },
+    "872": {
+      "created": "2026-07-16T16:00:28+00:00",
+      "status": "Live",
+      "title": "jDownloads, 4.1.5, Other"
+    },
+    "873": {
+      "created": "2026-07-17T22:07:56+00:00",
+      "status": "Live",
+      "title": "dpcalendar, , Other"
+    },
+    "876": {
+      "created": "2026-07-17T22:37:12+00:00",
+      "status": "Resolved",
+      "title": "chronoforms"
+    },
+    "879": {
+      "created": "2026-07-21T00:00:00+00:00",
+      "status": "Resolved",
+      "title": "Phoca Guestbook, , Other"
+    },
+    "880": {
+      "created": "2026-07-21T00:00:00+00:00",
+      "status": "Live",
+      "title": "EasyStore Pro 2.0.1, , Other"
+    },
+    "882": {
+      "created": "2026-07-23T21:54:03+00:00",
+      "status": "Resolved",
+      "title": "Phoca Maps pre version 6.1.0, other"
+    }
+  },
+  "extension_count": 463,
+  "note": "Vulnerable Joomla extensions. Dataset; extension name + version are in the title string. No pinnable manifest.",
+  "source": "https://vel.joomla.org (Joomla Vulnerable Extensions List)"
+}

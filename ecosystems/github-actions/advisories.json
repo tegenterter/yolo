@@ -1,0 +1,79 @@
+{
+  "distinct_advisory_count": 14,
+  "distinct_cve_count": 10,
+  "ecosystem": "GitHub Actions",
+  "manifest": ".github/workflows/vuln-actions.yml",
+  "package_count": 11,
+  "packages": {
+    "OZI-Project/publish": {
+      "ids": [
+        "CVE-2025-47271"
+      ],
+      "version": "1.13.2"
+    },
+    "SonarSource/sonarqube-scan-action": {
+      "ids": [
+        "CVE-2025-58178",
+        "CVE-2025-59844"
+      ],
+      "version": "4.0.0"
+    },
+    "actions/download-artifact": {
+      "ids": [
+        "GHSA-cxww-7g56-2vh6"
+      ],
+      "version": "4.0.0"
+    },
+    "actions/runner": {
+      "ids": [
+        "CVE-2022-39321"
+      ],
+      "version": "2.294.0"
+    },
+    "aquasecurity/trivy-action": {
+      "ids": [
+        "CVE-2026-26189"
+      ],
+      "version": "0.31.0"
+    },
+    "github/codeql-action": {
+      "ids": [
+        "CVE-2025-24362"
+      ],
+      "version": "3.26.11"
+    },
+    "google-github-actions/run-gemini-cli": {
+      "ids": [
+        "CVE-2026-12537",
+        "GHSA-jj69-4grx-fqj5"
+      ],
+      "version": "v0.1.21"
+    },
+    "rlespinasse/github-slug-action": {
+      "ids": [
+        "CVE-2023-27581",
+        "GHSA-7f32-hm4h-w77q"
+      ],
+      "version": "4.0.0"
+    },
+    "shivammathur/setup-php": {
+      "ids": [
+        "CVE-2026-46420",
+        "GHSA-5wxr-w449-57cm"
+      ],
+      "version": "2.25.0"
+    },
+    "super-linter/super-linter": {
+      "ids": [
+        "CVE-2026-25761"
+      ],
+      "version": "6.0.0"
+    },
+    "super-linter/super-linter/slim": {
+      "ids": [
+        "CVE-2026-25761"
+      ],
+      "version": "6.0.0"
+    }
+  }
+}

@@ -1,0 +1,4349 @@
+{
+  "source": "https://www.drupal.org/security (SA-CORE + SA-CONTRIB)",
+  "note": "Drupal core and contributed-module security advisories. Dataset (advisory -> metadata); contrib modules are drupal/<module> on Packagist.",
+  "advisory_count": 244,
+  "distinct_cve_count": 218,
+  "advisories": {
+    "001": {
+      "title": "Drupal core - Critical - Cross-site scripting - SA-CORE-2026-001",
+      "advisory_id": "001",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-6365"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3585025",
+          "id": "3585025",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3585027",
+          "id": "3585027",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3585030",
+          "id": "3585030",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3585031",
+          "id": "3585031",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "002": {
+      "title": "Drupal core - Moderately critical - Gadget Chain - SA-CORE-2026-002",
+      "advisory_id": "002",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:Uncommon",
+      "sa_type": "Gadget Chain",
+      "cves": [
+        "CVE-2026-6366"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3585025",
+          "id": "3585025",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3585027",
+          "id": "3585027",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3585030",
+          "id": "3585030",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3585031",
+          "id": "3585031",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "003": {
+      "title": "Drupal core - Moderately critical - Cross-site scripting - SA-CORE-2026-003",
+      "advisory_id": "003",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-6367"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3585025",
+          "id": "3585025",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "004": {
+      "title": "Drupal core - Highly critical - SQL injection - SA-CORE-2026-004",
+      "advisory_id": "004",
+      "criticality": "AC:None/A:None/CI:All/II:All/E:Exploit/TD:Uncommon",
+      "sa_type": "SQL injection",
+      "cves": [
+        "CVE-2026-9082"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3591135",
+          "id": "3591135",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3591136",
+          "id": "3591136",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3591137",
+          "id": "3591137",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3591139",
+          "id": "3591139",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3591140",
+          "id": "3591140",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "005": {
+      "title": "Drupal core - Critical - PHP object injection - SA-CORE-2026-005",
+      "advisory_id": "005",
+      "criticality": "AC:None/A:User/CI:All/II:All/E:Theoretical/TD:Uncommon",
+      "sa_type": "PHP object injection",
+      "cves": [
+        "CVE-2026-55803"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603249",
+          "id": "3603249",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603252",
+          "id": "3603252",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603331",
+          "id": "3603331",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603400",
+          "id": "3603400",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603411",
+          "id": "3603411",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "006": {
+      "title": "Drupal core - Moderately critical - Gadget chain - SA-CORE-2026-006",
+      "advisory_id": "006",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:Uncommon",
+      "sa_type": "Gadget chain",
+      "cves": [
+        "CVE-2026-55804"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603249",
+          "id": "3603249",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603252",
+          "id": "3603252",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603331",
+          "id": "3603331",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603400",
+          "id": "3603400",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603411",
+          "id": "3603411",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "007": {
+      "title": "Drupal core - Less critical - Cache poisoning and open redirect - SA-CORE-2026-007",
+      "advisory_id": "007",
+      "criticality": "AC:Basic/A:None/CI:None/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Cache poisoning and open redirect",
+      "cves": [
+        "CVE-2026-55806"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603249",
+          "id": "3603249",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603252",
+          "id": "3603252",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603331",
+          "id": "3603331",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603400",
+          "id": "3603400",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603411",
+          "id": "3603411",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "008": {
+      "title": "Drupal core - Moderately critical - Server-side request forgery - SA-CORE-2026-008",
+      "advisory_id": "008",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Server-side request forgery",
+      "cves": [
+        "CVE-2026-55807"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603249",
+          "id": "3603249",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603252",
+          "id": "3603252",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603331",
+          "id": "3603331",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603400",
+          "id": "3603400",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603411",
+          "id": "3603411",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "009": {
+      "title": "Drupal core - Moderately critical - Improper validation - SA-CORE-2026-009",
+      "advisory_id": "009",
+      "criticality": "AC:Complex/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Improper validation",
+      "cves": [
+        "CVE-2026-55808"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603249",
+          "id": "3603249",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603252",
+          "id": "3603252",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603331",
+          "id": "3603331",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603400",
+          "id": "3603400",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603411",
+          "id": "3603411",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "01-06": {
+      "title": "Drupal 7 End of Life - PSA-2025-01-06",
+      "advisory_id": "01-06",
+      "criticality": null,
+      "sa_type": "Drupal 7 End of Life",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "010": {
+      "title": "Drupal core - Moderately critical - Information disclosure - SA-CORE-2026-010",
+      "advisory_id": "010",
+      "criticality": "AC:Complex/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-15916"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3611224",
+          "id": "3611224",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3611225",
+          "id": "3611225",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3611226",
+          "id": "3611226",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "011": {
+      "title": "Drupal core - Moderately critical - Cross-site scripting - SA-CORE-2026-011",
+      "advisory_id": "011",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-15917"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3611224",
+          "id": "3611224",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3611225",
+          "id": "3611225",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3611226",
+          "id": "3611226",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "012": {
+      "title": "Drupal core - Moderately critical - Cross-site scripting - SA-CORE-2026-012",
+      "advisory_id": "012",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-55805"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3611224",
+          "id": "3611224",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3611225",
+          "id": "3611225",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3611226",
+          "id": "3611226",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "013": {
+      "title": "Drupal core - Moderately critical - Third-party libraries - SA-CORE-2026-013",
+      "advisory_id": "013",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Third-party libraries",
+      "cves": [],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3623669",
+          "id": "3623669",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3623680",
+          "id": "3623680",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3623681",
+          "id": "3623681",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "014": {
+      "title": "Drupal core - Critical - Remote code execution - SA-CORE-2026-014",
+      "advisory_id": "014",
+      "criticality": "AC:Basic/A:None/CI:All/II:All/E:Theoretical/TD:Default",
+      "sa_type": "Remote code execution",
+      "cves": [
+        "CVE-2026-108097"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630898",
+          "id": "3630898",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630901",
+          "id": "3630901",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630907",
+          "id": "3630907",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "015": {
+      "title": "Drupal core - Moderately critical - Cross-site scripting - SA-CORE-2026-015",
+      "advisory_id": "015",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Proof/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-108515"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630898",
+          "id": "3630898",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630901",
+          "id": "3630901",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630907",
+          "id": "3630907",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "016": {
+      "title": "Drupal core - Moderately critical - Cross-site scripting - SA-CORE-2026-016",
+      "advisory_id": "016",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-108514"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630898",
+          "id": "3630898",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630901",
+          "id": "3630901",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630907",
+          "id": "3630907",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "017": {
+      "title": "Drupal Canvas - Moderately critical - Server-side request forgery, Information disclosure - SA-CONTRIB-2026-017",
+      "advisory_id": "017",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Server-side request forgery, Information disclosure",
+      "cves": [
+        "CVE-2026-3216"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3575653",
+          "id": "3575653",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "018": {
+      "title": "SAML SSO - Service Provider  - Critical - Cross-site scripting - SA-CONTRIB-2026-018",
+      "advisory_id": "018",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-3217"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3575596",
+          "id": "3575596",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "019": {
+      "title": "Responsive Favicons - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-019",
+      "advisory_id": "019",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-3218"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3575599",
+          "id": "3575599",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "02-19": {
+      "title": "Critical Release - PSA-2019-02-19",
+      "advisory_id": "02-19",
+      "criticality": "AC:None/A:None/CI:All/II:All/E:Theoretical/TD:Uncommon",
+      "sa_type": "Critical Release",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "02-22": {
+      "title": "SA-CORE-2019-003 Notice of increased risk and Additional exploit path - PSA-2019-02-22",
+      "advisory_id": "02-22",
+      "criticality": null,
+      "sa_type": "SA-CORE-2019-003 Notice of increased risk and Additional exploit path",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "02-23": {
+      "title": "Drupal 7's End-of-Life extended to November 1, 2023 - PSA-2022-02-23",
+      "advisory_id": "02-23",
+      "criticality": null,
+      "sa_type": "Drupal 7's End-of-Life extended to November 1, 2023",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "02-25": {
+      "title": " Drupal 7 will reach end-of-life in November of 2022 - PSA-2019-02-25",
+      "advisory_id": "02-25",
+      "criticality": null,
+      "sa_type": " Drupal 7 will reach end-of-life in November of 2022",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "020": {
+      "title": "File Access Fix (deprecated) - Moderately critical - Access bypass - SA-CONTRIB-2026-020",
+      "advisory_id": "020",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-3525"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3576806",
+          "id": "3576806",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "021": {
+      "title": "File Access Fix (deprecated) - Moderately critical - Access bypass - SA-CONTRIB-2026-021",
+      "advisory_id": "021",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-3526"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3576806",
+          "id": "3576806",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "022": {
+      "title": "AJAX Dashboard - Critical - Access bypass - SA-CONTRIB-2026-022",
+      "advisory_id": "022",
+      "criticality": "AC:None/A:None/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-3527"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3576913",
+          "id": "3576913",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "023": {
+      "title": "Calculation Fields - Moderately critical - Cross-site Scripting - SA-CONTRIB-2026-023",
+      "advisory_id": "023",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site Scripting",
+      "cves": [
+        "CVE-2026-3528"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3576970",
+          "id": "3576970",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "024": {
+      "title": "Google Analytics GA4 - Moderately critical - Cross-site Scripting - SA-CONTRIB-2026-024",
+      "advisory_id": "024",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site Scripting",
+      "cves": [
+        "CVE-2026-3529"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3577152",
+          "id": "3577152",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "025": {
+      "title": "OpenID Connect / OAuth client - Moderately critical - Server-side request forgery, Information disclosure - SA-CONTRIB-2026-025",
+      "advisory_id": "025",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Server-side request forgery, Information disclosure",
+      "cves": [
+        "CVE-2026-3530"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3576962",
+          "id": "3576962",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "026": {
+      "title": "OpenID Connect / OAuth client - Moderately critical - Access bypass - SA-CONTRIB-2026-026",
+      "advisory_id": "026",
+      "criticality": "AC:Complex/A:User/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-3531"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3576962",
+          "id": "3576962",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "027": {
+      "title": "OpenID Connect / OAuth client - Less critical - Access bypass - SA-CONTRIB-2026-027",
+      "advisory_id": "027",
+      "criticality": "AC:Complex/A:User/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-3532"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3576962",
+          "id": "3576962",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "028": {
+      "title": "AI (Artificial Intelligence) - Moderately critical - Information Disclosure - SA-CONTRIB-2026-028",
+      "advisory_id": "028",
+      "criticality": "AC:Complex/A:None/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Information Disclosure",
+      "cves": [
+        "CVE-2026-3573"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3578530",
+          "id": "3578530",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3578531",
+          "id": "3578531",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "029": {
+      "title": "Unpublished Node Permissions - Critical - Access bypass - SA-CONTRIB-2026-029",
+      "advisory_id": "029",
+      "criticality": "AC:None/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-4933"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3578468",
+          "id": "3578468",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "03-09": {
+      "title": "End of Drupal 6 vendor support - PSA-2022-03-09",
+      "advisory_id": "03-09",
+      "criticality": null,
+      "sa_type": "End of Drupal 6 vendor support",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "030": {
+      "title": "Automated Logout - Moderately critical - Cross-site request forgery - SA-CONTRIB-2026-030",
+      "advisory_id": "030",
+      "criticality": "AC:Basic/A:None/CI:None/II:None/E:Theoretical/TD:All",
+      "sa_type": "Cross-site request forgery",
+      "cves": [
+        "CVE-2026-4393"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3579900",
+          "id": "3579900",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3579901",
+          "id": "3579901",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "031": {
+      "title": "SAML SSO - Service Provider  - Critical - Authentication bypass - SA-CONTRIB-2026-031",
+      "advisory_id": "031",
+      "criticality": "AC:Complex/A:None/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Authentication bypass",
+      "cves": [
+        "CVE-2026-5343"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3582611",
+          "id": "3582611",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "032": {
+      "title": "Orejime - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-032",
+      "advisory_id": "032",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-6095"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3583624",
+          "id": "3583624",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "033": {
+      "title": "Obfuscate - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-033",
+      "advisory_id": "033",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-6871"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3586152",
+          "id": "3586152",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "034": {
+      "title": "Node View Permissions - Moderately critical - Access bypass - SA-CONTRIB-2026-034",
+      "advisory_id": "034",
+      "criticality": "AC:Complex/A:None/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-8491"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3589843",
+          "id": "3589843",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3589844",
+          "id": "3589844",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "035": {
+      "title": "Translate Drupal with GTranslate - Less critical - DOM clobbering / link manipulation - SA-CONTRIB-2026-035",
+      "advisory_id": "035",
+      "criticality": "AC:Basic/A:Admin/CI:None/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "DOM clobbering / link manipulation",
+      "cves": [
+        "CVE-2026-8492"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3589925",
+          "id": "3589925",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "036": {
+      "title": "Colorbox Inline - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-036",
+      "advisory_id": "036",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-8493"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3589778",
+          "id": "3589778",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "037": {
+      "title": "Date iCal - Critical - Information disclosure - SA-CONTRIB-2026-037",
+      "advisory_id": "037",
+      "criticality": "AC:None/A:None/CI:All/II:None/E:Theoretical/TD:All",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-8495"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3589985",
+          "id": "3589985",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "038": {
+      "title": "Drupal AlternativeCommerce (Basket) - Highly critical - Arbitrary PHP code execution - SA-CONTRIB-2026-038",
+      "advisory_id": "038",
+      "criticality": "AC:None/A:None/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Arbitrary PHP code execution",
+      "cves": [
+        "CVE-2026-9726"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3592074",
+          "id": "3592074",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "039": {
+      "title": "LocalGov Workflows - Moderately critical - Information disclosure - SA-CONTRIB-2026-039",
+      "advisory_id": "039",
+      "criticality": "AC:None/A:None/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-10768"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3593473",
+          "id": "3593473",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "040": {
+      "title": "TacJS - Moderately critical - Improper Access Control - SA-CONTRIB-2026-040",
+      "advisory_id": "040",
+      "criticality": "AC:Basic/A:User/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Improper Access Control",
+      "cves": [
+        " CVE-2026-49977 "
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3593352",
+          "id": "3593352",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "041": {
+      "title": "Commerce Core - Moderately critical - Cross site scripting - SA-CONTRIB-2026-041",
+      "advisory_id": "041",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross site scripting",
+      "cves": [
+        "CVE-2026-10769"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3593267",
+          "id": "3593267",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "042": {
+      "title": "Anti-Spam by CleanTalk - Moderately critical - Cross site scripting - SA-CONTRIB-2026-042",
+      "advisory_id": "042",
+      "criticality": "AC:Complex/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross site scripting",
+      "cves": [
+        "CVE-2026-10770"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3589870",
+          "id": "3589870",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "043": {
+      "title": "Tagify - Moderately critical - Cross-site scripting (XSS) - SA-CONTRIB-2026-043",
+      "advisory_id": "043",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site scripting (XSS)",
+      "cves": [
+        "CVE-2026-11908"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3595199",
+          "id": "3595199",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "044": {
+      "title": "Examples for Developers - Moderately critical - Access bypass - SA-CONTRIB-2026-044",
+      "advisory_id": "044",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-11909"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3595560",
+          "id": "3595560",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "045": {
+      "title": "Mother May I - Critical - Unsupported - SA-CONTRIB-2026-045",
+      "advisory_id": "045",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-11913"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "046": {
+      "title": "Composer - Critical - Unsupported - SA-CONTRIB-2026-046",
+      "advisory_id": "046",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-11914"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "047": {
+      "title": "Brute force attack protection - Critical - Unsupported - SA-CONTRIB-2026-047",
+      "advisory_id": "047",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-11915"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "048": {
+      "title": "Formatter Field - Critical - PHP object injection - SA-CONTRIB-2026-048",
+      "advisory_id": "048",
+      "criticality": "AC:None/A:User/CI:All/II:All/E:Theoretical/TD:Default",
+      "sa_type": "PHP object injection",
+      "cves": [
+        "CVE-2026-12535"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3601232",
+          "id": "3601232",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "049": {
+      "title": "Flag attendance field - Critical - PHP object injection - SA-CONTRIB-2026-049",
+      "advisory_id": "049",
+      "criticality": "AC:None/A:User/CI:All/II:All/E:Theoretical/TD:Default",
+      "sa_type": "PHP object injection",
+      "cves": [
+        "CVE-2026-55809"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3602091",
+          "id": "3602091",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "05-07": {
+      "title": "Drupal 7 and 8 release on May 8th, 2019 - PSA-2019-05-07",
+      "advisory_id": "05-07",
+      "criticality": null,
+      "sa_type": "Drupal 7 and 8 release on May 8th, 2019",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "05-18": {
+      "title": "Upcoming highly critical release on May 20, 2026 - PSA-2026-05-18",
+      "advisory_id": "05-18",
+      "criticality": "AC:None/A:None/CI:All/II:All/E:Theoretical/TD:Uncommon",
+      "sa_type": "Upcoming highly critical release on May 20, 2026",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "05-25": {
+      "title": "Off Cycle Drupal Core Security Release - PSA-2021-05-25",
+      "advisory_id": "05-25",
+      "criticality": null,
+      "sa_type": "Off Cycle Drupal Core Security Release",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "050": {
+      "title": "Plotly.js Graphing - Critical - PHP object injection - SA-CONTRIB-2026-050",
+      "advisory_id": "050",
+      "criticality": "AC:None/A:User/CI:All/II:All/E:Theoretical/TD:Default",
+      "sa_type": "PHP object injection",
+      "cves": [
+        "CVE-2026-55810"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603049",
+          "id": "3603049",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3603050",
+          "id": "3603050",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "051": {
+      "title": "Advanced Content Feedback (aka admin_feedback) - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-051",
+      "advisory_id": "051",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-13231"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605828",
+          "id": "3605828",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "052": {
+      "title": "Advanced Content Feedback (aka admin_feedback) - Moderately critical - Access bypass / Insecure Direct Object Reference (IDOR) - SA-CONTRIB-2026-052",
+      "advisory_id": "052",
+      "criticality": "AC:Basic/A:User/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass / Insecure Direct Object Reference (IDOR)",
+      "cves": [
+        "CVE-2026-13232"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605828",
+          "id": "3605828",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "053": {
+      "title": "OpenAI Provider - Moderately critical - Server-side Request Forgery - SA-CONTRIB-2026-053",
+      "advisory_id": "053",
+      "criticality": "AC:Complex/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Server-side Request Forgery",
+      "cves": [
+        "CVE-2026-13233"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605853",
+          "id": "3605853",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605854",
+          "id": "3605854",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "054": {
+      "title": "AI (Artificial Intelligence) - Moderately critical - Information Disclosure / Cross-site Scripting - SA-CONTRIB-2026-054",
+      "advisory_id": "054",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Information Disclosure / Cross-site Scripting",
+      "cves": [
+        "CVE-2026-13234"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605838",
+          "id": "3605838",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605839",
+          "id": "3605839",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605841",
+          "id": "3605841",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "055": {
+      "title": "AI (Artificial Intelligence) - Moderately critical - Access bypass - SA-CONTRIB-2026-055",
+      "advisory_id": "055",
+      "criticality": "AC:Complex/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-13235"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605838",
+          "id": "3605838",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605839",
+          "id": "3605839",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605841",
+          "id": "3605841",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "056": {
+      "title": "AI Agents - Less critical - Access bypass - SA-CONTRIB-2026-056",
+      "advisory_id": "056",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-13236"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605835",
+          "id": "3605835",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605836",
+          "id": "3605836",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605837",
+          "id": "3605837",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "057": {
+      "title": "AI Agents - Moderately critical - Information disclosure, Access bypass - SA-CONTRIB-2026-057",
+      "advisory_id": "057",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Information disclosure, Access bypass",
+      "cves": [
+        "CVE-2026-13237"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605835",
+          "id": "3605835",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605836",
+          "id": "3605836",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605837",
+          "id": "3605837",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "058": {
+      "title": "Commerce Realex / Global Payments - Moderately critical - Access Bypass - SA-CONTRIB-2026-058",
+      "advisory_id": "058",
+      "criticality": "AC:Basic/A:None/CI:None/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access Bypass",
+      "cves": [
+        "CVE-2026-13238"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605857",
+          "id": "3605857",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "059": {
+      "title": "WissKI - Critical - Access bypass - SA-CONTRIB-2026-059",
+      "advisory_id": "059",
+      "criticality": "AC:None/A:None/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-13239"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605762",
+          "id": "3605762",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "06-07": {
+      "title": "End of life announcement and changes to Drupal 7 support - PSA-2023-06-07",
+      "advisory_id": "06-07",
+      "criticality": null,
+      "sa_type": "End of life announcement and changes to Drupal 7 support",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "06-20": {
+      "title": "Updated security policy for Drupal core Composer dependencies - PSA-2022-06-20",
+      "advisory_id": "06-20",
+      "criticality": null,
+      "sa_type": "Updated security policy for Drupal core Composer dependencies",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "06-24": {
+      "title": "Extending Drupal 7's End-of-Life - PSA-2020-06-24",
+      "advisory_id": "06-24",
+      "criticality": null,
+      "sa_type": "Extending Drupal 7's End-of-Life",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "06-26": {
+      "title": "Third-Party Libraries and Supply Chains - PSA-2024-06-26",
+      "advisory_id": "06-26",
+      "criticality": null,
+      "sa_type": "Third-Party Libraries and Supply Chains",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "06-29": {
+      "title": "Drupal 8 end-of-life on November 2, 2021 - PSA-2021-06-29",
+      "advisory_id": "06-29",
+      "criticality": null,
+      "sa_type": "Drupal 8 end-of-life on November 2, 2021",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "060": {
+      "title": "Paragraphs - Less critical - Access bypass - SA-CONTRIB-2026-060",
+      "advisory_id": "060",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-13240"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605905",
+          "id": "3605905",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "061": {
+      "title": "Paragraphs - Moderately critical - Access bypass - SA-CONTRIB-2026-061",
+      "advisory_id": "061",
+      "criticality": "AC:Basic/A:None/CI:None/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-13241"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605905",
+          "id": "3605905",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "062": {
+      "title": "Geolocation Field - Critical - SQL Injection - SA-CONTRIB-2026-062",
+      "advisory_id": "062",
+      "criticality": "AC:Basic/A:None/CI:All/II:All/E:Theoretical/TD:Default",
+      "sa_type": "SQL Injection",
+      "cves": [
+        "CVE-2026-13242"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605311",
+          "id": "3605311",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "063": {
+      "title": "Salesforce Suite - Moderately critical - Cross-site request forgery - SA-CONTRIB-2026-063",
+      "advisory_id": "063",
+      "criticality": "AC:Complex/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site request forgery",
+      "cves": [
+        "CVE-2026-13243"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3605891",
+          "id": "3605891",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "064": {
+      "title": "Tealium iQ Tag Management - Critical - PHP object injection - SA-CONTRIB-2026-064",
+      "advisory_id": "064",
+      "criticality": "AC:None/A:User/CI:All/II:All/E:Theoretical/TD:Default",
+      "sa_type": "PHP object injection",
+      "cves": [
+        "CVE-2026-13244"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3606287",
+          "id": "3606287",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "065": {
+      "title": "Drupal Canvas - Moderately critical - Improper validation - SA-CONTRIB-2026-065",
+      "advisory_id": "065",
+      "criticality": "AC:Complex/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Improper validation",
+      "cves": [
+        "CVE-2026-58587"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607679",
+          "id": "3607679",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607680",
+          "id": "3607680",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607682",
+          "id": "3607682",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607683",
+          "id": "3607683",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "066": {
+      "title": "Drupal Canvas - Moderately critical - Improper validation - SA-CONTRIB-2026-066",
+      "advisory_id": "066",
+      "criticality": "AC:Complex/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Improper validation",
+      "cves": [
+        "CVE-2026-58588"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607679",
+          "id": "3607679",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607680",
+          "id": "3607680",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607682",
+          "id": "3607682",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607683",
+          "id": "3607683",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "067": {
+      "title": "FlowDrop - Moderately critical - Access bypass - SA-CONTRIB-2026-067",
+      "advisory_id": "067",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-58589"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607570",
+          "id": "3607570",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "068": {
+      "title": "FlowDrop - Moderately critical - Access bypass - SA-CONTRIB-2026-068",
+      "advisory_id": "068",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-58590"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607570",
+          "id": "3607570",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "069": {
+      "title": "Colorbox - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-069",
+      "advisory_id": "069",
+      "criticality": "AC:Complex/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-58591"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607273",
+          "id": "3607273",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3607274",
+          "id": "3607274",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "07-12": {
+      "title": "Announcement: Drupal core issues with some risk levels may be treated as bugs in the public issue queue, not as private security issues - PSA-2023-07-12",
+      "advisory_id": "07-12",
+      "criticality": null,
+      "sa_type": "Announcement: Drupal core issues with some risk levels may be treated as bugs in the public issue queue, not as private security issues",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "07-19": {
+      "title": "Last chance to adopt Drupal 7 contributed projects before they might be marked unsupported - PSA-2023-07-19",
+      "advisory_id": "07-19",
+      "criticality": null,
+      "sa_type": "Last chance to adopt Drupal 7 contributed projects before they might be marked unsupported",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "07-22": {
+      "title": "Security advisory coverage removed - QA Accounts - PSA-2026-07-22",
+      "advisory_id": "07-22",
+      "criticality": null,
+      "sa_type": "Security advisory coverage removed - QA Accounts",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "07-30": {
+      "title": "Drupal 8 release on August 1st, 2018 - PSA-2018-07-30",
+      "advisory_id": "07-30",
+      "criticality": null,
+      "sa_type": "Drupal 8 release on August 1st, 2018",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "070": {
+      "title": "Login Disable - Moderately critical - Access bypass - SA-CONTRIB-2026-070",
+      "advisory_id": "070",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-15079"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609083",
+          "id": "3609083",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "071": {
+      "title": "Ray Enterprise Translation - Moderately critical - Cross site request forgery - SA-CONTRIB-2026-071",
+      "advisory_id": "071",
+      "criticality": "AC:Complex/A:None/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross site request forgery",
+      "cves": [
+        "CVE-2026-15080"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609133",
+          "id": "3609133",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609136",
+          "id": "3609136",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609138",
+          "id": "3609138",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "072": {
+      "title": "Location Selector - Critical - SQL Injection - SA-CONTRIB-2026-072",
+      "advisory_id": "072",
+      "criticality": "AC:Basic/A:None/CI:All/II:All/E:Theoretical/TD:Default",
+      "sa_type": "SQL Injection",
+      "cves": [
+        "CVE-2026-15081"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609088",
+          "id": "3609088",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "073": {
+      "title": "Siteimprove Analytics - Moderately critical - Cross-site Scripting - SA-CONTRIB-2026-073",
+      "advisory_id": "073",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site Scripting",
+      "cves": [
+        "CVE-2026-15082"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609282",
+          "id": "3609282",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "074": {
+      "title": "ECA: Event - Condition - Action - Less critical - Information disclosure - SA-CONTRIB-2026-074",
+      "advisory_id": "074",
+      "criticality": "AC:Complex/A:User/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-15083"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609310",
+          "id": "3609310",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609311",
+          "id": "3609311",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609312",
+          "id": "3609312",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "075": {
+      "title": "UI Patterns (SDC in Drupal UI) - Moderately critical - Cross site scripting - SA-CONTRIB-2026-075",
+      "advisory_id": "075",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross site scripting",
+      "cves": [
+        "CVE-2026-15084"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609304",
+          "id": "3609304",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "076": {
+      "title": "AI SEO/GEO Analyzer - Moderately critical - Cross-site Scripting - SA-CONTRIB-2026-076",
+      "advisory_id": "076",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site Scripting",
+      "cves": [
+        "CVE-2026-15085"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3609350",
+          "id": "3609350",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "077": {
+      "title": "Raw Formatter [Meta Tag Formatter] - Critical - Unsupported - SA-CONTRIB-2026-077",
+      "advisory_id": "077",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-15086"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "078": {
+      "title": "Clean RESTful - Critical - Unsupported - SA-CONTRIB-2026-078",
+      "advisory_id": "078",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-15087"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "079": {
+      "title": "Commerce guest registration - Critical - Unsupported - SA-CONTRIB-2026-079",
+      "advisory_id": "079",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-15089"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "08-09": {
+      "title": "Drupal 8 and 9 core release on August 12, 2021 - PSA-2021-08-09",
+      "advisory_id": "08-09",
+      "criticality": null,
+      "sa_type": "Drupal 8 and 9 core release on August 12, 2021",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "080": {
+      "title": "Media Folders - Moderately critical - Cross site scripting - SA-CONTRIB-2026-080",
+      "advisory_id": "080",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross site scripting",
+      "cves": [
+        "CVE-2026-16638"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3612294",
+          "id": "3612294",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "081": {
+      "title": "Internationalization Single Sign-On - Critical - Access bypass - SA-CONTRIB-2026-081",
+      "advisory_id": "081",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-16639"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3612346",
+          "id": "3612346",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "082": {
+      "title": "Search API Autocomplete - Moderately critical - Cross-site Scripting - SA-CONTRIB-2026-082",
+      "advisory_id": "082",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site Scripting",
+      "cves": [
+        "CVE-2026-16640"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3612512",
+          "id": "3612512",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "083": {
+      "title": "PanKM - Critical - Unsupported - SA-CONTRIB-2026-083",
+      "advisory_id": "083",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-16646"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "084": {
+      "title": "Commerce Elavon - Critical - Unsupported - SA-CONTRIB-2026-084",
+      "advisory_id": "084",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-16641"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "085": {
+      "title": "Email Login OTP - Critical - Unsupported - SA-CONTRIB-2026-085",
+      "advisory_id": "085",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-16642"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "086": {
+      "title": "Lunr exposed filters - Critical - Unsupported  - SA-CONTRIB-2026-086",
+      "advisory_id": "086",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported ",
+      "cves": [
+        "CVE-2026-16643"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "087": {
+      "title": "Webform REST - Moderately critical - Access bypass - SA-CONTRIB-2026-087",
+      "advisory_id": "087",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-16644"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3409312",
+          "id": "3409312",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "088": {
+      "title": "PhotoSwipe - Responsive JavaScript Modal Image Gallery - Moderately critical - Access bypass - SA-CONTRIB-2026-088",
+      "advisory_id": "088",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-16645"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3302356",
+          "id": "3302356",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "089": {
+      "title": "Development Environment - Critical - Unsupported - SA-CONTRIB-2026-089",
+      "advisory_id": "089",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-15088"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "09-04": {
+      "title": "Various Third-Party Vulnerabilities - PSA-2019-09-04",
+      "advisory_id": "09-04",
+      "criticality": null,
+      "sa_type": "Various Third-Party Vulnerabilities",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "09-17": {
+      "title": "Third-Party Libraries and Supply Chains - PSA-2025-09-17",
+      "advisory_id": "09-17",
+      "criticality": null,
+      "sa_type": "Third-Party Libraries and Supply Chains",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "09-21": {
+      "title": "Upcoming critical contributed project security release on September 23, 2026 - PSA-2026-09-21",
+      "advisory_id": "09-21",
+      "criticality": null,
+      "sa_type": "Upcoming critical contributed project security release on September 23, 2026",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "090": {
+      "title": "Token Content Access - Moderately critical - Access bypass - SA-CONTRIB-2026-090",
+      "advisory_id": "090",
+      "criticality": "AC:Complex/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-18259"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3613787",
+          "id": "3613787",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "091": {
+      "title": "Disable Login Page - Critical - Unsupported - SA-CONTRIB-2026-091",
+      "advisory_id": "091",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-18260"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "092": {
+      "title": "Powerful Surveys - Critical - Unsupported - SA-CONTRIB-2026-092",
+      "advisory_id": "092",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-18261"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "093": {
+      "title": "Edit in-place field - Moderately critical - Access bypass - SA-CONTRIB-2026-093",
+      "advisory_id": "093",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-18985"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3614965",
+          "id": "3614965",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "094": {
+      "title": "Entity Browser - Moderately critical - Cross site scripting - SA-CONTRIB-2026-094",
+      "advisory_id": "094",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross site scripting",
+      "cves": [
+        "CVE-2026-18986"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3614995",
+          "id": "3614995",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "095": {
+      "title": "Commerce PayPal - Moderately critical - Access bypass - SA-CONTRIB-2026-095",
+      "advisory_id": "095",
+      "criticality": "AC:Basic/A:None/CI:None/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-73475"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3616268",
+          "id": "3616268",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3616269",
+          "id": "3616269",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "096": {
+      "title": "Diff - Moderately critical - Access bypass - SA-CONTRIB-2026-096",
+      "advisory_id": "096",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-73478"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3616191",
+          "id": "3616191",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3616192",
+          "id": "3616192",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "097": {
+      "title": "Entity Share Websub - Moderately critical - Server-side request forgery (SSRF) - SA-CONTRIB-2026-097",
+      "advisory_id": "097",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Server-side request forgery (SSRF)",
+      "cves": [
+        "CVE-2026-73474"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3616170",
+          "id": "3616170",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "098": {
+      "title": "External Authentication - Moderately critical - Access bypass - SA-CONTRIB-2026-098",
+      "advisory_id": "098",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-73476"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3616303",
+          "id": "3616303",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "099": {
+      "title": "Quick Tabs - Moderately critical - Access bypass - SA-CONTRIB-2026-099",
+      "advisory_id": "099",
+      "criticality": "AC:None/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-73477"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3616325",
+          "id": "3616325",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "10-12": {
+      "title": "Upcoming critical Drupal core release on October 14, 2026 - PSA-2026-10-12",
+      "advisory_id": "10-12",
+      "criticality": "AC:Complex/A:None/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Upcoming critical Drupal core release on October 14, 2026",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "10-17": {
+      "title": "Drupal 7.x and 8.x release on Oct 17th, 2018 - PSA-2018-10-17",
+      "advisory_id": "10-17",
+      "criticality": null,
+      "sa_type": "Drupal 7.x and 8.x release on Oct 17th, 2018",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "100": {
+      "title": "Gammu SMS Daemon - Critical - Unsupported - SA-CONTRIB-2026-100",
+      "advisory_id": "100",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-76755",
+        "CVE-2026-76756",
+        "CVE-2026-76757"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "101": {
+      "title": "Link content parser - Critical - Unsupported - SA-CONTRIB-2026-101",
+      "advisory_id": "101",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-76758"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "102": {
+      "title": "Screenshot - Critical - Unsupported - SA-CONTRIB-2026-102",
+      "advisory_id": "102",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-76759",
+        "CVE-2026-76782"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "103": {
+      "title": "Address Suggestion - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-103",
+      "advisory_id": "103",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-81167"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619314",
+          "id": "3619314",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "104": {
+      "title": "Blazy - Less critical - Access bypass - SA-CONTRIB-2026-104",
+      "advisory_id": "104",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-81165"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619299",
+          "id": "3619299",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "105": {
+      "title": "CAPTCHA Protected Page - Moderately critical - Cookie Forgery - SA-CONTRIB-2026-105",
+      "advisory_id": "105",
+      "criticality": "AC:Complex/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Cookie Forgery",
+      "cves": [
+        "CVE-2026-81168"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619192",
+          "id": "3619192",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "106": {
+      "title": "Commerce CyberSource - Moderately critical - Insufficient input validation - SA-CONTRIB-2026-106",
+      "advisory_id": "106",
+      "criticality": "AC:Complex/A:None/CI:None/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Insufficient input validation",
+      "cves": [
+        "CVE-2026-81159"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619079",
+          "id": "3619079",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "107": {
+      "title": "Content Moderation Notifications - Moderately critical - Access bypass - SA-CONTRIB-2026-107",
+      "advisory_id": "107",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-81161"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619297",
+          "id": "3619297",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "108": {
+      "title": "Data field - Moderately critical - Information disclosure - SA-CONTRIB-2026-108",
+      "advisory_id": "108",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-81269"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619313",
+          "id": "3619313",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "109": {
+      "title": "Digital Signage Framework - Moderately critical - Access bypass - SA-CONTRIB-2026-109",
+      "advisory_id": "109",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-81166"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619283",
+          "id": "3619283",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "11-01": {
+      "title": " Drupal 9 is end of life - PSA-2023-11-01",
+      "advisory_id": "11-01",
+      "criticality": null,
+      "sa_type": " Drupal 9 is end of life",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "11-03": {
+      "title": "Normal Drupal core security window rescheduled for November 12, 2025 due to DrupalCon - PSA-2025-11-03",
+      "advisory_id": "11-03",
+      "criticality": null,
+      "sa_type": "Normal Drupal core security window rescheduled for November 12, 2025 due to DrupalCon",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "11-30": {
+      "title": "Drupal 8 is now end-of-life - PSA-2021-11-30",
+      "advisory_id": "11-30",
+      "criticality": null,
+      "sa_type": "Drupal 8 is now end-of-life",
+      "cves": [],
+      "fixed_in": [],
+      "is_psa": "1"
+    },
+    "110": {
+      "title": "Disable Login Page - Moderately critical - Access bypass - SA-CONTRIB-2026-110",
+      "advisory_id": "110",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-18260"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "111": {
+      "title": "Disable Login Page - Moderately critical - Access bypass - SA-CONTRIB-2026-111",
+      "advisory_id": "111",
+      "criticality": "AC:None/A:None/CI:None/II:None/E:Proof/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-16647"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "112": {
+      "title": "DXPR Builder: The AI Visual  Page Builder for Drupal - Moderately critical - Information Disclosure - SA-CONTRIB-2026-112",
+      "advisory_id": "112",
+      "criticality": "AC:None/A:None/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Information Disclosure",
+      "cves": [
+        "CVE-2026-81162"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619107",
+          "id": "3619107",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "113": {
+      "title": "Entity API - Moderately critical - Information disclosure - SA-CONTRIB-2026-113",
+      "advisory_id": "113",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-81158"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619292",
+          "id": "3619292",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "114": {
+      "title": "Entity PDF - Moderately critical - Access bypass - SA-CONTRIB-2026-114",
+      "advisory_id": "114",
+      "criticality": "AC:None/A:User/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-81164"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619125",
+          "id": "3619125",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "115": {
+      "title": "LDAP / Active Directory Integration - Moderately critical - Information Disclosure - SA-CONTRIB-2026-115",
+      "advisory_id": "115",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Proof/TD:All",
+      "sa_type": "Information Disclosure",
+      "cves": [
+        "CVE-2026-81205"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619269",
+          "id": "3619269",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "116": {
+      "title": "Monster Menus - Moderately critical - Cross-site Scripting - SA-CONTRIB-2026-116",
+      "advisory_id": "116",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site Scripting",
+      "cves": [
+        "CVE-2026-81201"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619304",
+          "id": "3619304",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "117": {
+      "title": "Slick Carousel - Moderately critical - Cross Site Scripting - SA-CONTRIB-2026-117",
+      "advisory_id": "117",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross Site Scripting",
+      "cves": [
+        "CVE-2026-81160"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "118": {
+      "title": "Advanced Search - Moderately critical - Access bypass - SA-CONTRIB-2026-118",
+      "advisory_id": "118",
+      "criticality": "AC:Complex/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-84910"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620268",
+          "id": "3620268",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "119": {
+      "title": "AI (Artificial Intelligence) - Moderately critical - Cross site scripting - SA-CONTRIB-2026-119",
+      "advisory_id": "119",
+      "criticality": "AC:Complex/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross site scripting",
+      "cves": [
+        "CVE-2026-84911"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620433",
+          "id": "3620433",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620434",
+          "id": "3620434",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "120": {
+      "title": "AI (Artificial Intelligence) - Moderately critical - Access Bypass - SA-CONTRIB-2026-120",
+      "advisory_id": "120",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access Bypass",
+      "cves": [
+        "CVE-2026-84912"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620433",
+          "id": "3620433",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620434",
+          "id": "3620434",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "121": {
+      "title": "AI translate - Moderately critical - Access Bypass - SA-CONTRIB-2026-121",
+      "advisory_id": "121",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access Bypass",
+      "cves": [
+        "CVE-2026-84913"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620427",
+          "id": "3620427",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620428",
+          "id": "3620428",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "122": {
+      "title": "Calculate Working Days - Critical - Access bypass - SA-CONTRIB-2026-122",
+      "advisory_id": "122",
+      "criticality": "AC:None/A:None/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-84914"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620128",
+          "id": "3620128",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "123": {
+      "title": "Component blocks - Moderately critical - Cross site scripting - SA-CONTRIB-2026-123",
+      "advisory_id": "123",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross site scripting",
+      "cves": [
+        "CVE-2026-84915"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620325",
+          "id": "3620325",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "124": {
+      "title": "Email Verification / SMS Verification / OTP Verification - Critical - Access Bypass - SA-CONTRIB-2026-124",
+      "advisory_id": "124",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access Bypass",
+      "cves": [
+        "CVE-2026-84923"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620374",
+          "id": "3620374",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "125": {
+      "title": "Email Verification / SMS Verification / OTP Verification - Critical - Cross Site Scripting - SA-CONTRIB-2026-125",
+      "advisory_id": "125",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross Site Scripting",
+      "cves": [
+        "CVE-2026-84924"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620374",
+          "id": "3620374",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "126": {
+      "title": "Islandora  - Moderately critical - Access bypass - SA-CONTRIB-2026-126",
+      "advisory_id": "126",
+      "criticality": "AC:Complex/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-84916"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620267",
+          "id": "3620267",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "127": {
+      "title": "Jsonapi Role Access  - Critical - Access bypass - SA-CONTRIB-2026-127",
+      "advisory_id": "127",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-84917"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620467",
+          "id": "3620467",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "128": {
+      "title": "Mailer Plus Log - Moderately critical - Access bypass - SA-CONTRIB-2026-128",
+      "advisory_id": "128",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-16648"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620420",
+          "id": "3620420",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "129": {
+      "title": "Media Library Importer - Moderately critical - Access bypass - SA-CONTRIB-2026-129",
+      "advisory_id": "129",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-81163"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3619128",
+          "id": "3619128",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "130": {
+      "title": "Monobank payment API - Moderately critical - Access bypass - SA-CONTRIB-2026-130",
+      "advisory_id": "130",
+      "criticality": "AC:Complex/A:None/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-84918"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620324",
+          "id": "3620324",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "131": {
+      "title": "PhotoSwipe - Responsive JavaScript Modal Image Gallery - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-131",
+      "advisory_id": "131",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-84919"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620450",
+          "id": "3620450",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "132": {
+      "title": "Unpublished Node Permissions - Critical - Access bypass - SA-CONTRIB-2026-132",
+      "advisory_id": "132",
+      "criticality": "AC:None/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-84920"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620454",
+          "id": "3620454",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "133": {
+      "title": "Webform Submissions Delete - Moderately critical - Access bypass - SA-CONTRIB-2026-133",
+      "advisory_id": "133",
+      "criticality": "AC:Basic/A:None/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-84921"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3620466",
+          "id": "3620466",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "134": {
+      "title": "amazee.ai Private AI Provider - Critical - SQL injection - SA-CONTRIB-2026-134",
+      "advisory_id": "134",
+      "criticality": "AC:Complex/A:None/CI:All/II:Some/E:Proof/TD:Default",
+      "sa_type": "SQL injection",
+      "cves": [
+        "CVE-2026-87936"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3622017",
+          "id": "3622017",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3622018",
+          "id": "3622018",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "135": {
+      "title": "Central Authentication System (CAS) Server - Moderately critical - Open redirect - SA-CONTRIB-2026-135",
+      "advisory_id": "135",
+      "criticality": "AC:Basic/A:None/CI:None/II:None/E:Theoretical/TD:All",
+      "sa_type": "Open redirect",
+      "cves": [
+        "CVE-2026-87937"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621893",
+          "id": "3621893",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621894",
+          "id": "3621894",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "136": {
+      "title": "CSP log - Critical - SQL Injection - SA-CONTRIB-2026-136",
+      "advisory_id": "136",
+      "criticality": "AC:Basic/A:Admin/CI:All/II:Some/E:Theoretical/TD:All",
+      "sa_type": "SQL Injection",
+      "cves": [
+        "CVE-2026-87938"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621996",
+          "id": "3621996",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "137": {
+      "title": "Feed Block - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-137",
+      "advisory_id": "137",
+      "criticality": "AC:Complex/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-87939"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3622039",
+          "id": "3622039",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3622041",
+          "id": "3622041",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "138": {
+      "title": "Key auth - Moderately critical - Access bypass - SA-CONTRIB-2026-138",
+      "advisory_id": "138",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-87940"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3622034",
+          "id": "3622034",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "139": {
+      "title": "Patreon - Critical - Unsupported - SA-CONTRIB-2026-139",
+      "advisory_id": "139",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-87941"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "140": {
+      "title": "SafeDelete - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-140",
+      "advisory_id": "140",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-87942"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3622032",
+          "id": "3622032",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "141": {
+      "title": "SAML SSO - Service Provider  - Critical - Improper access control - SA-CONTRIB-2026-141",
+      "advisory_id": "141",
+      "criticality": "AC:None/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Improper access control",
+      "cves": [
+        "CVE-2026-87943"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "142": {
+      "title": "SAML SSO - Service Provider  - Critical - Improper certificate validation - SA-CONTRIB-2026-142",
+      "advisory_id": "142",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Improper certificate validation",
+      "cves": [
+        "CVE-2026-87944"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "143": {
+      "title": "SAML SSO - Service Provider  - Critical - Open redirect - SA-CONTRIB-2026-143",
+      "advisory_id": "143",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Open redirect",
+      "cves": [
+        "CVE-2026-87945"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "144": {
+      "title": "SAML SSO - Service Provider  - Critical - Weak cryptographic practices - SA-CONTRIB-2026-144",
+      "advisory_id": "144",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Weak cryptographic practices",
+      "cves": [
+        "CVE-2026-87946"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "145": {
+      "title": "SAML SSO - Service Provider  - Moderately critical - Authentication bypass - SA-CONTRIB-2026-145",
+      "advisory_id": "145",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Authentication bypass",
+      "cves": [
+        "CVE-2026-87947"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "146": {
+      "title": "SAML SSO - Service Provider  - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-146",
+      "advisory_id": "146",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-87948"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "147": {
+      "title": "SAML SSO - Service Provider  - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-147",
+      "advisory_id": "147",
+      "criticality": "AC:Complex/A:Admin/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-87949"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "148": {
+      "title": "SAML SSO - Service Provider  - Moderately critical - Embedded credentials - SA-CONTRIB-2026-148",
+      "advisory_id": "148",
+      "criticality": "AC:None/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Embedded credentials",
+      "cves": [
+        "CVE-2026-87950"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "149": {
+      "title": "SAML SSO - Service Provider  - Moderately critical - Information disclosure - SA-CONTRIB-2026-149",
+      "advisory_id": "149",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-87951"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "150": {
+      "title": "SAML SSO - Service Provider  - Moderately critical - Insufficient replay protection - SA-CONTRIB-2026-150",
+      "advisory_id": "150",
+      "criticality": "AC:Complex/A:User/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Insufficient replay protection",
+      "cves": [
+        "CVE-2026-87952"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "151": {
+      "title": "SAML SSO - Service Provider  - Moderately critical - Server Side Request Forgery - SA-CONTRIB-2026-151",
+      "advisory_id": "151",
+      "criticality": "AC:Complex/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Server Side Request Forgery",
+      "cves": [
+        "CVE-2026-87953"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621986",
+          "id": "3621986",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "152": {
+      "title": "Taxonomy Term Glossary - Critical - Access bypass - SA-CONTRIB-2026-152",
+      "advisory_id": "152",
+      "criticality": "AC:None/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-87954"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3622030",
+          "id": "3622030",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "153": {
+      "title": "Ultimate Table Field - Critical - Access bypass - SA-CONTRIB-2026-153",
+      "advisory_id": "153",
+      "criticality": "AC:None/A:None/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-87955"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621877",
+          "id": "3621877",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3621878",
+          "id": "3621878",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "154": {
+      "title": "Webform - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-154",
+      "advisory_id": "154",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96360"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "155": {
+      "title": "Webform - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-155",
+      "advisory_id": "155",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96361"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "158": {
+      "title": "Webform - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-158",
+      "advisory_id": "158",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96358"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "159": {
+      "title": "Webform - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-159",
+      "advisory_id": "159",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96359"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "160": {
+      "title": "Webform - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-160",
+      "advisory_id": "160",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96362"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "161": {
+      "title": "Webform - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-161",
+      "advisory_id": "161",
+      "criticality": "AC:Complex/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96363"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "162": {
+      "title": "Webform - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-162",
+      "advisory_id": "162",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Proof/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96367"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "163": {
+      "title": "Webform - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-163",
+      "advisory_id": "163",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96368"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "164": {
+      "title": "Webform - Moderately critical - Access bypass, Server-side request forgery - SA-CONTRIB-2026-164",
+      "advisory_id": "164",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass, Server-side request forgery",
+      "cves": [
+        "CVE-2026-96370"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "165": {
+      "title": "Webform - Less critical - Access bypass - SA-CONTRIB-2026-165",
+      "advisory_id": "165",
+      "criticality": "AC:Complex/A:User/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96369"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "166": {
+      "title": "Webform - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-166",
+      "advisory_id": "166",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96371"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "167": {
+      "title": "Webform - Moderately critical - Access bypass - SA-CONTRIB-2026-167",
+      "advisory_id": "167",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96372"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "168": {
+      "title": "Webform - Moderately critical - Access bypass - SA-CONTRIB-2026-168",
+      "advisory_id": "168",
+      "criticality": "AC:Complex/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96373"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "169": {
+      "title": "Webform - Moderately critical - Access bypass - SA-CONTRIB-2026-169",
+      "advisory_id": "169",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96366"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "170": {
+      "title": "Webform - Less critical - Denial of service - SA-CONTRIB-2026-170",
+      "advisory_id": "170",
+      "criticality": "AC:Basic/A:None/CI:None/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Denial of service",
+      "cves": [
+        "CVE-2026-96365"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "171": {
+      "title": "Webform - Moderately critical - Access bypass - SA-CONTRIB-2026-171",
+      "advisory_id": "171",
+      "criticality": "AC:Basic/A:None/CI:None/II:Some/E:Exploit/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96364"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "172": {
+      "title": "Webform - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-172",
+      "advisory_id": "172",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96357"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "173": {
+      "title": "Webform - Less critical - Access bypass - SA-CONTRIB-2026-173",
+      "advisory_id": "173",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96398"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "174": {
+      "title": "Webform - Moderately critical - Access bypass - SA-CONTRIB-2026-174",
+      "advisory_id": "174",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96356"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "175": {
+      "title": "Webform - Critical - Remote Code Execution - SA-CONTRIB-2026-175",
+      "advisory_id": "175",
+      "criticality": "AC:Basic/A:None/CI:All/II:All/E:Theoretical/TD:Uncommon",
+      "sa_type": "Remote Code Execution",
+      "cves": [
+        "CVE-2026-96355"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625365",
+          "id": "3625365",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625366",
+          "id": "3625366",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "176": {
+      "title": "Cloud - Critical - Remote code execution - SA-CONTRIB-2026-176",
+      "advisory_id": "176",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Remote code execution",
+      "cves": [
+        "CVE-2026-96375"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625372",
+          "id": "3625372",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "177": {
+      "title": "Cloud - Critical - Remote code execution - SA-CONTRIB-2026-177",
+      "advisory_id": "177",
+      "criticality": "AC:Basic/A:Admin/CI:All/II:All/E:Theoretical/TD:Uncommon",
+      "sa_type": "Remote code execution",
+      "cves": [
+        "CVE-2026-96376"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625372",
+          "id": "3625372",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "178": {
+      "title": "Project Browser - Critical - Cross-site request forgery - SA-CONTRIB-2026-178",
+      "advisory_id": "178",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site request forgery",
+      "cves": [
+        "CVE-2026-96374"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625379",
+          "id": "3625379",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625382",
+          "id": "3625382",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "179": {
+      "title": "Commerce Decoupled Checkout - Moderately critical - Access bypass - SA-CONTRIB-2026-179",
+      "advisory_id": "179",
+      "criticality": "AC:Basic/A:None/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96378"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625271",
+          "id": "3625271",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "180": {
+      "title": "Mermaid Diagram Field - Moderately critical - Access bypass - SA-CONTRIB-2026-180",
+      "advisory_id": "180",
+      "criticality": "AC:None/A:User/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96384"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625149",
+          "id": "3625149",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "181": {
+      "title": "CookieCuttr - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-181",
+      "advisory_id": "181",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-96379"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625167",
+          "id": "3625167",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "182": {
+      "title": "REST & JSON API Authentication for Drupal - Moderately critical - Access bypass - SA-CONTRIB-2026-182",
+      "advisory_id": "182",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96385"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625165",
+          "id": "3625165",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "183": {
+      "title": "Stop administrator login - Moderately critical - Access bypass - SA-CONTRIB-2026-183",
+      "advisory_id": "183",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96387"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3624956",
+          "id": "3624956",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "184": {
+      "title": "Tawk.to - Live chat application - Critical - Cross Site Request Forgery - SA-CONTRIB-2026-184",
+      "advisory_id": "184",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross Site Request Forgery",
+      "cves": [
+        "CVE-2026-96388"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625065",
+          "id": "3625065",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "185": {
+      "title": "Editoria11y Accessibility Checker - Moderately critical - Access bypass - SA-CONTRIB-2026-185",
+      "advisory_id": "185",
+      "criticality": "AC:Basic/A:User/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96390"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625129",
+          "id": "3625129",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625130",
+          "id": "3625130",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "186": {
+      "title": "Webform REST - Less critical - Access bypass - SA-CONTRIB-2026-186",
+      "advisory_id": "186",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96391"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625142",
+          "id": "3625142",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "187": {
+      "title": "AI CKEditor - Moderately critical - Code execution via Twig templates - SA-CONTRIB-2026-187",
+      "advisory_id": "187",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Code execution via Twig templates",
+      "cves": [
+        "CVE-2026-96392"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625248",
+          "id": "3625248",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "188": {
+      "title": "Combined image style - Moderately critical - Improper access control - SA-CONTRIB-2026-188",
+      "advisory_id": "188",
+      "criticality": "AC:Basic/A:None/CI:None/II:None/E:Theoretical/TD:All",
+      "sa_type": "Improper access control",
+      "cves": [
+        "CVE-2026-96377"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625322",
+          "id": "3625322",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "189": {
+      "title": "CSS Usage Analyzer - Moderately critical - Improper access control - SA-CONTRIB-2026-189",
+      "advisory_id": "189",
+      "criticality": "AC:Basic/A:None/CI:None/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Improper access control",
+      "cves": [
+        "CVE-2026-96380"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625331",
+          "id": "3625331",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "190": {
+      "title": "Smart Content - Moderately critical - Access bypass - SA-CONTRIB-2026-190",
+      "advisory_id": "190",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96386"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3625343",
+          "id": "3625343",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "191": {
+      "title": "Diba carousel slider - Moderately critical - Cross Site Scripting (XSS) - SA-CONTRIB-2026-191",
+      "advisory_id": "191",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross Site Scripting (XSS)",
+      "cves": [
+        "CVE-2026-96382"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3623055",
+          "id": "3623055",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "192": {
+      "title": "Block AJAX - Highly critical - PHP object injection - SA-CONTRIB-2026-192",
+      "advisory_id": "192",
+      "criticality": "AC:Basic/A:None/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "PHP object injection",
+      "cves": [
+        "CVE-2026-107249"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629118",
+          "id": "3629118",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "193": {
+      "title": "ECA Helper - Critical - Unsupported - SA-CONTRIB-2026-193",
+      "advisory_id": "193",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-107250"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "194": {
+      "title": "Entity Reference Manager (Merge entities) - Critical - Access bypass - SA-CONTRIB-2026-194",
+      "advisory_id": "194",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-107251"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628943",
+          "id": "3628943",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "195": {
+      "title": "MathJax: LaTeX for Drupal - Critical - Cross site scripting - SA-CONTRIB-2026-195",
+      "advisory_id": "195",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross site scripting",
+      "cves": [
+        "CVE-2026-107252"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628944",
+          "id": "3628944",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "196": {
+      "title": "Orphans Media - Critical - Unsupported - SA-CONTRIB-2026-196",
+      "advisory_id": "196",
+      "criticality": "AC:Complex/A:Admin/CI:All/II:All/E:Theoretical/TD:All",
+      "sa_type": "Unsupported",
+      "cves": [
+        "CVE-2026-107253"
+      ],
+      "fixed_in": [],
+      "is_psa": "0"
+    },
+    "197": {
+      "title": "Authenticator Login Plus (2FA) - Critical - Improper authentication - SA-CONTRIB-2026-197",
+      "advisory_id": "197",
+      "criticality": "AC:Complex/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Improper authentication",
+      "cves": [
+        "CVE-2026-107254"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629148",
+          "id": "3629148",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "198": {
+      "title": "Actstream - Critical - Access bypass - SA-CONTRIB-2026-198",
+      "advisory_id": "198",
+      "criticality": "AC:Basic/A:None/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-107257"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628878",
+          "id": "3628878",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628877",
+          "id": "3628877",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "199": {
+      "title": "Inline Entity Form Dialog - Moderately critical - Access bypass - SA-CONTRIB-2026-199",
+      "advisory_id": "199",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-107258"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629146",
+          "id": "3629146",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "200": {
+      "title": "Linked Field - Moderately critical - Server-side template injection - SA-CONTRIB-2026-200",
+      "advisory_id": "200",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Server-side template injection",
+      "cves": [
+        "CVE-2026-107259"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629129",
+          "id": "3629129",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "201": {
+      "title": "Authenticator Login Plus (2FA) - Moderately critical - Improper authentication - SA-CONTRIB-2026-201",
+      "advisory_id": "201",
+      "criticality": "AC:Complex/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Improper authentication",
+      "cves": [
+        "CVE-2026-107261"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629148",
+          "id": "3629148",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "202": {
+      "title": "Gutenberg - Moderately critical - Access bypass - SA-CONTRIB-2026-202",
+      "advisory_id": "202",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-107263"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629093",
+          "id": "3629093",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629094",
+          "id": "3629094",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "203": {
+      "title": "Inline Formatter Field - Moderately critical - Server-side template injection - SA-CONTRIB-2026-203",
+      "advisory_id": "203",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Server-side template injection",
+      "cves": [
+        "CVE-2026-107264"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628988",
+          "id": "3628988",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "204": {
+      "title": "Leaflet - Moderately critical - Cross site scripting - SA-CONTRIB-2026-204",
+      "advisory_id": "204",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All",
+      "sa_type": "Cross site scripting",
+      "cves": [
+        "CVE-2026-107265"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628914",
+          "id": "3628914",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "205": {
+      "title": "Views Share - Moderately critical - Access bypass - SA-CONTRIB-2026-205",
+      "advisory_id": "205",
+      "criticality": "AC:Basic/A:None/CI:None/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-107266"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629108",
+          "id": "3629108",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "206": {
+      "title": "Xray Audit - Moderately critical - Access bypass - SA-CONTRIB-2026-206",
+      "advisory_id": "206",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-96389"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629141",
+          "id": "3629141",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629140",
+          "id": "3629140",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629142",
+          "id": "3629142",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "207": {
+      "title": "Two Factor Authentication - TFA / Passwordless Login - Moderately critical - Information disclosure - SA-CONTRIB-2026-207",
+      "advisory_id": "207",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-107268"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629012",
+          "id": "3629012",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629014",
+          "id": "3629014",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "208": {
+      "title": "DKAN - Moderately critical - Access bypass - SA-CONTRIB-2026-208",
+      "advisory_id": "208",
+      "criticality": "AC:Basic/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-107267"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628993",
+          "id": "3628993",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628994",
+          "id": "3628994",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "209": {
+      "title": "Menu Link Attributes - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-209",
+      "advisory_id": "209",
+      "criticality": "AC:Basic/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-107306"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629126",
+          "id": "3629126",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "210": {
+      "title": "SmartLinker AI - Moderately critical - Information disclosure - SA-CONTRIB-2026-210",
+      "advisory_id": "210",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:All",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-107307"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629145",
+          "id": "3629145",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "211": {
+      "title": "Country - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-211",
+      "advisory_id": "211",
+      "criticality": "AC:Complex/A:Admin/CI:Some/II:Some/E:Theoretical/TD:Uncommon",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-107308"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629133",
+          "id": "3629133",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629134",
+          "id": "3629134",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "212": {
+      "title": "Easy Breadcrumb - Moderately critical - Information disclosure - SA-CONTRIB-2026-212",
+      "advisory_id": "212",
+      "criticality": "AC:Complex/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-107309"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628913",
+          "id": "3628913",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "213": {
+      "title": "Freelinking - Moderately critical - Information Disclosure - SA-CONTRIB-2026-213",
+      "advisory_id": "213",
+      "criticality": "AC:Basic/A:User/CI:Some/II:None/E:Theoretical/TD:Default",
+      "sa_type": "Information Disclosure",
+      "cves": [
+        "CVE-2026-107310"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629124",
+          "id": "3629124",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "214": {
+      "title": "Permissions by Term - Moderately critical - Information disclosure - SA-CONTRIB-2026-214",
+      "advisory_id": "214",
+      "criticality": "AC:Complex/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon",
+      "sa_type": "Information disclosure",
+      "cves": [
+        "CVE-2026-107311"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3582685",
+          "id": "3582685",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "215": {
+      "title": "Examples for Developers - Less critical - Allocation of resources without limits or throttling - SA-CONTRIB-2026-215",
+      "advisory_id": "215",
+      "criticality": "AC:Basic/A:User/CI:None/II:None/E:Theoretical/TD:All",
+      "sa_type": "Allocation of resources without limits or throttling",
+      "cves": [
+        "CVE-2026-107312"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628872",
+          "id": "3628872",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "216": {
+      "title": "Restrict route by IP - Critical - Access bypass - SA-CONTRIB-2026-216",
+      "advisory_id": "216",
+      "criticality": "AC:None/A:None/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Access bypass",
+      "cves": [
+        "CVE-2026-107255"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629117",
+          "id": "3629117",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3629122",
+          "id": "3629122",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "217": {
+      "title": "Advanced Filesystem - Moderately critical - Cross-Site Request Forgery - SA-CONTRIB-2026-217",
+      "advisory_id": "217",
+      "criticality": "AC:Basic/A:None/CI:None/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-Site Request Forgery",
+      "cves": [
+        "CVE-2026-107262"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3628941",
+          "id": "3628941",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "218": {
+      "title": "Entity  List - Critical - Remote code execution - SA-CONTRIB-2026-218",
+      "advisory_id": "218",
+      "criticality": "AC:Basic/A:None/CI:All/II:All/E:Theoretical/TD:Default",
+      "sa_type": "Remote code execution",
+      "cves": [
+        "CVE-2026-108099"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630899",
+          "id": "3630899",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    },
+    "219": {
+      "title": "Gin Admin Theme - Moderately critical - Cross-site scripting - SA-CONTRIB-2026-219",
+      "advisory_id": "219",
+      "criticality": "AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default",
+      "sa_type": "Cross-site scripting",
+      "cves": [
+        "CVE-2026-110738"
+      ],
+      "fixed_in": [
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630884",
+          "id": "3630884",
+          "resource": "node"
+        },
+        {
+          "uri": "https://www.drupal.org/api-d7/node/3630885",
+          "id": "3630885",
+          "resource": "node"
+        }
+      ],
+      "is_psa": "0"
+    }
+  }
+}

@@ -1,0 +1,3092 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net8.0": {
+      "AWSSDK.CloudFront": {
+        "type": "Direct",
+        "requested": "[3.7.510, )",
+        "resolved": "3.7.510"
+      },
+      "AWSSDK.Core": {
+        "type": "Direct",
+        "requested": "[4.0.3, )",
+        "resolved": "4.0.3"
+      },
+      "AWSSDK.Extensions.CloudFront.Signers": {
+        "type": "Direct",
+        "requested": "[4.0.0, )",
+        "resolved": "4.0.0"
+      },
+      "AgileConfig.Client": {
+        "type": "Direct",
+        "requested": "[1.6.2, )",
+        "resolved": "1.6.2"
+      },
+      "AjaxNetProfessional": {
+        "type": "Direct",
+        "requested": "[21.11.29, )",
+        "resolved": "21.11.29"
+      },
+      "Akka": {
+        "type": "Direct",
+        "requested": "[1.5.0-alpha1, )",
+        "resolved": "1.5.0-alpha1"
+      },
+      "Akka.Cluster": {
+        "type": "Direct",
+        "requested": "[1.5.51, )",
+        "resolved": "1.5.51"
+      },
+      "Akka.Remote": {
+        "type": "Direct",
+        "requested": "[1.5.51, )",
+        "resolved": "1.5.51"
+      },
+      "AlastairLundy.CliInvoke": {
+        "type": "Direct",
+        "requested": "[2.0.0, )",
+        "resolved": "2.0.0"
+      },
+      "AlastairLundy.CliInvoke.Specializations": {
+        "type": "Direct",
+        "requested": "[2.0.0, )",
+        "resolved": "2.0.0"
+      },
+      "Amazon.CDK.AWS.CodeBuild": {
+        "type": "Direct",
+        "requested": "[1.204.0, )",
+        "resolved": "1.204.0"
+      },
+      "Amazon.CDK.Lib": {
+        "type": "Direct",
+        "requested": "[2.252.0, )",
+        "resolved": "2.252.0"
+      },
+      "Amazon.Extensions.S3.Encryption": {
+        "type": "Direct",
+        "requested": "[3.1.0, )",
+        "resolved": "3.1.0"
+      },
+      "Amazon.IonDotnet": {
+        "type": "Direct",
+        "requested": "[1.3.1, )",
+        "resolved": "1.3.1"
+      },
+      "AngleSharp": {
+        "type": "Direct",
+        "requested": "[1.4.0, )",
+        "resolved": "1.4.0"
+      },
+      "Apache.Avro": {
+        "type": "Direct",
+        "requested": "[1.10.2, )",
+        "resolved": "1.10.2"
+      },
+      "Apache.NMS.AMQP": {
+        "type": "Direct",
+        "requested": "[2.3.0, )",
+        "resolved": "2.3.0"
+      },
+      "Apache.NMS.ActiveMQ": {
+        "type": "Direct",
+        "requested": "[2.1.0, )",
+        "resolved": "2.1.0"
+      },
+      "Auth0-ASPNET-Owin": {
+        "type": "Direct",
+        "requested": "[2.3.2, )",
+        "resolved": "2.3.2"
+      },
+      "Auth0-WCF-Service-JWT": {
+        "type": "Direct",
+        "requested": "[1.0.3, )",
+        "resolved": "1.0.3"
+      },
+      "Auth0.AuthenticationApi": {
+        "type": "Direct",
+        "requested": "[6.5.3, )",
+        "resolved": "6.5.3"
+      },
+      "AutoMapper": {
+        "type": "Direct",
+        "requested": "[16.1.0, )",
+        "resolved": "16.1.0"
+      },
+      "AutoQueryable": {
+        "type": "Direct",
+        "requested": "[2.0.11-beta, )",
+        "resolved": "2.0.11-beta"
+      },
+      "Autoupdater.NET.Official": {
+        "type": "Direct",
+        "requested": "[1.5.7, )",
+        "resolved": "1.5.7"
+      },
+      "Azure.Identity": {
+        "type": "Direct",
+        "requested": "[1.11.3, )",
+        "resolved": "1.11.3"
+      },
+      "Azure.Mcp": {
+        "type": "Direct",
+        "requested": "[1.0.1, )",
+        "resolved": "1.0.1"
+      },
+      "Azure.Storage.Blobs": {
+        "type": "Direct",
+        "requested": "[12.12.0, )",
+        "resolved": "12.12.0"
+      },
+      "Azure.Storage.Queues": {
+        "type": "Direct",
+        "requested": "[12.10.0, )",
+        "resolved": "12.10.0"
+      },
+      "BTCPayServer.Client": {
+        "type": "Direct",
+        "requested": "[1.7.4, )",
+        "resolved": "1.7.4"
+      },
+      "Blogifier.Core": {
+        "type": "Direct",
+        "requested": "[1.4.8-beta, )",
+        "resolved": "1.4.8-beta"
+      },
+      "Bond.Core.CSharp": {
+        "type": "Direct",
+        "requested": "[9.0.0, )",
+        "resolved": "9.0.0"
+      },
+      "Bootstrap.Less": {
+        "type": "Direct",
+        "requested": "[3.4.0, )",
+        "resolved": "3.4.0"
+      },
+      "BouncyCastle": {
+        "type": "Direct",
+        "requested": "[1.8.9, )",
+        "resolved": "1.8.9"
+      },
+      "BouncyCastle.Cryptography": {
+        "type": "Direct",
+        "requested": "[2.3.0, )",
+        "resolved": "2.3.0"
+      },
+      "Bunkum": {
+        "type": "Direct",
+        "requested": "[4.2.0, )",
+        "resolved": "4.2.0"
+      },
+      "C1CMS.Assemblies": {
+        "type": "Direct",
+        "requested": "[6.11.7982.26191, )",
+        "resolved": "6.11.7982.26191"
+      },
+      "CIE.AspNetCore.Authentication": {
+        "type": "Direct",
+        "requested": "[2.0.4, )",
+        "resolved": "2.0.4"
+      },
+      "CLEditor": {
+        "type": "Direct",
+        "requested": "[1.4.5, )",
+        "resolved": "1.4.5"
+      },
+      "CefSharp.Common": {
+        "type": "Direct",
+        "requested": "[147.0.100, )",
+        "resolved": "147.0.100"
+      },
+      "CefSharp.Common.NETCore": {
+        "type": "Direct",
+        "requested": "[116.0.230, )",
+        "resolved": "116.0.230"
+      },
+      "CefSharp.OffScreen": {
+        "type": "Direct",
+        "requested": "[134.3.60, )",
+        "resolved": "134.3.60"
+      },
+      "CefSharp.OffScreen.NETCore": {
+        "type": "Direct",
+        "requested": "[98.1.190, )",
+        "resolved": "98.1.190"
+      },
+      "CefSharp.OffScreen.NetCore": {
+        "type": "Direct",
+        "requested": "[134.3.60, )",
+        "resolved": "134.3.60"
+      },
+      "CefSharp.WinForms": {
+        "type": "Direct",
+        "requested": "[134.3.60, )",
+        "resolved": "134.3.60"
+      },
+      "CefSharp.WinForms.NETCore": {
+        "type": "Direct",
+        "requested": "[98.1.190, )",
+        "resolved": "98.1.190"
+      },
+      "CefSharp.WinForms.NetCore": {
+        "type": "Direct",
+        "requested": "[134.3.60, )",
+        "resolved": "134.3.60"
+      },
+      "CefSharp.Wpf": {
+        "type": "Direct",
+        "requested": "[134.3.60, )",
+        "resolved": "134.3.60"
+      },
+      "CefSharp.Wpf.HwndHost": {
+        "type": "Direct",
+        "requested": "[134.3.60, )",
+        "resolved": "134.3.60"
+      },
+      "CefSharp.Wpf.NETCore": {
+        "type": "Direct",
+        "requested": "[98.1.190, )",
+        "resolved": "98.1.190"
+      },
+      "CefSharp.Wpf.NetCore": {
+        "type": "Direct",
+        "requested": "[134.3.60, )",
+        "resolved": "134.3.60"
+      },
+      "CliInvoke": {
+        "type": "Direct",
+        "requested": "[2.10.4, )",
+        "resolved": "2.10.4"
+      },
+      "CliInvoke.Specializations": {
+        "type": "Direct",
+        "requested": "[2.10.4, )",
+        "resolved": "2.10.4"
+      },
+      "CompositeC1.Core": {
+        "type": "Direct",
+        "requested": "[6.12.0, )",
+        "resolved": "6.12.0"
+      },
+      "CoreFtp": {
+        "type": "Direct",
+        "requested": "[2.0.0, )",
+        "resolved": "2.0.0"
+      },
+      "CoreWCF.Kafka": {
+        "type": "Direct",
+        "requested": "[1.9.0, )",
+        "resolved": "1.9.0"
+      },
+      "CoreWCF.NetFramingBase": {
+        "type": "Direct",
+        "requested": "[1.9.0, )",
+        "resolved": "1.9.0"
+      },
+      "CoreWCF.NetNamedPipe": {
+        "type": "Direct",
+        "requested": "[1.9.0, )",
+        "resolved": "1.9.0"
+      },
+      "CoreWCF.Primitives": {
+        "type": "Direct",
+        "requested": "[1.9.0, )",
+        "resolved": "1.9.0"
+      },
+      "CoreWCF.UnixDomainSocket": {
+        "type": "Direct",
+        "requested": "[1.9.0, )",
+        "resolved": "1.9.0"
+      },
+      "CouchbaseNetClient": {
+        "type": "Direct",
+        "requested": "[3.9.6, )",
+        "resolved": "3.9.6"
+      },
+      "Csla": {
+        "type": "Direct",
+        "requested": "[7.0.7, )",
+        "resolved": "7.0.7"
+      },
+      "DNN.PLATFORM": {
+        "type": "Direct",
+        "requested": "[9.9.0, )",
+        "resolved": "9.9.0"
+      },
+      "DNS": {
+        "type": "Direct",
+        "requested": "[6.1.0, )",
+        "resolved": "6.1.0"
+      },
+      "DSInternals.Common": {
+        "type": "Direct",
+        "requested": "[4.7.0, )",
+        "resolved": "4.7.0"
+      },
+      "Datadog.Trace": {
+        "type": "Direct",
+        "requested": "[3.42.0, )",
+        "resolved": "3.42.0"
+      },
+      "Datadog.Trace.OpenTracing": {
+        "type": "Direct",
+        "requested": "[3.42.0, )",
+        "resolved": "3.42.0"
+      },
+      "Devolutions.XTS.NET": {
+        "type": "Direct",
+        "requested": "[2024.11.19, )",
+        "resolved": "2024.11.19"
+      },
+      "DisCatSharp": {
+        "type": "Direct",
+        "requested": "[9.9.0, )",
+        "resolved": "9.9.0"
+      },
+      "Dnn.Platform": {
+        "type": "Direct",
+        "requested": "[9.9.0, )",
+        "resolved": "9.9.0"
+      },
+      "DotNetCasClient": {
+        "type": "Direct",
+        "requested": "[1.0.1, )",
+        "resolved": "1.0.1"
+      },
+      "DotNetNuke.Core": {
+        "type": "Direct",
+        "requested": "[10.2.1, )",
+        "resolved": "10.2.1"
+      },
+      "DotNetNuke.SiteExportImport": {
+        "type": "Direct",
+        "requested": "[9.13.8, )",
+        "resolved": "9.13.8"
+      },
+      "DotNetNuke.Web": {
+        "type": "Direct",
+        "requested": "[9.13.8, )",
+        "resolved": "9.13.8"
+      },
+      "DotNetZip": {
+        "type": "Direct",
+        "requested": "[1.16.0, )",
+        "resolved": "1.16.0"
+      },
+      "DotVVM": {
+        "type": "Direct",
+        "requested": "[5.0.0-preview01-final, )",
+        "resolved": "5.0.0-preview01-final"
+      },
+      "Duende.AccessTokenManagement": {
+        "type": "Direct",
+        "requested": "[3.1.1, )",
+        "resolved": "3.1.1"
+      },
+      "Duende.AccessTokenManagement.OpenIdConnect": {
+        "type": "Direct",
+        "requested": "[3.0.0, )",
+        "resolved": "3.0.0"
+      },
+      "Duende.IdentityServer": {
+        "type": "Direct",
+        "requested": "[7.0.7, )",
+        "resolved": "7.0.7"
+      },
+      "Elastic.Apm": {
+        "type": "Direct",
+        "requested": "[1.9.0, )",
+        "resolved": "1.9.0"
+      },
+      "EnumStringValues": {
+        "type": "Direct",
+        "requested": "[4.0.1, )",
+        "resolved": "4.0.1"
+      },
+      "FastReport.OpenSource": {
+        "type": "Direct",
+        "requested": "[2020.3.22, )",
+        "resolved": "2020.3.22"
+      },
+      "FormCMS": {
+        "type": "Direct",
+        "requested": "[0.5.6, )",
+        "resolved": "0.5.6"
+      },
+      "FullStackHero.WebAPI.Boilerplate": {
+        "type": "Direct",
+        "requested": "[1.0.0, )",
+        "resolved": "1.0.0"
+      },
+      "Google.Protobuf": {
+        "type": "Direct",
+        "requested": "[3.15.0-rc1, )",
+        "resolved": "3.15.0-rc1"
+      },
+      "Gsemac.Net": {
+        "type": "Direct",
+        "requested": "[0.38.1, )",
+        "resolved": "0.38.1"
+      },
+      "Gw2Sharp": {
+        "type": "Direct",
+        "requested": "[0.3.0, )",
+        "resolved": "0.3.0"
+      },
+      "HaemmerElectronics.SeppPenner.WindowsHello": {
+        "type": "Direct",
+        "requested": "[1.0.3, )",
+        "resolved": "1.0.3"
+      },
+      "Halibut": {
+        "type": "Direct",
+        "requested": "[4.4.6, )",
+        "resolved": "4.4.6"
+      },
+      "Hangfire.Core": {
+        "type": "Direct",
+        "requested": "[1.7.25, )",
+        "resolved": "1.7.25"
+      },
+      "HotChocolate.Language": {
+        "type": "Direct",
+        "requested": "[15.1.13, )",
+        "resolved": "15.1.13"
+      },
+      "HtmlSanitizer": {
+        "type": "Direct",
+        "requested": "[9.0.889, )",
+        "resolved": "9.0.889"
+      },
+      "ICG.AspNetCore.Utilities.CloudStorage": {
+        "type": "Direct",
+        "requested": "[6.0.0, )",
+        "resolved": "6.0.0"
+      },
+      "IdentityServer4": {
+        "type": "Direct",
+        "requested": "[4.1.2, )",
+        "resolved": "4.1.2"
+      },
+      "ImageResizer.Plugins.FreeImage": {
+        "type": "Direct",
+        "requested": "[4.2.8, )",
+        "resolved": "4.2.8"
+      },
+      "ImageResizer.Plugins.Imageflow": {
+        "type": "Direct",
+        "requested": "[5.0.11-preview08, )",
+        "resolved": "5.0.11-preview08"
+      },
+      "Imageflow.AllPlatforms": {
+        "type": "Direct",
+        "requested": "[0.10.0, )",
+        "resolved": "0.10.0"
+      },
+      "Imageflow.NativeRuntime.osx-x86_64": {
+        "type": "Direct",
+        "requested": "[2.0.0-preview1, )",
+        "resolved": "2.0.0-preview1"
+      },
+      "Imageflow.NativeRuntime.osx_10_11-x86_64": {
+        "type": "Direct",
+        "requested": "[1.5.4-rc58, )",
+        "resolved": "1.5.4-rc58"
+      },
+      "Imageflow.NativeRuntime.ubuntu-x86_64": {
+        "type": "Direct",
+        "requested": "[2.0.0-preview1, )",
+        "resolved": "2.0.0-preview1"
+      },
+      "Imageflow.NativeRuntime.ubuntu-x86_64-haswell": {
+        "type": "Direct",
+        "requested": "[2.0.0-preview1, )",
+        "resolved": "2.0.0-preview1"
+      },
+      "Imageflow.NativeRuntime.ubuntu_16_04-x86_64": {
+        "type": "Direct",
+        "requested": "[1.5.8-rc62, )",
+        "resolved": "1.5.8-rc62"
+      },
+      "Imageflow.NativeRuntime.ubuntu_18_04-x86_64": {
+        "type": "Direct",
+        "requested": "[1.5.8-rc62, )",
+        "resolved": "1.5.8-rc62"
+      },
+      "Imageflow.NativeRuntime.ubuntu_18_04-x86_64-haswell": {
+        "type": "Direct",
+        "requested": "[1.5.8-rc62, )",
+        "resolved": "1.5.8-rc62"
+      },
+      "Imageflow.NativeRuntime.win-x86": {
+        "type": "Direct",
+        "requested": "[2.0.0-preview1, )",
+        "resolved": "2.0.0-preview1"
+      },
+      "Imageflow.NativeRuntime.win-x86_64": {
+        "type": "Direct",
+        "requested": "[2.0.0-preview1, )",
+        "resolved": "2.0.0-preview1"
+      },
+      "Imageflow.NativeTool.osx-x86_64": {
+        "type": "Direct",
+        "requested": "[2.0.0-preview1, )",
+        "resolved": "2.0.0-preview1"
+      },
+      "Imageflow.NativeTool.osx_10_11-x86_64": {
+        "type": "Direct",
+        "requested": "[1.5.4-rc58, )",
+        "resolved": "1.5.4-rc58"
+      },
+      "Imageflow.NativeTool.ubuntu-x86_64": {
+        "type": "Direct",
+        "requested": "[2.0.0-preview1, )",
+        "resolved": "2.0.0-preview1"
+      },
+      "Imageflow.NativeTool.ubuntu-x86_64-haswell": {
+        "type": "Direct",
+        "requested": "[2.0.0-preview1, )",
+        "resolved": "2.0.0-preview1"
+      },
+      "Imageflow.NativeTool.ubuntu_16_04-x86_64": {
+        "type": "Direct",
+        "requested": "[1.5.8-rc62, )",
+        "resolved": "1.5.8-rc62"
+      },
+      "Imageflow.NativeTool.ubuntu_18_04-x86_64": {
+        "type": "Direct",
+        "requested": "[1.5.8-rc62, )",
+        "resolved": "1.5.8-rc62"
+      },
+      "Imageflow.NativeTool.ubuntu_18_04-x86_64-haswell": {
+        "type": "Direct",
+        "requested": "[1.5.8-rc62, )",
+        "resolved": "1.5.8-rc62"
+      },
+      "Imageflow.NativeTool.win-x86": {
+        "type": "Direct",
+        "requested": "[2.0.0-preview1, )",
+        "resolved": "2.0.0-preview1"
+      },
+      "Imageflow.NativeTool.win-x86_64": {
+        "type": "Direct",
+        "requested": "[2.0.0-preview1, )",
+        "resolved": "2.0.0-preview1"
+      },
+      "Imageflow.Server": {
+        "type": "Direct",
+        "requested": "[0.8.1, )",
+        "resolved": "0.8.1"
+      },
+      "IpMatcher": {
+        "type": "Direct",
+        "requested": "[1.0.4, )",
+        "resolved": "1.0.4"
+      },
+      "Jellyfin.Common": {
+        "type": "Direct",
+        "requested": "[10.8.0-alpha2, )",
+        "resolved": "10.8.0-alpha2"
+      },
+      "Jellyfin.Controller": {
+        "type": "Direct",
+        "requested": "[10.8.4, )",
+        "resolved": "10.8.4"
+      },
+      "Kentor.AuthServices": {
+        "type": "Direct",
+        "requested": "[0.23.0, )",
+        "resolved": "0.23.0"
+      },
+      "KubernetesClient": {
+        "type": "Direct",
+        "requested": "[17.0.4, )",
+        "resolved": "17.0.4"
+      },
+      "LiteDB": {
+        "type": "Direct",
+        "requested": "[5.0.12, )",
+        "resolved": "5.0.12"
+      },
+      "Lucene.Net.Replicator": {
+        "type": "Direct",
+        "requested": "[4.8.0-beta00005, )",
+        "resolved": "4.8.0-beta00005"
+      },
+      "MPXJ.Net": {
+        "type": "Direct",
+        "requested": "[16.4.1, )",
+        "resolved": "16.4.1"
+      },
+      "MadsKristensen.AspNetCore.Miniblog": {
+        "type": "Direct",
+        "requested": "[1.0.3, )",
+        "resolved": "1.0.3"
+      },
+      "Magick.NET-Q16-AnyCPU": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q16-HDRI-AnyCPU": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q16-HDRI-OpenMP-arm64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q16-HDRI-OpenMP-x64": {
+        "type": "Direct",
+        "requested": "[14.13.0, )",
+        "resolved": "14.13.0"
+      },
+      "Magick.NET-Q16-HDRI-arm64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q16-HDRI-x64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q16-HDRI-x86": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q16-OpenMP-arm64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q16-OpenMP-x64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q16-arm64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q16-x64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q16-x86": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q8-AnyCPU": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q8-OpenMP-arm64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q8-OpenMP-x64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q8-arm64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q8-x64": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "Magick.NET-Q8-x86": {
+        "type": "Direct",
+        "requested": "[14.14.0, )",
+        "resolved": "14.14.0"
+      },
+      "MailKit": {
+        "type": "Direct",
+        "requested": "[4.15.1, )",
+        "resolved": "4.15.1"
+      },
+      "Mammoth": {
+        "type": "Direct",
+        "requested": "[1.8.0, )",
+        "resolved": "1.8.0"
+      },
+      "Marten": {
+        "type": "Direct",
+        "requested": "[9.12.0, )",
+        "resolved": "9.12.0"
+      },
+      "Masuit.Tools.Core": {
+        "type": "Direct",
+        "requested": "[2.4.8, )",
+        "resolved": "2.4.8"
+      },
+      "MediaBrowser.Server.Core": {
+        "type": "Direct",
+        "requested": "[4.9.1.13-beta, )",
+        "resolved": "4.9.1.13-beta"
+      },
+      "Meridian.Mapping": {
+        "type": "Direct",
+        "requested": "[2.1.0, )",
+        "resolved": "2.1.0"
+      },
+      "Meridian.Mediator": {
+        "type": "Direct",
+        "requested": "[2.0.1, )",
+        "resolved": "2.0.1"
+      },
+      "MessagePack": {
+        "type": "Direct",
+        "requested": "[3.1.8, )",
+        "resolved": "3.1.8"
+      },
+      "MessagePack.ImmutableCollection": {
+        "type": "Direct",
+        "requested": "[2.1.80, )",
+        "resolved": "2.1.80"
+      },
+      "MessagePack.ReactiveProperty": {
+        "type": "Direct",
+        "requested": "[2.1.80, )",
+        "resolved": "2.1.80"
+      },
+      "MessagePack.Unity": {
+        "type": "Direct",
+        "requested": "[0.4.2, )",
+        "resolved": "0.4.2"
+      },
+      "MessagePack.UnityShims": {
+        "type": "Direct",
+        "requested": "[2.1.80, )",
+        "resolved": "2.1.80"
+      },
+      "MetadataExtractor": {
+        "type": "Direct",
+        "requested": "[2.1.0, )",
+        "resolved": "2.1.0"
+      },
+      "Metalama.Framework": {
+        "type": "Direct",
+        "requested": "[2026.1.18, )",
+        "resolved": "2026.1.18"
+      },
+      "Metalama.Tool": {
+        "type": "Direct",
+        "requested": "[2026.1.18, )",
+        "resolved": "2026.1.18"
+      },
+      "Microsoft.AspNet.Identity.Owin": {
+        "type": "Direct",
+        "requested": "[2.2.3, )",
+        "resolved": "2.2.3"
+      },
+      "Microsoft.AspNetCore.All": {
+        "type": "Direct",
+        "requested": "[2.2.6, )",
+        "resolved": "2.2.6"
+      },
+      "Microsoft.AspNetCore.App": {
+        "type": "Direct",
+        "requested": "[2.2.5, )",
+        "resolved": "2.2.5"
+      },
+      "Microsoft.AspNetCore.App.Runtime.linux-arm": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.App.Runtime.linux-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.App.Runtime.linux-musl-arm": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.App.Runtime.linux-musl-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.App.Runtime.linux-musl-x64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.App.Runtime.linux-x64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.App.Runtime.osx-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.App.Runtime.osx-x64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.App.Runtime.win-arm": {
+        "type": "Direct",
+        "requested": "[7.0.18, )",
+        "resolved": "7.0.18"
+      },
+      "Microsoft.AspNetCore.App.Runtime.win-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.App.Runtime.win-x64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.App.Runtime.win-x86": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.Authentication.JwtBearer": {
+        "type": "Direct",
+        "requested": "[5.0.8, )",
+        "resolved": "5.0.8"
+      },
+      "Microsoft.AspNetCore.Authentication.Negotiate": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.Components": {
+        "type": "Direct",
+        "requested": "[8.0.0-rc.2.23480.2, )",
+        "resolved": "8.0.0-rc.2.23480.2"
+      },
+      "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.DataProtection": {
+        "type": "Direct",
+        "requested": "[10.0.6, )",
+        "resolved": "10.0.6"
+      },
+      "Microsoft.AspNetCore.DataProtection.AzureStorage": {
+        "type": "Direct",
+        "requested": "[2.2.0, )",
+        "resolved": "2.2.0"
+      },
+      "Microsoft.AspNetCore.Http": {
+        "type": "Direct",
+        "requested": "[2.1.1, )",
+        "resolved": "2.1.1"
+      },
+      "Microsoft.AspNetCore.Http.Connections": {
+        "type": "Direct",
+        "requested": "[1.0.4, )",
+        "resolved": "1.0.4"
+      },
+      "Microsoft.AspNetCore.HttpOverrides": {
+        "type": "Direct",
+        "requested": "[2.0.1, )",
+        "resolved": "2.0.1"
+      },
+      "Microsoft.AspNetCore.Identity": {
+        "type": "Direct",
+        "requested": "[2.3.0, )",
+        "resolved": "2.3.0"
+      },
+      "Microsoft.AspNetCore.Mvc": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.Abstractions": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.ApiExplorer": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.Core": {
+        "type": "Direct",
+        "requested": "[2.0.0, )",
+        "resolved": "2.0.0"
+      },
+      "Microsoft.AspNetCore.Mvc.Cors": {
+        "type": "Direct",
+        "requested": "[1.1.5, )",
+        "resolved": "1.1.5"
+      },
+      "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.Formatters.Xml": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.Localization": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.Razor": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.Razor.Host": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.TagHelpers": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Mvc.WebApiCompatShim": {
+        "type": "Direct",
+        "requested": "[1.1.2, )",
+        "resolved": "1.1.2"
+      },
+      "Microsoft.AspNetCore.Server.HttpSys": {
+        "type": "Direct",
+        "requested": "[2.2.0, )",
+        "resolved": "2.2.0"
+      },
+      "Microsoft.AspNetCore.Server.IIS": {
+        "type": "Direct",
+        "requested": "[2.2.2, )",
+        "resolved": "2.2.2"
+      },
+      "Microsoft.AspNetCore.Server.Kestrel.Core": {
+        "type": "Direct",
+        "requested": "[2.3.0, )",
+        "resolved": "2.3.0"
+      },
+      "Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions": {
+        "type": "Direct",
+        "requested": "[2.0.2, )",
+        "resolved": "2.0.2"
+      },
+      "Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv": {
+        "type": "Direct",
+        "requested": "[6.0.20, )",
+        "resolved": "6.0.20"
+      },
+      "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets": {
+        "type": "Direct",
+        "requested": "[2.1.3, )",
+        "resolved": "2.1.3"
+      },
+      "Microsoft.AspNetCore.Server.WebListener": {
+        "type": "Direct",
+        "requested": "[1.1.3, )",
+        "resolved": "1.1.3"
+      },
+      "Microsoft.AspNetCore.SignalR.Common": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.SignalR.Core": {
+        "type": "Direct",
+        "requested": "[1.2.13, )",
+        "resolved": "1.2.13"
+      },
+      "Microsoft.AspNetCore.SignalR.Protocols.MessagePack": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.AspNetCore.SignalR.Redis": {
+        "type": "Direct",
+        "requested": "[1.0.11, )",
+        "resolved": "1.0.11"
+      },
+      "Microsoft.AspNetCore.SignalR.StackExchangeRedis": {
+        "type": "Direct",
+        "requested": "[7.0.9, )",
+        "resolved": "7.0.9"
+      },
+      "Microsoft.AspNetCore.SpaServices": {
+        "type": "Direct",
+        "requested": "[2.2.0, )",
+        "resolved": "2.2.0"
+      },
+      "Microsoft.AspNetCore.WebSockets": {
+        "type": "Direct",
+        "requested": "[2.2.0, )",
+        "resolved": "2.2.0"
+      },
+      "Microsoft.Azure.Storage.DataMovement": {
+        "type": "Direct",
+        "requested": "[2.0.4, )",
+        "resolved": "2.0.4"
+      },
+      "Microsoft.Bcl.Memory": {
+        "type": "Direct",
+        "requested": "[10.0.3, )",
+        "resolved": "10.0.3"
+      },
+      "Microsoft.Bot.Connector": {
+        "type": "Direct",
+        "requested": "[4.10.2, )",
+        "resolved": "4.10.2"
+      },
+      "Microsoft.Build": {
+        "type": "Direct",
+        "requested": "[17.15.0-preview-25277-114, )",
+        "resolved": "17.15.0-preview-25277-114"
+      },
+      "Microsoft.Build.NuGetSdkResolver": {
+        "type": "Direct",
+        "requested": "[5.11.0-rc.10, )",
+        "resolved": "5.11.0-rc.10"
+      },
+      "Microsoft.Build.Tasks.Core": {
+        "type": "Direct",
+        "requested": "[17.15.0-preview-25277-114, )",
+        "resolved": "17.15.0-preview-25277-114"
+      },
+      "Microsoft.Build.Tasks.Git": {
+        "type": "Direct",
+        "requested": "[10.0.301, )",
+        "resolved": "10.0.301"
+      },
+      "Microsoft.Build.Utilities.Core": {
+        "type": "Direct",
+        "requested": "[17.15.0-preview-25277-114, )",
+        "resolved": "17.15.0-preview-25277-114"
+      },
+      "Microsoft.ChakraCore": {
+        "type": "Direct",
+        "requested": "[1.11.24, )",
+        "resolved": "1.11.24"
+      },
+      "Microsoft.CommonDataModel.ObjectModel": {
+        "type": "Direct",
+        "requested": "[1.7.3, )",
+        "resolved": "1.7.3"
+      },
+      "Microsoft.Data.OData": {
+        "type": "Direct",
+        "requested": "[5.8.3, )",
+        "resolved": "5.8.3"
+      },
+      "Microsoft.Data.SqlClient": {
+        "type": "Direct",
+        "requested": "[5.1.2, )",
+        "resolved": "5.1.2"
+      },
+      "Microsoft.Extensions.Caching.Memory": {
+        "type": "Direct",
+        "requested": "[8.0.0, )",
+        "resolved": "8.0.0"
+      },
+      "Microsoft.IO.Redist": {
+        "type": "Direct",
+        "requested": "[6.0.0, )",
+        "resolved": "6.0.0"
+      },
+      "Microsoft.Identity.Abstractions": {
+        "type": "Direct",
+        "requested": "[8.2.0, )",
+        "resolved": "8.2.0"
+      },
+      "Microsoft.Identity.Client": {
+        "type": "Direct",
+        "requested": "[4.61.2, )",
+        "resolved": "4.61.2"
+      },
+      "Microsoft.Identity.Web": {
+        "type": "Direct",
+        "requested": "[3.8.1, )",
+        "resolved": "3.8.1"
+      },
+      "Microsoft.IdentityModel.JsonWebTokens": {
+        "type": "Direct",
+        "requested": "[7.1.0-preview, )",
+        "resolved": "7.1.0-preview"
+      },
+      "Microsoft.IdentityModel.Protocols.SignedHttpRequest": {
+        "type": "Direct",
+        "requested": "[7.1.0-preview, )",
+        "resolved": "7.1.0-preview"
+      },
+      "Microsoft.Kiota.Abstractions": {
+        "type": "Direct",
+        "requested": "[1.21.3, )",
+        "resolved": "1.21.3"
+      },
+      "Microsoft.NET.Build.Containers": {
+        "type": "Direct",
+        "requested": "[7.0.306, )",
+        "resolved": "7.0.306"
+      },
+      "Microsoft.NETCore.App": {
+        "type": "Direct",
+        "requested": "[2.2.1, )",
+        "resolved": "2.2.1"
+      },
+      "Microsoft.NETCore.App.Host.linux-arm": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Host.linux-arm64": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Host.linux-musl-arm64": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Host.linux-musl-x64": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Host.linux-x64": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Host.osx-x64": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Host.rhel.6-x64": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Host.win-arm": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Host.win-arm64": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Host.win-x64": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Host.win-x86": {
+        "type": "Direct",
+        "requested": "[3.1.11, )",
+        "resolved": "3.1.11"
+      },
+      "Microsoft.NETCore.App.Ref": {
+        "type": "Direct",
+        "requested": "[5.0.0, )",
+        "resolved": "5.0.0"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.browser-wasm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.android-arm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.android-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.android-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.android-x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.browser-wasm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.ios-arm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.ios-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.tvos-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.tvossimulator-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.tvossimulator-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.browser-wasm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.browser-wasm.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.LLVM.AOT.linux-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.LLVM.AOT.linux-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.LLVM.AOT.osx-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.LLVM.linux-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.LLVM.linux-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.LLVM.osx-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-arm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-arm.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-arm.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-arm.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-arm64.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-arm64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-arm64.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-x64.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-x64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-x64.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.browser-wasm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.browser-wasm.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.browser-wasm.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.browser-wasm.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.ios-arm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.ios-arm.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.ios-arm.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.ios-arm.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.ios-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.ios-arm64.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.ios-arm64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.ios-arm64.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x86.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x86.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x86.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.linux-arm": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.linux-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.linux-musl-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.linux-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.osx-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.osx-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvos-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvos-arm64.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvos-arm64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvos-arm64.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-arm64.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-arm64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-arm64.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.arm64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.win-x64": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.Mono.win-x86": {
+        "type": "Direct",
+        "requested": "[6.0.2, )",
+        "resolved": "6.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.android-arm": {
+        "type": "Direct",
+        "requested": "[5.0.2, )",
+        "resolved": "5.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.android-arm64": {
+        "type": "Direct",
+        "requested": "[5.0.2, )",
+        "resolved": "5.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.android-x64": {
+        "type": "Direct",
+        "requested": "[5.0.2, )",
+        "resolved": "5.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.android-x86": {
+        "type": "Direct",
+        "requested": "[5.0.2, )",
+        "resolved": "5.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.browser-wasm": {
+        "type": "Direct",
+        "requested": "[5.0.14, )",
+        "resolved": "5.0.14"
+      },
+      "Microsoft.NETCore.App.Runtime.ios-arm": {
+        "type": "Direct",
+        "requested": "[5.0.2, )",
+        "resolved": "5.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.ios-x64": {
+        "type": "Direct",
+        "requested": "[5.0.2, )",
+        "resolved": "5.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.ios-x86": {
+        "type": "Direct",
+        "requested": "[5.0.2, )",
+        "resolved": "5.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.linux-arm": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.App.Runtime.linux-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.App.Runtime.linux-musl-arm": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.App.Runtime.linux-musl-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.App.Runtime.linux-musl-x64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.App.Runtime.linux-x64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.App.Runtime.osx-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.App.Runtime.osx-x64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.App.Runtime.rhel.6-x64": {
+        "type": "Direct",
+        "requested": "[3.1.17, )",
+        "resolved": "3.1.17"
+      },
+      "Microsoft.NETCore.App.Runtime.tvos-arm64": {
+        "type": "Direct",
+        "requested": "[5.0.2, )",
+        "resolved": "5.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.tvos-x64": {
+        "type": "Direct",
+        "requested": "[5.0.2, )",
+        "resolved": "5.0.2"
+      },
+      "Microsoft.NETCore.App.Runtime.win-arm": {
+        "type": "Direct",
+        "requested": "[7.0.18, )",
+        "resolved": "7.0.18"
+      },
+      "Microsoft.NETCore.App.Runtime.win-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.App.Runtime.win-x64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.App.Runtime.win-x86": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.NETCore.Jit": {
+        "type": "Direct",
+        "requested": "[2.0.5, )",
+        "resolved": "2.0.5"
+      },
+      "Microsoft.NETCore.UniversalWindowsPlatform": {
+        "type": "Direct",
+        "requested": "[6.0.5, )",
+        "resolved": "6.0.5"
+      },
+      "Microsoft.Native.Quic.MsQuic.OpenSSL": {
+        "type": "Direct",
+        "requested": "[1.8.0, )",
+        "resolved": "1.8.0"
+      },
+      "Microsoft.Native.Quic.MsQuic.Schannel": {
+        "type": "Direct",
+        "requested": "[1.8.0, )",
+        "resolved": "1.8.0"
+      },
+      "Microsoft.Net.Http.Server": {
+        "type": "Direct",
+        "requested": "[1.1.3, )",
+        "resolved": "1.1.3"
+      },
+      "Microsoft.NetCore.App.Runtime.linux-arm": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.linux-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.linux-musl-arm": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.linux-musl-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.linux-musl-x64": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.linux-x64": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.osx-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.osx-x64": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.win-arm": {
+        "type": "Direct",
+        "requested": "[7.0.9, )",
+        "resolved": "7.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.win-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.win-x64": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.NetCore.App.Runtime.win-x86": {
+        "type": "Direct",
+        "requested": "[10.0.9, )",
+        "resolved": "10.0.9"
+      },
+      "Microsoft.OpenAPI.Kiota": {
+        "type": "Direct",
+        "requested": "[1.31.1, )",
+        "resolved": "1.31.1"
+      },
+      "Microsoft.OpenAPI.Kiota.Builder": {
+        "type": "Direct",
+        "requested": "[1.31.1, )",
+        "resolved": "1.31.1"
+      },
+      "Microsoft.OpenApi": {
+        "type": "Direct",
+        "requested": "[3.5.3, )",
+        "resolved": "3.5.3"
+      },
+      "Microsoft.OpenApi.Kiota": {
+        "type": "Direct",
+        "requested": "[1.34.1, )",
+        "resolved": "1.34.1"
+      },
+      "Microsoft.OpenApi.Kiota.Builder": {
+        "type": "Direct",
+        "requested": "[1.23.0, )",
+        "resolved": "1.23.0"
+      },
+      "Microsoft.OpenApi.Readers": {
+        "type": "Direct",
+        "requested": "[1.6.29, )",
+        "resolved": "1.6.29"
+      },
+      "Microsoft.OpenApi.YamlReader": {
+        "type": "Direct",
+        "requested": "[3.9.0, )",
+        "resolved": "3.9.0"
+      },
+      "Microsoft.Owin": {
+        "type": "Direct",
+        "requested": "[4.2.1, )",
+        "resolved": "4.2.1"
+      },
+      "Microsoft.Owin.Security.Cookies": {
+        "type": "Direct",
+        "requested": "[4.2.1, )",
+        "resolved": "4.2.1"
+      },
+      "Microsoft.PowerBI.JavaScript": {
+        "type": "Direct",
+        "requested": "[2.23.0, )",
+        "resolved": "2.23.0"
+      },
+      "Microsoft.PowerShell.SDK": {
+        "type": "Direct",
+        "requested": "[7.2.2, )",
+        "resolved": "7.2.2"
+      },
+      "Microsoft.Rest.ClientRuntime": {
+        "type": "Direct",
+        "requested": "[2.3.23, )",
+        "resolved": "2.3.23"
+      },
+      "Microsoft.SemanticKernel.Core": {
+        "type": "Direct",
+        "requested": "[1.70.0, )",
+        "resolved": "1.70.0"
+      },
+      "Microsoft.SourceLink.AzureRepos.Git": {
+        "type": "Direct",
+        "requested": "[10.0.301, )",
+        "resolved": "10.0.301"
+      },
+      "Microsoft.Windows.Compatibility": {
+        "type": "Direct",
+        "requested": "[7.0.1, )",
+        "resolved": "7.0.1"
+      },
+      "Microsoft.WindowsDesktop.App.Ref": {
+        "type": "Direct",
+        "requested": "[3.1.0, )",
+        "resolved": "3.1.0"
+      },
+      "Microsoft.WindowsDesktop.App.Runtime.win-arm64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.WindowsDesktop.App.Runtime.win-x64": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "Microsoft.WindowsDesktop.App.Runtime.win-x86": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "MimeKit": {
+        "type": "Direct",
+        "requested": "[4.15.0, )",
+        "resolved": "4.15.0"
+      },
+      "Moment.js": {
+        "type": "Direct",
+        "requested": "[2.29.3, )",
+        "resolved": "2.29.3"
+      },
+      "MongoDB.Driver": {
+        "type": "Direct",
+        "requested": "[2.18.0, )",
+        "resolved": "2.18.0"
+      },
+      "NCalc.Core": {
+        "type": "Direct",
+        "requested": "[6.1.0, )",
+        "resolved": "6.1.0"
+      },
+      "NCalcSync": {
+        "type": "Direct",
+        "requested": "[6.1.0, )",
+        "resolved": "6.1.0"
+      },
+      "NHibernate": {
+        "type": "Direct",
+        "requested": "[5.5.1, )",
+        "resolved": "5.5.1"
+      },
+      "Nancy": {
+        "type": "Direct",
+        "requested": "[2.0.0-alpha, )",
+        "resolved": "2.0.0-alpha"
+      },
+      "Nerdbank.MessagePack": {
+        "type": "Direct",
+        "requested": "[1.1.78, )",
+        "resolved": "1.1.78"
+      },
+      "Newtonsoft.Json": {
+        "type": "Direct",
+        "requested": "[13.0.1-beta1, )",
+        "resolved": "13.0.1-beta1"
+      },
+      "Npgsql": {
+        "type": "Direct",
+        "requested": "[8.0.2, )",
+        "resolved": "8.0.2"
+      },
+      "NuGet.CommandLine": {
+        "type": "Direct",
+        "requested": "[7.3.0, )",
+        "resolved": "7.3.0"
+      },
+      "NuGet.CommandLine.XPlat": {
+        "type": "Direct",
+        "requested": "[6.2.0, )",
+        "resolved": "6.2.0"
+      },
+      "NuGet.Commands": {
+        "type": "Direct",
+        "requested": "[6.6.0, )",
+        "resolved": "6.6.0"
+      },
+      "NuGet.Common": {
+        "type": "Direct",
+        "requested": "[6.6.0, )",
+        "resolved": "6.6.0"
+      },
+      "NuGet.PackageManagement": {
+        "type": "Direct",
+        "requested": "[6.6.0, )",
+        "resolved": "6.6.0"
+      },
+      "NuGet.Packaging": {
+        "type": "Direct",
+        "requested": "[7.3.0, )",
+        "resolved": "7.3.0"
+      },
+      "NuGet.Protocol": {
+        "type": "Direct",
+        "requested": "[7.3.0, )",
+        "resolved": "7.3.0"
+      },
+      "OPCFoundation.NetStandard.Opc.Ua": {
+        "type": "Direct",
+        "requested": "[1.5.374.118, )",
+        "resolved": "1.5.374.118"
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Bindings.Https": {
+        "type": "Direct",
+        "requested": "[1.5.374.118, )",
+        "resolved": "1.5.374.118"
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Core": {
+        "type": "Direct",
+        "requested": "[1.5.374.118, )",
+        "resolved": "1.5.374.118"
+      },
+      "OPCFoundation.NetStandard.Opc.Ua.Server": {
+        "type": "Direct",
+        "requested": "[1.4.371.41, )",
+        "resolved": "1.4.371.41"
+      },
+      "OWASP.AntiSamy": {
+        "type": "Direct",
+        "requested": "[1.1.1, )",
+        "resolved": "1.1.1"
+      },
+      "OpenMcdf": {
+        "type": "Direct",
+        "requested": "[3.1.3, )",
+        "resolved": "3.1.3"
+      },
+      "OpenTelemetry.Api": {
+        "type": "Direct",
+        "requested": "[1.15.2, )",
+        "resolved": "1.15.2"
+      },
+      "OpenTelemetry.AutoInstrumentation": {
+        "type": "Direct",
+        "requested": "[1.10.0, )",
+        "resolved": "1.10.0"
+      },
+      "OpenTelemetry.Exporter.Instana": {
+        "type": "Direct",
+        "requested": "[1.0.7, )",
+        "resolved": "1.0.7"
+      },
+      "OpenTelemetry.Exporter.Jaeger": {
+        "type": "Direct",
+        "requested": "[1.5.1, )",
+        "resolved": "1.5.1"
+      },
+      "OpenTelemetry.Exporter.OneCollector": {
+        "type": "Direct",
+        "requested": "[1.15.0, )",
+        "resolved": "1.15.0"
+      },
+      "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+        "type": "Direct",
+        "requested": "[1.15.2, )",
+        "resolved": "1.15.2"
+      },
+      "OpenTelemetry.Exporter.Zipkin": {
+        "type": "Direct",
+        "requested": "[1.15.2, )",
+        "resolved": "1.15.2"
+      },
+      "OpenTelemetry.Extensions.Propagators": {
+        "type": "Direct",
+        "requested": "[1.15.2, )",
+        "resolved": "1.15.2"
+      },
+      "OpenTelemetry.Instrumentation.AspNetCore": {
+        "type": "Direct",
+        "requested": "[1.8.0, )",
+        "resolved": "1.8.0"
+      },
+      "OpenTelemetry.Instrumentation.Http": {
+        "type": "Direct",
+        "requested": "[1.8.0, )",
+        "resolved": "1.8.0"
+      },
+      "OpenTelemetry.Resources.AWS": {
+        "type": "Direct",
+        "requested": "[1.15.0, )",
+        "resolved": "1.15.0"
+      },
+      "Oqtane.Client": {
+        "type": "Direct",
+        "requested": "[6.0.0, )",
+        "resolved": "6.0.0"
+      },
+      "Oqtane.Framework": {
+        "type": "Direct",
+        "requested": "[6.0.0, )",
+        "resolved": "6.0.0"
+      },
+      "Oqtane.Server": {
+        "type": "Direct",
+        "requested": "[6.0.0, )",
+        "resolved": "6.0.0"
+      },
+      "Oqtane.Shared": {
+        "type": "Direct",
+        "requested": "[6.0.0, )",
+        "resolved": "6.0.0"
+      },
+      "Oracle.ManagedDataAccess": {
+        "type": "Direct",
+        "requested": "[21.8.0, )",
+        "resolved": "21.8.0"
+      },
+      "Oracle.ManagedDataAccess.Core": {
+        "type": "Direct",
+        "requested": "[3.21.80, )",
+        "resolved": "3.21.80"
+      },
+      "OrchardCore": {
+        "type": "Direct",
+        "requested": "[1.3.0, )",
+        "resolved": "1.3.0"
+      },
+      "OrchardCore.Application.Cms.Targets": {
+        "type": "Direct",
+        "requested": "[1.2.1, )",
+        "resolved": "1.2.1"
+      },
+      "OxidizePdf.NET": {
+        "type": "Direct",
+        "requested": "[0.7.1, )",
+        "resolved": "0.7.1"
+      },
+      "PanelSW.Custom.WiX": {
+        "type": "Direct",
+        "requested": "[3.15.0-a44, )",
+        "resolved": "3.15.0-a44"
+      },
+      "ParquetSharp": {
+        "type": "Direct",
+        "requested": "[23.0.0, )",
+        "resolved": "23.0.0"
+      },
+      "Personnummer": {
+        "type": "Direct",
+        "requested": "[3.0.0, )",
+        "resolved": "3.0.0"
+      },
+      "PeterO.Cbor": {
+        "type": "Direct",
+        "requested": "[4.5.0, )",
+        "resolved": "4.5.0"
+      },
+      "Piranha": {
+        "type": "Direct",
+        "requested": "[12.0.0, )",
+        "resolved": "12.0.0"
+      },
+      "Plumber.Workflow": {
+        "type": "Direct",
+        "requested": "[10.1.1, )",
+        "resolved": "10.1.1"
+      },
+      "PowerShell": {
+        "type": "Direct",
+        "requested": "[6.2.7, )",
+        "resolved": "6.2.7"
+      },
+      "ProDotNetZip": {
+        "type": "Direct",
+        "requested": "[1.18.0, )",
+        "resolved": "1.18.0"
+      },
+      "Prompty.Core": {
+        "type": "Direct",
+        "requested": "[0.2.3-beta, )",
+        "resolved": "0.2.3-beta"
+      },
+      "Pubnub": {
+        "type": "Direct",
+        "requested": "[6.18.0, )",
+        "resolved": "6.18.0"
+      },
+      "QuantConnect.Common": {
+        "type": "Direct",
+        "requested": "[2.4.0.1-unofficial, )",
+        "resolved": "2.4.0.1-unofficial"
+      },
+      "RazorEngine": {
+        "type": "Direct",
+        "requested": "[4.5.1-alpha001, )",
+        "resolved": "4.5.1-alpha001"
+      },
+      "Refit": {
+        "type": "Direct",
+        "requested": "[7.2.1, )",
+        "resolved": "7.2.1"
+      },
+      "RestSharp": {
+        "type": "Direct",
+        "requested": "[111.4.1, )",
+        "resolved": "111.4.1"
+      },
+      "SIPSorcery": {
+        "type": "Direct",
+        "requested": "[10.0.13, )",
+        "resolved": "10.0.13"
+      },
+      "SPID.AspNetCore.Authentication": {
+        "type": "Direct",
+        "requested": "[3.3.0, )",
+        "resolved": "3.3.0"
+      },
+      "SQLitePCLRaw.lib.e_sqlite3": {
+        "type": "Direct",
+        "requested": "[2.1.11, )",
+        "resolved": "2.1.11"
+      },
+      "SQLitePCLRaw.lib.e_sqlite3.android": {
+        "type": "Direct",
+        "requested": "[2.1.11, )",
+        "resolved": "2.1.11"
+      },
+      "SQLitePCLRaw.lib.e_sqlite3.ios": {
+        "type": "Direct",
+        "requested": "[2.1.11, )",
+        "resolved": "2.1.11"
+      },
+      "SSCMS": {
+        "type": "Direct",
+        "requested": "[7.2.1, )",
+        "resolved": "7.2.1"
+      },
+      "SSH.NET": {
+        "type": "Direct",
+        "requested": "[2025.1.0, )",
+        "resolved": "2025.1.0"
+      },
+      "Scriban": {
+        "type": "Direct",
+        "requested": "[7.2.1, )",
+        "resolved": "7.2.1"
+      },
+      "Scriban.Signed": {
+        "type": "Direct",
+        "requested": "[7.2.0, )",
+        "resolved": "7.2.0"
+      },
+      "Serenity.Net.Core": {
+        "type": "Direct",
+        "requested": "[6.7.6, )",
+        "resolved": "6.7.6"
+      },
+      "Serenity.Net.Services": {
+        "type": "Direct",
+        "requested": "[6.6.6, )",
+        "resolved": "6.6.6"
+      },
+      "Serenity.Net.Web": {
+        "type": "Direct",
+        "requested": "[6.6.6, )",
+        "resolved": "6.6.6"
+      },
+      "Serilog.Enrichers.ClientInfo": {
+        "type": "Direct",
+        "requested": "[2.0.3, )",
+        "resolved": "2.0.3"
+      },
+      "ServiceStack": {
+        "type": "Direct",
+        "requested": "[5.9.0, )",
+        "resolved": "5.9.0"
+      },
+      "SharpCompress": {
+        "type": "Direct",
+        "requested": "[0.47.4, )",
+        "resolved": "0.47.4"
+      },
+      "SharpZipLib": {
+        "type": "Direct",
+        "requested": "[1.3.2, )",
+        "resolved": "1.3.2"
+      },
+      "SinGooCMS.Utility": {
+        "type": "Direct",
+        "requested": "[1.6.2, )",
+        "resolved": "1.6.2"
+      },
+      "SixLabors.ImageSharp": {
+        "type": "Direct",
+        "requested": "[4.1.1, )",
+        "resolved": "4.1.1"
+      },
+      "SkiaSharp": {
+        "type": "Direct",
+        "requested": "[2.88.5, )",
+        "resolved": "2.88.5"
+      },
+      "Smidge": {
+        "type": "Direct",
+        "requested": "[4.5.1, )",
+        "resolved": "4.5.1"
+      },
+      "Snappier": {
+        "type": "Direct",
+        "requested": "[1.3.0, )",
+        "resolved": "1.3.0"
+      },
+      "Snowflake.Data": {
+        "type": "Direct",
+        "requested": "[2.2.0, )",
+        "resolved": "2.2.0"
+      },
+      "Steeltoe.Configuration.Abstractions": {
+        "type": "Direct",
+        "requested": "[4.1.0, )",
+        "resolved": "4.1.0"
+      },
+      "Steeltoe.Configuration.Encryption": {
+        "type": "Direct",
+        "requested": "[4.1.0, )",
+        "resolved": "4.1.0"
+      },
+      "Steeltoe.Discovery.ClientAutofac": {
+        "type": "Direct",
+        "requested": "[2.5.5, )",
+        "resolved": "2.5.5"
+      },
+      "Steeltoe.Discovery.ClientCore": {
+        "type": "Direct",
+        "requested": "[4.0.0, )",
+        "resolved": "4.0.0"
+      },
+      "Steeltoe.Discovery.Consul": {
+        "type": "Direct",
+        "requested": "[4.2.0, )",
+        "resolved": "4.2.0"
+      },
+      "Steeltoe.Discovery.Eureka": {
+        "type": "Direct",
+        "requested": "[4.2.0, )",
+        "resolved": "4.2.0"
+      },
+      "Steeltoe.Discovery.EurekaBase": {
+        "type": "Direct",
+        "requested": "[2.5.5, )",
+        "resolved": "2.5.5"
+      },
+      "Steeltoe.Management.Endpoint": {
+        "type": "Direct",
+        "requested": "[4.2.0, )",
+        "resolved": "4.2.0"
+      },
+      "Steeltoe.Management.EndpointBase": {
+        "type": "Direct",
+        "requested": "[3.3.0, )",
+        "resolved": "3.3.0"
+      },
+      "Steeltoe.Management.EndpointCore": {
+        "type": "Direct",
+        "requested": "[3.3.0, )",
+        "resolved": "3.3.0"
+      },
+      "Steeltoe.Security.Authentication.CloudFoundryBase": {
+        "type": "Direct",
+        "requested": "[3.3.0, )",
+        "resolved": "3.3.0"
+      },
+      "Steeltoe.Security.Authentication.JwtBearer": {
+        "type": "Direct",
+        "requested": "[4.1.0, )",
+        "resolved": "4.1.0"
+      },
+      "Steeltoe.Security.Authentication.OpenIdConnect": {
+        "type": "Direct",
+        "requested": "[4.1.0, )",
+        "resolved": "4.1.0"
+      },
+      "Steeltoe.Security.Authorization.Certificate": {
+        "type": "Direct",
+        "requested": "[4.2.0, )",
+        "resolved": "4.2.0"
+      },
+      "Sustainsys.Saml2": {
+        "type": "Direct",
+        "requested": "[2.9.1, )",
+        "resolved": "2.9.1"
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI": {
+        "type": "Direct",
+        "requested": "[6.2.3, )",
+        "resolved": "6.2.3"
+      },
+      "System.Data.SqlClient": {
+        "type": "Direct",
+        "requested": "[4.8.5, )",
+        "resolved": "4.8.5"
+      },
+      "System.DirectoryServices.Protocols": {
+        "type": "Direct",
+        "requested": "[5.0.0, )",
+        "resolved": "5.0.0"
+      },
+      "System.Drawing.Common": {
+        "type": "Direct",
+        "requested": "[5.0.2, )",
+        "resolved": "5.0.2"
+      },
+      "System.Formats.Asn1": {
+        "type": "Direct",
+        "requested": "[8.0.0, )",
+        "resolved": "8.0.0"
+      },
+      "System.IO.Packaging": {
+        "type": "Direct",
+        "requested": "[8.0.0, )",
+        "resolved": "8.0.0"
+      },
+      "System.IO.Pipelines": {
+        "type": "Direct",
+        "requested": "[4.5.0, )",
+        "resolved": "4.5.0"
+      },
+      "System.IdentityModel.Tokens.Jwt": {
+        "type": "Direct",
+        "requested": "[7.1.0-preview, )",
+        "resolved": "7.1.0-preview"
+      },
+      "System.Linq.Dynamic.Core": {
+        "type": "Direct",
+        "requested": "[1.6.0-preview-01, )",
+        "resolved": "1.6.0-preview-01"
+      },
+      "System.Management.Automation": {
+        "type": "Direct",
+        "requested": "[6.2.2, )",
+        "resolved": "6.2.2"
+      },
+      "System.Net.Http": {
+        "type": "Direct",
+        "requested": "[4.3.3, )",
+        "resolved": "4.3.3"
+      },
+      "System.Net.Http.WinHttpHandler": {
+        "type": "Direct",
+        "requested": "[4.5.3, )",
+        "resolved": "4.5.3"
+      },
+      "System.Net.Security": {
+        "type": "Direct",
+        "requested": "[4.3.0, )",
+        "resolved": "4.3.0"
+      },
+      "System.Net.WebSockets.Client": {
+        "type": "Direct",
+        "requested": "[4.3.0, )",
+        "resolved": "4.3.0"
+      },
+      "System.Net.WebSockets.WebSocketProtocol": {
+        "type": "Direct",
+        "requested": "[4.5.2, )",
+        "resolved": "4.5.2"
+      },
+      "System.Private.ServiceModel": {
+        "type": "Direct",
+        "requested": "[4.5.2, )",
+        "resolved": "4.5.2"
+      },
+      "System.Private.Uri": {
+        "type": "Direct",
+        "requested": "[4.3.1, )",
+        "resolved": "4.3.1"
+      },
+      "System.Security.Cryptography.Cose": {
+        "type": "Direct",
+        "requested": "[10.0.2, )",
+        "resolved": "10.0.2"
+      },
+      "System.Security.Cryptography.Pkcs": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "System.Security.Cryptography.X509Certificates": {
+        "type": "Direct",
+        "requested": "[4.1.1, )",
+        "resolved": "4.1.1"
+      },
+      "System.Security.Cryptography.Xml": {
+        "type": "Direct",
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12"
+      },
+      "System.ServiceModel.Duplex": {
+        "type": "Direct",
+        "requested": "[4.5.2, )",
+        "resolved": "4.5.2"
+      },
+      "System.ServiceModel.Http": {
+        "type": "Direct",
+        "requested": "[4.5.2, )",
+        "resolved": "4.5.2"
+      },
+      "System.ServiceModel.NetTcp": {
+        "type": "Direct",
+        "requested": "[4.5.2, )",
+        "resolved": "4.5.2"
+      },
+      "System.ServiceModel.Primitives": {
+        "type": "Direct",
+        "requested": "[4.5.2, )",
+        "resolved": "4.5.2"
+      },
+      "System.ServiceModel.Security": {
+        "type": "Direct",
+        "requested": "[4.5.2, )",
+        "resolved": "4.5.2"
+      },
+      "System.Text.Encodings.Web": {
+        "type": "Direct",
+        "requested": "[5.0.0, )",
+        "resolved": "5.0.0"
+      },
+      "System.Text.Json": {
+        "type": "Direct",
+        "requested": "[8.0.4, )",
+        "resolved": "8.0.4"
+      },
+      "System.Text.RegularExpressions": {
+        "type": "Direct",
+        "requested": "[4.3.0, )",
+        "resolved": "4.3.0"
+      },
+      "TGServiceInterface": {
+        "type": "Direct",
+        "requested": "[3.2.4, )",
+        "resolved": "3.2.4"
+      },
+      "TShock": {
+        "type": "Direct",
+        "requested": "[5.2.1, )",
+        "resolved": "5.2.1"
+      },
+      "Tgstation.Server.Api": {
+        "type": "Direct",
+        "requested": "[6.6.0, )",
+        "resolved": "6.6.0"
+      },
+      "TinyMCE": {
+        "type": "Direct",
+        "requested": "[8.5.0, )",
+        "resolved": "8.5.0"
+      },
+      "Tmds.DBus": {
+        "type": "Direct",
+        "requested": "[0.91.1, )",
+        "resolved": "0.91.1"
+      },
+      "Tmds.DBus.Protocol": {
+        "type": "Direct",
+        "requested": "[0.91.1, )",
+        "resolved": "0.91.1"
+      },
+      "TrueLayer.Client": {
+        "type": "Direct",
+        "requested": "[1.5.0, )",
+        "resolved": "1.5.0"
+      },
+      "Umbraco.AI": {
+        "type": "Direct",
+        "requested": "[1.13.0, )",
+        "resolved": "1.13.0"
+      },
+      "Umbraco.CMS": {
+        "type": "Direct",
+        "requested": "[14.3.0-rc, )",
+        "resolved": "14.3.0-rc"
+      },
+      "Umbraco.Cms": {
+        "type": "Direct",
+        "requested": "[18.0.1, )",
+        "resolved": "18.0.1"
+      },
+      "Umbraco.Cms.Api.Delivery": {
+        "type": "Direct",
+        "requested": "[16.1.0, )",
+        "resolved": "16.1.0"
+      },
+      "Umbraco.Cms.Api.Management": {
+        "type": "Direct",
+        "requested": "[15.2.2, )",
+        "resolved": "15.2.2"
+      },
+      "Umbraco.Cms.Core": {
+        "type": "Direct",
+        "requested": "[13.1.0, )",
+        "resolved": "13.1.0"
+      },
+      "Umbraco.Cms.Infrastructure": {
+        "type": "Direct",
+        "requested": "[14.3.4, )",
+        "resolved": "14.3.4"
+      },
+      "Umbraco.Cms.StaticAssets": {
+        "type": "Direct",
+        "requested": "[15.1.1, )",
+        "resolved": "15.1.1"
+      },
+      "Umbraco.Cms.Web.BackOffice": {
+        "type": "Direct",
+        "requested": "[13.3.0, )",
+        "resolved": "13.3.0"
+      },
+      "Umbraco.Cms.Web.Backoffice": {
+        "type": "Direct",
+        "requested": "[13.7.0, )",
+        "resolved": "13.7.0"
+      },
+      "Umbraco.Cms.Web.Common": {
+        "type": "Direct",
+        "requested": "[15.1.1, )",
+        "resolved": "15.1.1"
+      },
+      "Umbraco.Engage.Forms": {
+        "type": "Direct",
+        "requested": "[17.1.0, )",
+        "resolved": "17.1.0"
+      },
+      "Umbraco.Forms": {
+        "type": "Direct",
+        "requested": "[17.1.0, )",
+        "resolved": "17.1.0"
+      },
+      "Umbraco.Headless.Client.Net": {
+        "type": "Direct",
+        "requested": "[1.4.1, )",
+        "resolved": "1.4.1"
+      },
+      "Umbraco.Workflow": {
+        "type": "Direct",
+        "requested": "[13.0.5, )",
+        "resolved": "13.0.5"
+      },
+      "UmbracoCMS": {
+        "type": "Direct",
+        "requested": "[8.18.14, )",
+        "resolved": "8.18.14"
+      },
+      "UmbracoCMS.Core": {
+        "type": "Direct",
+        "requested": "[8.5.3, )",
+        "resolved": "8.5.3"
+      },
+      "UmbracoCms": {
+        "type": "Direct",
+        "requested": "[8.18.14, )",
+        "resolved": "8.18.14"
+      },
+      "UmbracoCms.Core": {
+        "type": "Direct",
+        "requested": "[8.18.13, )",
+        "resolved": "8.18.13"
+      },
+      "UmbracoForms": {
+        "type": "Direct",
+        "requested": "[8.13.16, )",
+        "resolved": "8.13.16"
+      },
+      "Volo.Abp.Account.Web": {
+        "type": "Direct",
+        "requested": "[9.3.7, )",
+        "resolved": "9.3.7"
+      },
+      "WixToolset.Sdk": {
+        "type": "Direct",
+        "requested": "[4.0.4, )",
+        "resolved": "4.0.4"
+      },
+      "WixToolset.Util.wixext": {
+        "type": "Direct",
+        "requested": "[4.0.4, )",
+        "resolved": "4.0.4"
+      },
+      "YAFNET.Core": {
+        "type": "Direct",
+        "requested": "[4.0.4, )",
+        "resolved": "4.0.4"
+      },
+      "YamlDotNet": {
+        "type": "Direct",
+        "requested": "[4.3.3-pre0489, )",
+        "resolved": "4.3.3-pre0489"
+      },
+      "YamlDotNet.Signed": {
+        "type": "Direct",
+        "requested": "[4.3.3-pre0489, )",
+        "resolved": "4.3.3-pre0489"
+      },
+      "Yarp.ReverseProxy": {
+        "type": "Direct",
+        "requested": "[2.0.0, )",
+        "resolved": "2.0.0"
+      },
+      "YoutubeDLSharp": {
+        "type": "Direct",
+        "requested": "[1.1.1, )",
+        "resolved": "1.1.1"
+      },
+      "ZKEACMS.Publisher": {
+        "type": "Direct",
+        "requested": "[2.0.0, )",
+        "resolved": "2.0.0"
+      },
+      "Zio": {
+        "type": "Direct",
+        "requested": "[0.22.1, )",
+        "resolved": "0.22.1"
+      },
+      "adplug": {
+        "type": "Direct",
+        "requested": "[2.3.3-beta334, )",
+        "resolved": "2.3.3-beta334"
+      },
+      "auth0-aspnet": {
+        "type": "Direct",
+        "requested": "[2.1.1, )",
+        "resolved": "2.1.1"
+      },
+      "bootstrap": {
+        "type": "Direct",
+        "requested": "[5.0.0-alpha1, )",
+        "resolved": "5.0.0-alpha1"
+      },
+      "bootstrap-select": {
+        "type": "Direct",
+        "requested": "[1.13.5, )",
+        "resolved": "1.13.5"
+      },
+      "bootstrap.sass": {
+        "type": "Direct",
+        "requested": "[5.0.0-alpha1, )",
+        "resolved": "5.0.0-alpha1"
+      },
+      "curl": {
+        "type": "Direct",
+        "requested": "[7.30.0.1, )",
+        "resolved": "7.30.0.1"
+      },
+      "directxtex_desktop_2019": {
+        "type": "Direct",
+        "requested": "[2022.12.18.1, )",
+        "resolved": "2022.12.18.1"
+      },
+      "directxtex_desktop_win10": {
+        "type": "Direct",
+        "requested": "[2022.12.18.1, )",
+        "resolved": "2022.12.18.1"
+      },
+      "directxtex_uwp": {
+        "type": "Direct",
+        "requested": "[2022.12.18.1, )",
+        "resolved": "2022.12.18.1"
+      },
+      "directxtk12_desktop_win10": {
+        "type": "Direct",
+        "requested": "[2026.4.1.1, )",
+        "resolved": "2026.4.1.1"
+      },
+      "directxtk12_uwp": {
+        "type": "Direct",
+        "requested": "[2026.4.1.1, )",
+        "resolved": "2026.4.1.1"
+      },
+      "directxtk_desktop_win10": {
+        "type": "Direct",
+        "requested": "[2026.4.1.1, )",
+        "resolved": "2026.4.1.1"
+      },
+      "directxtk_uwp": {
+        "type": "Direct",
+        "requested": "[2026.4.1.1, )",
+        "resolved": "2026.4.1.1"
+      },
+      "dotnet-debugger-extensions": {
+        "type": "Direct",
+        "requested": "[9.0.557512, )",
+        "resolved": "9.0.557512"
+      },
+      "dotnet-dump": {
+        "type": "Direct",
+        "requested": "[9.0.553101, )",
+        "resolved": "9.0.553101"
+      },
+      "dotnet-sos": {
+        "type": "Direct",
+        "requested": "[9.0.553101, )",
+        "resolved": "9.0.553101"
+      },
+      "elFinder.AspNet": {
+        "type": "Direct",
+        "requested": "[1.1.0, )",
+        "resolved": "1.1.0"
+      },
+      "elFinder.Net.Core": {
+        "type": "Direct",
+        "requested": "[1.2.3, )",
+        "resolved": "1.2.3"
+      },
+      "elFinder.NetCore": {
+        "type": "Direct",
+        "requested": "[1.3.5, )",
+        "resolved": "1.3.5"
+      },
+      "git-credential-manager": {
+        "type": "Direct",
+        "requested": "[2.6.0, )",
+        "resolved": "2.6.0"
+      },
+      "i18n": {
+        "type": "Direct",
+        "requested": "[2.1.15-pre000, )",
+        "resolved": "2.1.15-pre000"
+      },
+      "idunno.AtProto": {
+        "type": "Direct",
+        "requested": "[1.6.0, )",
+        "resolved": "1.6.0"
+      },
+      "idunno.AtProto.OAuthCallback": {
+        "type": "Direct",
+        "requested": "[1.6.0, )",
+        "resolved": "1.6.0"
+      },
+      "idunno.Bluesky": {
+        "type": "Direct",
+        "requested": "[1.6.0, )",
+        "resolved": "1.6.0"
+      },
+      "jQuery": {
+        "type": "Direct",
+        "requested": "[3.4.1, )",
+        "resolved": "3.4.1"
+      },
+      "jQuery.UI.Combined": {
+        "type": "Direct",
+        "requested": "[1.13.1, )",
+        "resolved": "1.13.1"
+      },
+      "jQuery.Validation": {
+        "type": "Direct",
+        "requested": "[1.19.2, )",
+        "resolved": "1.19.2"
+      },
+      "jquery": {
+        "type": "Direct",
+        "requested": "[3.4.1, )",
+        "resolved": "3.4.1"
+      },
+      "jquery.cookie": {
+        "type": "Direct",
+        "requested": "[1.4.1, )",
+        "resolved": "1.4.1"
+      },
+      "libpng": {
+        "type": "Direct",
+        "requested": "[1.6.28.1, )",
+        "resolved": "1.6.28.1"
+      },
+      "log4net": {
+        "type": "Direct",
+        "requested": "[3.2.0, )",
+        "resolved": "3.2.0"
+      },
+      "magick.net-q16-anycpu": {
+        "type": "Direct",
+        "requested": "[13.2.0, )",
+        "resolved": "13.2.0"
+      },
+      "magick.net-q16-hdri-anycpu": {
+        "type": "Direct",
+        "requested": "[13.2.0, )",
+        "resolved": "13.2.0"
+      },
+      "magick.net-q16-x64": {
+        "type": "Direct",
+        "requested": "[13.2.0, )",
+        "resolved": "13.2.0"
+      },
+      "magick.net-q8-anycpu": {
+        "type": "Direct",
+        "requested": "[13.2.0, )",
+        "resolved": "13.2.0"
+      },
+      "magick.net-q8-openmp-x64": {
+        "type": "Direct",
+        "requested": "[13.2.0, )",
+        "resolved": "13.2.0"
+      },
+      "magick.net-q8-x64": {
+        "type": "Direct",
+        "requested": "[13.2.0, )",
+        "resolved": "13.2.0"
+      },
+      "microsoft.identitymodel.clients.activedirectory": {
+        "type": "Direct",
+        "requested": "[5.1.1, )",
+        "resolved": "5.1.1"
+      },
+      "mongodb.driver": {
+        "type": "Direct",
+        "requested": "[2.12.1, )",
+        "resolved": "2.12.1"
+      },
+      "moq": {
+        "type": "Direct",
+        "requested": "[4.20.1, )",
+        "resolved": "4.20.1"
+      },
+      "net.sf.mpxj": {
+        "type": "Direct",
+        "requested": "[13.12.0, )",
+        "resolved": "13.12.0"
+      },
+      "net.sf.mpxj-for-csharp": {
+        "type": "Direct",
+        "requested": "[13.12.0, )",
+        "resolved": "13.12.0"
+      },
+      "net.sf.mpxj-for-vb": {
+        "type": "Direct",
+        "requested": "[13.12.0, )",
+        "resolved": "13.12.0"
+      },
+      "recurly-api-client": {
+        "type": "Direct",
+        "requested": "[1.8.0, )",
+        "resolved": "1.8.0"
+      },
+      "scriban": {
+        "type": "Direct",
+        "requested": "[7.1.0, )",
+        "resolved": "7.1.0"
+      },
+      "sscms": {
+        "type": "Direct",
+        "requested": "[1.0.0-preview4, )",
+        "resolved": "1.0.0-preview4"
+      },
+      "starkbank-ecdsa": {
+        "type": "Direct",
+        "requested": "[1.3.1, )",
+        "resolved": "1.3.1"
+      },
+      "tusdotnet": {
+        "type": "Direct",
+        "requested": "[2.5.0, )",
+        "resolved": "2.5.0"
+      },
+      "umbraco": {
+        "type": "Direct",
+        "requested": "[5.2.0-beta, )",
+        "resolved": "5.2.0-beta"
+      },
+      "wix": {
+        "type": "Direct",
+        "requested": "[4.0.4, )",
+        "resolved": "4.0.4"
+      }
+    }
+  }
+}

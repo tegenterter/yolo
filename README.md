@@ -80,9 +80,25 @@ own dedicated feeds:
   dataset (slug → `fixed_below` version ranges, CVEs, severity), not an installable
   manifest — WordPress plugins have no universal pinnable lockfile, and Wordfence's own
   bulk feed is now API-key-gated.
+- **Drupal → drupal.org security advisories** (`ecosystems/drupal-sa/advisories.json`).
+  SA-CORE + SA-CONTRIB. 244 advisories, 218 CVEs (title holds project + severity).
+- **Joomla → VEL** (`ecosystems/joomla/vel.json`). The Joomla Vulnerable Extensions
+  List, 463 vulnerable extensions.
 
-These two are not included in the "installable-package" total above; they're
-vulnerability *datasets* for research, keyed by version range rather than a single pin.
+### OS distributions & CI (OSV, as datasets)
+
+These are in OSV but are keyed by distro-specific versions / git tags in the tens of
+thousands, so they're datasets rather than installable manifests:
+
+- **Debian** `ecosystems/distro/debian.json` — 4,618 packages, 70,801 advisories, 59,645 CVEs
+- **Ubuntu** `ecosystems/distro/ubuntu.json` — 4,443 packages, 70,315 advisories, 62,037 CVEs
+- **Alpine** `ecosystems/distro/alpine.json` — 427 packages, 4,738 advisories, 4,738 CVEs
+- **GitHub Actions** `.github/workflows/vuln-actions.yml` — a real workflow pinning 11
+  actions to vulnerable versions (osv-scanner scans workflow files); sidecar in
+  `ecosystems/github-actions/`.
+
+Everything in these two sections is a vulnerability *dataset* for research, keyed by
+version range rather than a single pin, and not counted in the installable-package total.
 
 ### Lockfiles
 
@@ -93,6 +109,13 @@ vulnerable packages are the direct dependencies), with no transitive resolution 
 no network, install, or code execution. They carry package names and exact versions
 (what SCA tools match on), not integrity hashes. Maven (`pom.xml`) and Go (`go.mod`)
 are scanned directly; PyPI's `==`-pinned `requirements.txt` is its own lock.
+
+**Every scannable lockfile/manifest is also copied to the repo root**, so a scanner
+pointed at the top level (not just `--recursive`) picks them all up:
+`package-lock.json`, `requirements.txt`, `go.mod`, `Cargo.lock`/`Cargo.toml`,
+`Gemfile`/`Gemfile.lock`, `packages.lock.json`, `pubspec.lock`, `mix.lock`, `pom.xml`,
+and a merged `composer.lock` (Packagist + PHP-CMS, 965 packages). The per-ecosystem
+copies under `ecosystems/` remain as well.
 
 ## What was deliberately EXCLUDED
 
