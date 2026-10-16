@@ -66,6 +66,24 @@ Some languages map onto an ecosystem above rather than getting their own OSV fee
   in the installable-package total. (OSS-Fuzz also fuzzes some JVM projects, noted in
   the file.)
 
+## Beyond OSV
+
+Some of the biggest vulnerability surfaces aren't in OSV at all. These come from their
+own dedicated feeds:
+
+- **PHP CMS → FriendsOfPHP** (`ecosystems/php-cms/`). The curated advisory DB behind
+  `composer audit`. 46 CMS packages (Drupal core, TYPO3, Magento, SilverStripe, Contao,
+  Joomla, Shopware, Sylius), 365 CVEs — as a Composer `composer.json` + `composer.lock`.
+- **WordPress → wpvulnerability.net** (`ecosystems/wordpress/plugins-vulnerabilities.json`).
+  A keyless aggregator of CVE / WPScan / Patchstack / Wordfence data. **1,492 vulnerable
+  plugins** among the 2,000 most popular, **14,450 vulnerabilities, 9,981 CVEs**. A
+  dataset (slug → `fixed_below` version ranges, CVEs, severity), not an installable
+  manifest — WordPress plugins have no universal pinnable lockfile, and Wordfence's own
+  bulk feed is now API-key-gated.
+
+These two are not included in the "installable-package" total above; they're
+vulnerability *datasets* for research, keyed by version range rather than a single pin.
+
 ### Lockfiles
 
 Lockfiles are included so ecosystem-native scanners (`npm audit`, `bundler-audit`,

@@ -1,0 +1,195 @@
+{
+    "_readme": [
+        "yolo security-research fixture"
+    ],
+    "content-hash": "00000000000000000000000000000000",
+    "packages": [
+        {
+            "name": "contao/comments-bundle",
+            "version": "5.4.0"
+        },
+        {
+            "name": "contao/contao",
+            "version": "5.7.1"
+        },
+        {
+            "name": "contao/core",
+            "version": "3.0.0"
+        },
+        {
+            "name": "contao/core-bundle",
+            "version": "5.7.1"
+        },
+        {
+            "name": "contao/listing-bundle",
+            "version": "4.0.0"
+        },
+        {
+            "name": "contao/newsletter-bundle",
+            "version": "5.4.0"
+        },
+        {
+            "name": "drupal/core",
+            "version": "10.2.0"
+        },
+        {
+            "name": "drupal/drupal",
+            "version": "9.2.0"
+        },
+        {
+            "name": "joomla/archive",
+            "version": "2.0.0"
+        },
+        {
+            "name": "joomla/filesystem",
+            "version": "2.0.0"
+        },
+        {
+            "name": "joomla/filter",
+            "version": "2.0.0"
+        },
+        {
+            "name": "joomla/input",
+            "version": "2.0.0"
+        },
+        {
+            "name": "magento/magento1ce",
+            "version": "1.5.0.1"
+        },
+        {
+            "name": "magento/magento1ee",
+            "version": "1.9.0.0"
+        },
+        {
+            "name": "magento/product-community-edition",
+            "version": "2.4.7"
+        },
+        {
+            "name": "shopware/shopware",
+            "version": "5.3.0"
+        },
+        {
+            "name": "silverstripe/admin",
+            "version": "2.0.0"
+        },
+        {
+            "name": "silverstripe/assets",
+            "version": "3.0.0"
+        },
+        {
+            "name": "silverstripe/cms",
+            "version": "4.0.0"
+        },
+        {
+            "name": "silverstripe/comments",
+            "version": "3.0.0"
+        },
+        {
+            "name": "silverstripe/forum",
+            "version": "0.7.0"
+        },
+        {
+            "name": "silverstripe/framework",
+            "version": "5.0.0"
+        },
+        {
+            "name": "silverstripe/graphql",
+            "version": "5.0.0"
+        },
+        {
+            "name": "silverstripe/hybridsessions",
+            "version": "2.5.0"
+        },
+        {
+            "name": "silverstripe/registry",
+            "version": "2.2.0"
+        },
+        {
+            "name": "silverstripe/restfulserver",
+            "version": "2.0.0"
+        },
+        {
+            "name": "silverstripe/silverstripe-omnipay",
+            "version": "3.2.0"
+        },
+        {
+            "name": "silverstripe/subsites",
+            "version": "2.0.0"
+        },
+        {
+            "name": "silverstripe/taxonomy",
+            "version": "2.0.0"
+        },
+        {
+            "name": "silverstripe/userforms",
+            "version": "7.1.0"
+        },
+        {
+            "name": "silverstripe/versioned-admin",
+            "version": "1.0.0"
+        },
+        {
+            "name": "sylius/admin-bundle",
+            "version": "1.2.0"
+        },
+        {
+            "name": "sylius/grid",
+            "version": "1.5.0"
+        },
+        {
+            "name": "sylius/grid-bundle",
+            "version": "1.5.0"
+        },
+        {
+            "name": "sylius/resource-bundle",
+            "version": "1.6.0"
+        },
+        {
+            "name": "sylius/sylius",
+            "version": "1.8.0"
+        },
+        {
+            "name": "typo3/cms",
+            "version": "12.0.0"
+        },
+        {
+            "name": "typo3/cms-backend",
+            "version": "14.0.0"
+        },
+        {
+            "name": "typo3/cms-core",
+            "version": "14.0.0"
+        },
+        {
+            "name": "typo3/cms-form",
+            "version": "14.2.0"
+        },
+        {
+            "name": "typo3/cms-lowlevel",
+            "version": "14.2.0"
+        },
+        {
+            "name": "typo3/flow",
+            "version": "4.0.0"
+        },
+        {
+            "name": "typo3/html-sanitizer",
+            "version": "2.0.0"
+        },
+        {
+            "name": "typo3/neos",
+            "version": "4.3.0"
+        },
+        {
+            "name": "typo3/phar-stream-wrapper",
+            "version": "3.0.0"
+        },
+        {
+            "name": "typo3/swiftmailer",
+            "version": "5.4.0"
+        }
+    ],
+    "packages-dev": [],
+    "platform": {},
+    "platform-dev": {}
+}
