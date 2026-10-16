@@ -1,0 +1,217 @@
+{
+  "our_distinct_cves": 29613,
+  "with_epss_score": 29256,
+  "in_cisa_kev": 125,
+  "epss_ge_0.5": 520,
+  "ransomware_linked": 15,
+  "top25_by_epss": [
+    {
+      "cve": "CVE-2021-44228",
+      "epss": 0.99999,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2023-44487",
+      "epss": 0.99999,
+      "in_kev": true,
+      "ecosystems": [
+        "go",
+        "maven",
+        "scala",
+        "swift"
+      ]
+    },
+    {
+      "cve": "CVE-2021-45105",
+      "epss": 0.99999,
+      "in_kev": false,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2024-23897",
+      "epss": 0.99999,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2023-32315",
+      "epss": 0.99999,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2017-9841",
+      "epss": 0.99999,
+      "in_kev": true,
+      "ecosystems": [
+        "packagist"
+      ]
+    },
+    {
+      "cve": "CVE-2023-0669",
+      "epss": 0.99999,
+      "in_kev": true,
+      "ecosystems": [
+        "rubygems"
+      ]
+    },
+    {
+      "cve": "CVE-2017-5638",
+      "epss": 0.99999,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2013-2251",
+      "epss": 0.99998,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2024-34102",
+      "epss": 0.99994,
+      "in_kev": true,
+      "ecosystems": [
+        "packagist",
+        "php-cms"
+      ]
+    },
+    {
+      "cve": "CVE-2025-3248",
+      "epss": 0.99993,
+      "in_kev": true,
+      "ecosystems": [
+        "pypi"
+      ]
+    },
+    {
+      "cve": "CVE-2018-11776",
+      "epss": 0.99991,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2018-7600",
+      "epss": 0.99991,
+      "in_kev": true,
+      "ecosystems": [
+        "packagist",
+        "php-cms"
+      ]
+    },
+    {
+      "cve": "CVE-2023-4863",
+      "epss": 0.99979,
+      "in_kev": true,
+      "ecosystems": [
+        "go",
+        "npm",
+        "nuget",
+        "pypi"
+      ]
+    },
+    {
+      "cve": "CVE-2021-45046",
+      "epss": 0.99977,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2017-12617",
+      "epss": 0.99968,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2021-3129",
+      "epss": 0.99943,
+      "in_kev": true,
+      "ecosystems": [
+        "packagist"
+      ]
+    },
+    {
+      "cve": "CVE-2022-22963",
+      "epss": 0.99938,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2021-39226",
+      "epss": 0.99933,
+      "in_kev": true,
+      "ecosystems": [
+        "go"
+      ]
+    },
+    {
+      "cve": "CVE-2022-42889",
+      "epss": 0.99931,
+      "in_kev": false,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2025-24813",
+      "epss": 0.99927,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2019-0232",
+      "epss": 0.99923,
+      "in_kev": false,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2015-1427",
+      "epss": 0.99906,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2020-7961",
+      "epss": 0.99905,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    },
+    {
+      "cve": "CVE-2023-46604",
+      "epss": 0.99891,
+      "in_kev": true,
+      "ecosystems": [
+        "maven"
+      ]
+    }
+  ]
+}

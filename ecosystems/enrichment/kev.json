@@ -1,0 +1,1877 @@
+{
+  "kev_total": 1746,
+  "matches": {
+    "CVE-2006-1547": {
+      "dateAdded": "2022-01-21",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.54635,
+      "example_packages": [
+        "maven:struts:struts"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Struts 1",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Struts 1 ActionForm Denial-of-Service Vulnerability"
+    },
+    "CVE-2012-0391": {
+      "dateAdded": "2022-01-21",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.75599,
+      "example_packages": [
+        "maven:org.apache.struts.xwork:xwork-core",
+        "maven:org.apache.struts:struts2-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Struts 2",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Struts 2 Improper Input Validation Vulnerability"
+    },
+    "CVE-2013-2251": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99998,
+      "example_packages": [
+        "maven:org.apache.struts:struts2-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Struts",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Struts Improper Input Validation Vulnerability"
+    },
+    "CVE-2014-0130": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "rubygems"
+      ],
+      "epss": 0.53703,
+      "example_packages": [
+        "rubygems:actionpack"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Ruby on Rails",
+      "vendorProject": "Rails",
+      "vulnerabilityName": "Ruby on Rails Directory Traversal Vulnerability"
+    },
+    "CVE-2014-3120": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.88559,
+      "example_packages": [
+        "maven:org.elasticsearch:elasticsearch"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Elasticsearch",
+      "vendorProject": "Elastic",
+      "vulnerabilityName": "Elasticsearch Remote Code Execution Vulnerability"
+    },
+    "CVE-2015-1427": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99906,
+      "example_packages": [
+        "maven:org.elasticsearch:elasticsearch"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Elasticsearch",
+      "vendorProject": "Elastic",
+      "vulnerabilityName": "Elasticsearch Groovy Scripting Engine Remote Code Execution Vulnerability"
+    },
+    "CVE-2015-5317": {
+      "dateAdded": "2023-05-12",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.23003,
+      "example_packages": [
+        "maven:org.jenkins-ci.main:jenkins-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Jenkins User Interface (UI)",
+      "vendorProject": "Jenkins",
+      "vulnerabilityName": "Jenkins User Interface (UI) Information Disclosure Vulnerability"
+    },
+    "CVE-2016-0752": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "rubygems"
+      ],
+      "epss": 0.95537,
+      "example_packages": [
+        "rubygems:actionpack",
+        "rubygems:actionview"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Ruby on Rails",
+      "vendorProject": "Rails",
+      "vulnerabilityName": "Ruby on Rails Directory Traversal Vulnerability"
+    },
+    "CVE-2016-10033": {
+      "dateAdded": "2025-07-07",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.99714,
+      "example_packages": [
+        "packagist:phpmailer/phpmailer"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "PHPMailer",
+      "vendorProject": "PHP",
+      "vulnerabilityName": "PHPMailer Command Injection Vulnerability"
+    },
+    "CVE-2016-3081": {
+      "dateAdded": "2026-10-08",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.96052,
+      "example_packages": [
+        "maven:org.apache.struts:struts2-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Struts",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Struts Command Injection Vulnerability"
+    },
+    "CVE-2016-3088": {
+      "dateAdded": "2022-02-10",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.98518,
+      "example_packages": [
+        "maven:org.apache.activemq:activemq-client"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "ActiveMQ",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache ActiveMQ Improper Input Validation Vulnerability"
+    },
+    "CVE-2016-4437": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.93039,
+      "example_packages": [
+        "maven:org.apache.shiro:shiro-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Shiro",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Shiro Code Execution Vulnerability"
+    },
+    "CVE-2016-7200": {
+      "dateAdded": "2022-03-28",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.82779,
+      "example_packages": [
+        "nuget:Microsoft.ChakraCore"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Edge",
+      "vendorProject": "Microsoft",
+      "vulnerabilityName": "Microsoft Edge Memory Corruption Vulnerability"
+    },
+    "CVE-2016-7201": {
+      "dateAdded": "2022-03-28",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.80004,
+      "example_packages": [
+        "nuget:Microsoft.ChakraCore"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Edge",
+      "vendorProject": "Microsoft",
+      "vulnerabilityName": "Microsoft Edge Memory Corruption Vulnerability"
+    },
+    "CVE-2016-8735": {
+      "dateAdded": "2023-05-12",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.90338,
+      "example_packages": [
+        "maven:org.apache.tomcat:tomcat-catalina",
+        "maven:org.apache.tomcat:tomcat-catalina-jmx-remote"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Tomcat",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Tomcat Remote Code Execution Vulnerability"
+    },
+    "CVE-2017-1000353": {
+      "dateAdded": "2025-10-02",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99679,
+      "example_packages": [
+        "maven:org.jenkins-ci.main:jenkins-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Jenkins",
+      "vendorProject": "Jenkins",
+      "vulnerabilityName": "Jenkins Remote Code Execution Vulnerability"
+    },
+    "CVE-2017-1000486": {
+      "dateAdded": "2022-01-10",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.94104,
+      "example_packages": [
+        "maven:org.primefaces:primefaces"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Primefaces Application",
+      "vendorProject": "Primetek",
+      "vulnerabilityName": "Primetek Primefaces Remote Code Execution Vulnerability"
+    },
+    "CVE-2017-12615": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99641,
+      "example_packages": [
+        "maven:org.apache.tomcat.embed:tomcat-embed-core"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "Tomcat",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Tomcat on Windows Remote Code Execution Vulnerability"
+    },
+    "CVE-2017-12617": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99968,
+      "example_packages": [
+        "maven:org.apache.tomcat.embed:tomcat-embed-core",
+        "maven:org.apache.tomcat:tomcat-catalina"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Tomcat",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Tomcat Remote Code Execution Vulnerability"
+    },
+    "CVE-2017-5638": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99999,
+      "example_packages": [
+        "maven:org.apache.struts:struts2-core"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "Struts",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Struts Remote Code Execution Vulnerability"
+    },
+    "CVE-2017-9791": {
+      "dateAdded": "2022-02-10",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.98908,
+      "example_packages": [
+        "maven:org.apache.struts:struts2-struts1-plugin"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Struts 1",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Struts 1 Improper Input Validation Vulnerability"
+    },
+    "CVE-2017-9805": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99396,
+      "example_packages": [
+        "maven:org.apache.struts:struts2-rest-plugin"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Struts",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Struts Deserialization of Untrusted Data Vulnerability"
+    },
+    "CVE-2017-9822": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.94789,
+      "example_packages": [
+        "nuget:DotNetNuke.Core"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "DotNetNuke (DNN)",
+      "vendorProject": "DotNetNuke (DNN)",
+      "vulnerabilityName": "DotNetNuke (DNN) Remote Code Execution Vulnerability"
+    },
+    "CVE-2017-9841": {
+      "dateAdded": "2022-02-15",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.99999,
+      "example_packages": [
+        "packagist:phpunit/phpunit"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "PHPUnit",
+      "vendorProject": "PHPUnit",
+      "vulnerabilityName": "PHPUnit Command Injection Vulnerability"
+    },
+    "CVE-2018-1000861": {
+      "dateAdded": "2022-02-10",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.98326,
+      "example_packages": [
+        "maven:org.jenkins-ci.main:jenkins-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Jenkins Stapler Web Framework",
+      "vendorProject": "Jenkins",
+      "vulnerabilityName": "Jenkins Stapler Web Framework Deserialization of Untrusted Data Vulnerability"
+    },
+    "CVE-2018-11776": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99991,
+      "example_packages": [
+        "maven:org.apache.struts:struts2-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Struts",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Struts Remote Code Execution Vulnerability"
+    },
+    "CVE-2018-1273": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.96956,
+      "example_packages": [
+        "maven:org.springframework.data:spring-data-commons"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "Spring Data Commons",
+      "vendorProject": "VMware Tanzu",
+      "vulnerabilityName": "VMware Tanzu Spring Data Commons Property Binder Vulnerability"
+    },
+    "CVE-2018-14667": {
+      "dateAdded": "2023-09-28",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.74202,
+      "example_packages": [
+        "maven:org.richfaces:richfaces-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "JBoss RichFaces Framework",
+      "vendorProject": "Red Hat",
+      "vulnerabilityName": "Red Hat JBoss RichFaces Framework Expression Language Injection Vulnerability"
+    },
+    "CVE-2018-15133": {
+      "dateAdded": "2024-01-16",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.7657,
+      "example_packages": [
+        "packagist:laravel/framework"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Laravel Framework",
+      "vendorProject": "Laravel",
+      "vulnerabilityName": "Laravel Deserialization of Untrusted Data Vulnerability"
+    },
+    "CVE-2018-15811": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.76304,
+      "example_packages": [
+        "nuget:DotNetNuke.Core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "DotNetNuke (DNN)",
+      "vendorProject": "DotNetNuke (DNN)",
+      "vulnerabilityName": "DotNetNuke (DNN) Inadequate Encryption Strength Vulnerability"
+    },
+    "CVE-2018-18325": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.74048,
+      "example_packages": [
+        "nuget:DotNetNuke.Core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "DotNetNuke (DNN)",
+      "vendorProject": "DotNetNuke (DNN)",
+      "vulnerabilityName": "DotNetNuke (DNN) Inadequate Encryption Strength Vulnerability"
+    },
+    "CVE-2018-7600": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "packagist",
+        "php-cms"
+      ],
+      "epss": 0.99991,
+      "example_packages": [
+        "packagist:drupal/core",
+        "packagist:drupal/drupal",
+        "php-cms:drupal/core",
+        "php-cms:drupal/drupal"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "Drupal Core",
+      "vendorProject": "Drupal",
+      "vulnerabilityName": "Drupal Core Remote Code Execution Vulnerability"
+    },
+    "CVE-2018-7602": {
+      "dateAdded": "2022-04-13",
+      "ecosystems": [
+        "packagist",
+        "php-cms"
+      ],
+      "epss": 0.99172,
+      "example_packages": [
+        "packagist:drupal/core",
+        "packagist:drupal/drupal",
+        "php-cms:drupal/core",
+        "php-cms:drupal/drupal"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "Core",
+      "vendorProject": "Drupal",
+      "vulnerabilityName": "Drupal Core Remote Code Execution Vulnerability"
+    },
+    "CVE-2018-8298": {
+      "dateAdded": "2022-03-03",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.74694,
+      "example_packages": [
+        "nuget:Microsoft.ChakraCore"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "ChakraCore scripting engine",
+      "vendorProject": "ChakraCore",
+      "vulnerabilityName": "ChakraCore Scripting Engine Type Confusion Vulnerability"
+    },
+    "CVE-2019-0193": {
+      "dateAdded": "2021-12-10",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.83547,
+      "example_packages": [
+        "maven:org.apache.solr:solr-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Solr",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Solr DataImportHandler Code Injection Vulnerability"
+    },
+    "CVE-2019-1003029": {
+      "dateAdded": "2022-04-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.7444,
+      "example_packages": [
+        "maven:org.jenkins-ci.plugins:script-security"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Script Security Plugin",
+      "vendorProject": "Jenkins",
+      "vulnerabilityName": "Jenkins Script Security Plugin Sandbox Bypass Vulnerability"
+    },
+    "CVE-2019-1003030": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.97058,
+      "example_packages": [
+        "maven:org.jenkins-ci.plugins.workflow:workflow-cps"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Matrix Project Plugin",
+      "vendorProject": "Jenkins",
+      "vulnerabilityName": "Jenkins Matrix Project Plugin Remote Code Execution Vulnerability"
+    },
+    "CVE-2019-17558": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.98567,
+      "example_packages": [
+        "maven:org.apache.solr:solr-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Solr",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Solr VelocityResponseWriter Plug-In Remote Code Execution Vulnerability"
+    },
+    "CVE-2019-5418": {
+      "dateAdded": "2025-07-07",
+      "ecosystems": [
+        "rubygems"
+      ],
+      "epss": 0.98507,
+      "example_packages": [
+        "rubygems:actionview"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Ruby on Rails",
+      "vendorProject": "Rails",
+      "vulnerabilityName": "Rails Ruby on Rails Path Traversal Vulnerability"
+    },
+    "CVE-2019-5786": {
+      "dateAdded": "2022-05-23",
+      "ecosystems": [
+        "npm"
+      ],
+      "epss": 0.61085,
+      "example_packages": [
+        "npm:puppeteer"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Chrome Blink",
+      "vendorProject": "Google",
+      "vulnerabilityName": "Google Chrome Blink Use-After-Free Vulnerability"
+    },
+    "CVE-2019-6340": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "packagist",
+        "php-cms"
+      ],
+      "epss": 0.92017,
+      "example_packages": [
+        "packagist:drupal/core",
+        "packagist:drupal/drupal",
+        "php-cms:drupal/core",
+        "php-cms:drupal/drupal"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Core",
+      "vendorProject": "Drupal",
+      "vulnerabilityName": "Drupal Core Remote Code Execution Vulnerability"
+    },
+    "CVE-2020-10199": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99064,
+      "example_packages": [
+        "maven:org.sonatype.nexus:nexus-extdirect"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Nexus Repository",
+      "vendorProject": "Sonatype",
+      "vulnerabilityName": "Sonatype Nexus Repository Remote Code Execution Vulnerability"
+    },
+    "CVE-2020-11023": {
+      "dateAdded": "2025-01-23",
+      "ecosystems": [
+        "maven",
+        "npm",
+        "nuget",
+        "packagist",
+        "rubygems"
+      ],
+      "epss": 0.84887,
+      "example_packages": [
+        "maven:org.webjars.npm:jquery",
+        "npm:jquery",
+        "nuget:jQuery",
+        "packagist:components/jquery",
+        "rubygems:jquery-rails"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "JQuery",
+      "vendorProject": "JQuery",
+      "vulnerabilityName": "JQuery Cross-Site Scripting (XSS) Vulnerability"
+    },
+    "CVE-2020-1147": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.93966,
+      "example_packages": [
+        "nuget:Microsoft.NETCore.App",
+        "nuget:Microsoft.NETCore.App.Runtime.linux-arm",
+        "nuget:Microsoft.NETCore.App.Runtime.linux-arm64",
+        "nuget:Microsoft.NETCore.App.Runtime.linux-musl-arm64",
+        "nuget:Microsoft.NETCore.App.Runtime.linux-musl-x64",
+        "nuget:Microsoft.NETCore.App.Runtime.linux-x64",
+        "nuget:Microsoft.NETCore.App.Runtime.osx-x64",
+        "nuget:Microsoft.NETCore.App.Runtime.rhel.6-x64",
+        "nuget:Microsoft.NETCore.App.Runtime.win-arm",
+        "nuget:Microsoft.NETCore.App.Runtime.win-arm64"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": ".NET Framework, SharePoint, Visual Studio",
+      "vendorProject": "Microsoft",
+      "vulnerabilityName": "Microsoft .NET Framework, SharePoint, and Visual Studio Remote Code Execution Vulnerability"
+    },
+    "CVE-2020-11651": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.96614,
+      "example_packages": [
+        "pypi:salt"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Salt",
+      "vendorProject": "SaltStack",
+      "vulnerabilityName": "SaltStack Salt Authentication Bypass Vulnerability"
+    },
+    "CVE-2020-11652": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.86178,
+      "example_packages": [
+        "pypi:salt"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Salt",
+      "vendorProject": "SaltStack",
+      "vulnerabilityName": "SaltStack Salt Path Traversal Vulnerability"
+    },
+    "CVE-2020-11978": {
+      "dateAdded": "2022-01-18",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.99189,
+      "example_packages": [
+        "pypi:apache-airflow"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Airflow",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Airflow Command Injection"
+    },
+    "CVE-2020-13671": {
+      "dateAdded": "2022-01-18",
+      "ecosystems": [
+        "packagist",
+        "php-cms"
+      ],
+      "epss": 0.3535,
+      "example_packages": [
+        "packagist:drupal/core",
+        "packagist:drupal/drupal",
+        "php-cms:drupal/core",
+        "php-cms:drupal/drupal"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Drupal core",
+      "vendorProject": "Drupal",
+      "vulnerabilityName": "Drupal core Un-restricted Upload of File"
+    },
+    "CVE-2020-13927": {
+      "dateAdded": "2022-01-18",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.99778,
+      "example_packages": [
+        "pypi:apache-airflow"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Airflow's Experimental API",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Airflow's Experimental API Authentication Bypass"
+    },
+    "CVE-2020-15999": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.63894,
+      "example_packages": [
+        "nuget:CefSharp.Common",
+        "nuget:CefSharp.WinForms",
+        "nuget:CefSharp.Wpf",
+        "nuget:CefSharp.Wpf.HwndHost"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Chrome FreeType",
+      "vendorProject": "Google",
+      "vulnerabilityName": "Google Chrome FreeType Heap Buffer Overflow Vulnerability"
+    },
+    "CVE-2020-16009": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.48293,
+      "example_packages": [
+        "nuget:CefSharp.Common",
+        "nuget:CefSharp.WinForms",
+        "nuget:CefSharp.Wpf",
+        "nuget:CefSharp.Wpf.HwndHost"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Chromium V8",
+      "vendorProject": "Google",
+      "vulnerabilityName": "Google Chromium V8 Type Confusion Vulnerability"
+    },
+    "CVE-2020-16013": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.02756,
+      "example_packages": [
+        "nuget:CefSharp.Common",
+        "nuget:CefSharp.WinForms",
+        "nuget:CefSharp.Wpf",
+        "nuget:CefSharp.Wpf.HwndHost"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Chromium V8",
+      "vendorProject": "Google",
+      "vulnerabilityName": "Google Chromium V8 Incorrect Implementation Vulnerabililty"
+    },
+    "CVE-2020-16017": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.0273,
+      "example_packages": [
+        "nuget:CefSharp.Common",
+        "nuget:CefSharp.WinForms",
+        "nuget:CefSharp.Wpf",
+        "nuget:CefSharp.Wpf.HwndHost"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Chrome",
+      "vendorProject": "Google",
+      "vulnerabilityName": "Google Chrome Use-After-Free Vulnerability"
+    },
+    "CVE-2020-16846": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.99585,
+      "example_packages": [
+        "pypi:salt"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Salt",
+      "vendorProject": "SaltStack",
+      "vulnerabilityName": "SaltStack Salt Shell Injection Vulnerability"
+    },
+    "CVE-2020-17519": {
+      "dateAdded": "2024-05-23",
+      "ecosystems": [
+        "maven",
+        "scala"
+      ],
+      "epss": 0.97809,
+      "example_packages": [
+        "maven:org.apache.flink:flink-runtime_2.11",
+        "maven:org.apache.flink:flink-runtime_2.12",
+        "scala:org.apache.flink:flink-runtime_2.11",
+        "scala:org.apache.flink:flink-runtime_2.12"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Flink",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Flink Improper Access Control Vulnerability"
+    },
+    "CVE-2020-17530": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.95931,
+      "example_packages": [
+        "maven:org.apache.struts:struts2-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Struts",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Struts Remote Code Execution Vulnerability"
+    },
+    "CVE-2020-1938": {
+      "dateAdded": "2022-03-03",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.9927,
+      "example_packages": [
+        "maven:org.apache.tomcat.embed:tomcat-embed-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Tomcat",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Tomcat Improper Privilege Management Vulnerability"
+    },
+    "CVE-2020-1956": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.97337,
+      "example_packages": [
+        "maven:org.apache.kylin:kylin-core-common"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Kylin",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Kylin OS Command Injection Vulnerability"
+    },
+    "CVE-2020-28949": {
+      "dateAdded": "2022-08-25",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.84554,
+      "example_packages": [
+        "packagist:drupal/core",
+        "packagist:pear/archive_tar"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Archive_Tar",
+      "vendorProject": "PEAR",
+      "vulnerabilityName": "PEAR Archive_Tar Deserialization of Untrusted Data Vulnerability"
+    },
+    "CVE-2020-36193": {
+      "dateAdded": "2022-08-25",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.70595,
+      "example_packages": [
+        "packagist:pear/archive_tar"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Archive_Tar",
+      "vendorProject": "PEAR",
+      "vulnerabilityName": "PEAR Archive_Tar Improper Link Resolution Vulnerability"
+    },
+    "CVE-2020-5410": {
+      "dateAdded": "2022-03-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.95586,
+      "example_packages": [
+        "maven:org.springframework.cloud:spring-cloud-config-server"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Spring Cloud Configuration (Config) Server",
+      "vendorProject": "VMware Tanzu",
+      "vulnerabilityName": "VMware Tanzu Spring Cloud Config Directory Traversal Vulnerability"
+    },
+    "CVE-2020-7961": {
+      "dateAdded": "2021-11-03",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99905,
+      "example_packages": [
+        "maven:com.liferay.portal:com.liferay.portal.kernel"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Liferay Portal",
+      "vendorProject": "Liferay",
+      "vulnerabilityName": "Liferay Portal Deserialization of Untrusted Data Vulnerability"
+    },
+    "CVE-2021-21311": {
+      "dateAdded": "2025-09-29",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.98464,
+      "example_packages": [
+        "packagist:vrana/adminer"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Adminer",
+      "vendorProject": "Adminer",
+      "vulnerabilityName": "Adminer Server-Side Request Forgery Vulnerability"
+    },
+    "CVE-2021-23758": {
+      "dateAdded": "2026-08-26",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.82578,
+      "example_packages": [
+        "nuget:AjaxNetProfessional"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Ajax.NET Professional",
+      "vendorProject": "Ajax.NET Professional",
+      "vulnerabilityName": "Ajax.NET Professional Deserialization of Untrusted Data Vulnerability"
+    },
+    "CVE-2021-3129": {
+      "dateAdded": "2023-09-18",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.99943,
+      "example_packages": [
+        "packagist:facade/ignition"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "Ignition",
+      "vendorProject": "Laravel",
+      "vulnerabilityName": "Laravel Ignition File Upload Vulnerability"
+    },
+    "CVE-2021-32648": {
+      "dateAdded": "2022-01-18",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.90418,
+      "example_packages": [
+        "packagist:october/system"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "October CMS",
+      "vendorProject": "October CMS",
+      "vulnerabilityName": "October CMS Improper Authentication"
+    },
+    "CVE-2021-39144": {
+      "dateAdded": "2023-03-10",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.98124,
+      "example_packages": [
+        "maven:com.thoughtworks.xstream:xstream"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "XStream",
+      "vendorProject": "XStream",
+      "vulnerabilityName": "XStream Remote Code Execution Vulnerability"
+    },
+    "CVE-2021-39226": {
+      "dateAdded": "2022-08-25",
+      "ecosystems": [
+        "go"
+      ],
+      "epss": 0.99933,
+      "example_packages": [
+        "go:github.com/grafana/grafana"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Grafana",
+      "vendorProject": "Grafana Labs",
+      "vulnerabilityName": "Grafana Authentication Bypass Vulnerability"
+    },
+    "CVE-2021-43798": {
+      "dateAdded": "2025-10-09",
+      "ecosystems": [
+        "go"
+      ],
+      "epss": 0.88503,
+      "example_packages": [
+        "go:github.com/grafana/grafana"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Grafana",
+      "vendorProject": "Grafana Labs",
+      "vulnerabilityName": "Grafana Path Traversal Vulnerability"
+    },
+    "CVE-2021-44228": {
+      "dateAdded": "2021-12-10",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99999,
+      "example_packages": [
+        "maven:com.guicedee.services:log4j-core",
+        "maven:org.apache.logging.log4j:log4j-core",
+        "maven:org.ops4j.pax.logging:pax-logging-log4j2",
+        "maven:org.xbib.elasticsearch:log4j",
+        "maven:uk.co.nichesolutions.logging.log4j:log4j-core"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "Log4j2",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Log4j2 Remote Code Execution Vulnerability"
+    },
+    "CVE-2021-45046": {
+      "dateAdded": "2023-05-01",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99977,
+      "example_packages": [
+        "maven:org.apache.logging.log4j:log4j-core",
+        "maven:org.ops4j.pax.logging:pax-logging-log4j2"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "Log4j2",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Log4j2 Deserialization of Untrusted Data Vulnerability"
+    },
+    "CVE-2022-0609": {
+      "dateAdded": "2022-02-15",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.22442,
+      "example_packages": [
+        "nuget:CefSharp.Common",
+        "nuget:CefSharp.Common.NETCore",
+        "nuget:CefSharp.OffScreen",
+        "nuget:CefSharp.OffScreen.NETCore",
+        "nuget:CefSharp.WinForms",
+        "nuget:CefSharp.WinForms.NETCore",
+        "nuget:CefSharp.Wpf",
+        "nuget:CefSharp.Wpf.HwndHost",
+        "nuget:CefSharp.Wpf.NETCore"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Chromium Animation",
+      "vendorProject": "Google",
+      "vulnerabilityName": "Google Chromium Animation Use-After-Free Vulnerability"
+    },
+    "CVE-2022-22947": {
+      "dateAdded": "2022-05-16",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.98253,
+      "example_packages": [
+        "maven:org.springframework.cloud:spring-cloud-gateway"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Spring Cloud Gateway",
+      "vendorProject": "VMware",
+      "vulnerabilityName": "VMware Spring Cloud Gateway Code Injection Vulnerability"
+    },
+    "CVE-2022-22963": {
+      "dateAdded": "2022-08-25",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99938,
+      "example_packages": [
+        "maven:org.springframework.cloud:spring-cloud-function-context"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Spring Cloud",
+      "vendorProject": "VMware Tanzu",
+      "vulnerabilityName": "VMware Tanzu Spring Cloud Function Remote Code Execution Vulnerability"
+    },
+    "CVE-2022-22965": {
+      "dateAdded": "2022-04-04",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99638,
+      "example_packages": [
+        "maven:org.springframework.boot:spring-boot-starter-web",
+        "maven:org.springframework.boot:spring-boot-starter-webflux",
+        "maven:org.springframework:spring-beans",
+        "maven:org.springframework:spring-webflux",
+        "maven:org.springframework:spring-webmvc"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Spring Framework",
+      "vendorProject": "VMware",
+      "vulnerabilityName": "Spring Framework JDK 9+ Remote Code Execution Vulnerability"
+    },
+    "CVE-2022-24086": {
+      "dateAdded": "2022-02-15",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.99199,
+      "example_packages": [
+        "packagist:magento/community-edition"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Commerce and Magento Open Source",
+      "vendorProject": "Adobe",
+      "vulnerabilityName": "Adobe Commerce and Magento Open Source Improper Input Validation Vulnerability"
+    },
+    "CVE-2022-33891": {
+      "dateAdded": "2023-03-07",
+      "ecosystems": [
+        "maven",
+        "pypi",
+        "scala"
+      ],
+      "epss": 0.93244,
+      "example_packages": [
+        "maven:org.apache.spark:spark-parent_2.12",
+        "pypi:pyspark",
+        "scala:org.apache.spark:spark-parent_2.12"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Spark",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Spark Command Injection Vulnerability"
+    },
+    "CVE-2022-36537": {
+      "dateAdded": "2023-02-27",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.95397,
+      "example_packages": [
+        "maven:org.zkoss.zk:zk"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "AuUploader",
+      "vendorProject": "ZK Framework",
+      "vulnerabilityName": "ZK Framework AuUploader Unspecified Vulnerability"
+    },
+    "CVE-2022-4135": {
+      "dateAdded": "2022-11-28",
+      "ecosystems": [
+        "npm"
+      ],
+      "epss": 0.31864,
+      "example_packages": [
+        "npm:electron"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Chromium GPU",
+      "vendorProject": "Google",
+      "vulnerabilityName": "Google Chromium GPU Heap Buffer Overflow Vulnerability"
+    },
+    "CVE-2023-0669": {
+      "dateAdded": "2023-02-10",
+      "ecosystems": [
+        "rubygems"
+      ],
+      "epss": 0.99999,
+      "example_packages": [
+        "rubygems:metasploit-framework"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "GoAnywhere MFT",
+      "vendorProject": "Fortra",
+      "vulnerabilityName": "Fortra GoAnywhere MFT Remote Code Execution Vulnerability"
+    },
+    "CVE-2023-22894": {
+      "dateAdded": "2026-10-08",
+      "ecosystems": [
+        "npm"
+      ],
+      "epss": 0.03609,
+      "example_packages": [
+        "npm:@strapi/strapi"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Strapi",
+      "vendorProject": "Strapi",
+      "vulnerabilityName": "Strapi Cleartext Storage of Sensitive Information Vulnerability"
+    },
+    "CVE-2023-27524": {
+      "dateAdded": "2024-01-08",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.97405,
+      "example_packages": [
+        "pypi:apache-superset"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Superset",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Superset Insecure Default Initialization of Resource Vulnerability"
+    },
+    "CVE-2023-32315": {
+      "dateAdded": "2023-08-24",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99999,
+      "example_packages": [
+        "maven:org.igniterealtime.openfire:xmppserver"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Openfire",
+      "vendorProject": "Ignite Realtime",
+      "vulnerabilityName": "Ignite Realtime Openfire Path Traversal Vulnerability"
+    },
+    "CVE-2023-33246": {
+      "dateAdded": "2023-09-06",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.96568,
+      "example_packages": [
+        "maven:org.apache.rocketmq:rocketmq-broker",
+        "maven:org.apache.rocketmq:rocketmq-controller",
+        "maven:org.apache.rocketmq:rocketmq-namesrv"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "RocketMQ",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache RocketMQ Command Execution Vulnerability"
+    },
+    "CVE-2023-38180": {
+      "dateAdded": "2023-08-09",
+      "ecosystems": [
+        "nuget"
+      ],
+      "epss": 0.14016,
+      "example_packages": [
+        "nuget:Microsoft.AspNetCore.App.Runtime.win-arm64",
+        "nuget:Microsoft.AspNetCore.App.Runtime.win-x64",
+        "nuget:Microsoft.AspNetCore.App.Runtime.win-x86",
+        "nuget:Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv",
+        "nuget:Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": ".NET Core and Visual Studio",
+      "vendorProject": "Microsoft",
+      "vulnerabilityName": "Microsoft .NET Core and Visual Studio Denial-of-Service Vulnerability"
+    },
+    "CVE-2023-44487": {
+      "dateAdded": "2023-10-10",
+      "ecosystems": [
+        "go",
+        "maven",
+        "scala",
+        "swift"
+      ],
+      "epss": 0.99999,
+      "example_packages": [
+        "go:golang.org/x/net",
+        "maven:com.typesafe.akka:akka-http-core",
+        "maven:com.typesafe.akka:akka-http-core_2.11",
+        "maven:com.typesafe.akka:akka-http-core_2.12",
+        "maven:com.typesafe.akka:akka-http-core_2.13",
+        "maven:org.apache.tomcat.embed:tomcat-embed-core",
+        "maven:org.apache.tomcat:tomcat-coyote",
+        "maven:org.eclipse.jetty.http2:http2-common",
+        "maven:org.eclipse.jetty.http2:http2-server",
+        "maven:org.eclipse.jetty.http2:jetty-http2-common"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "HTTP/2",
+      "vendorProject": "IETF",
+      "vulnerabilityName": "HTTP/2 Rapid Reset Attack Vulnerability"
+    },
+    "CVE-2023-46604": {
+      "dateAdded": "2023-11-02",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99891,
+      "example_packages": [
+        "maven:org.apache.activemq:activemq-client",
+        "maven:org.apache.activemq:activemq-openwire-legacy"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "ActiveMQ",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache ActiveMQ Deserialization of Untrusted Data Vulnerability"
+    },
+    "CVE-2023-4863": {
+      "dateAdded": "2023-09-13",
+      "ecosystems": [
+        "go",
+        "npm",
+        "nuget",
+        "pypi"
+      ],
+      "epss": 0.99979,
+      "example_packages": [
+        "go:github.com/chai2010/webp",
+        "npm:electron",
+        "nuget:SkiaSharp",
+        "nuget:magick.net-q16-anycpu",
+        "nuget:magick.net-q16-hdri-anycpu",
+        "nuget:magick.net-q16-x64",
+        "nuget:magick.net-q8-anycpu",
+        "nuget:magick.net-q8-openmp-x64",
+        "nuget:magick.net-q8-x64",
+        "pypi:pillow"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Chromium WebP",
+      "vendorProject": "Google",
+      "vulnerabilityName": "Google Chromium WebP Heap-Based Buffer Overflow Vulnerability"
+    },
+    "CVE-2023-5217": {
+      "dateAdded": "2023-10-02",
+      "ecosystems": [
+        "npm"
+      ],
+      "epss": 0.49013,
+      "example_packages": [
+        "npm:electron"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Chromium libvpx",
+      "vendorProject": "Google",
+      "vulnerabilityName": "Google Chromium libvpx Heap Buffer Overflow Vulnerability"
+    },
+    "CVE-2024-23897": {
+      "dateAdded": "2024-08-19",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99999,
+      "example_packages": [
+        "maven:org.jenkins-ci.main:jenkins-core"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "Jenkins Command Line Interface (CLI)",
+      "vendorProject": "Jenkins",
+      "vulnerabilityName": "Jenkins Command Line Interface (CLI) Path Traversal Vulnerability"
+    },
+    "CVE-2024-27348": {
+      "dateAdded": "2024-09-18",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.9921,
+      "example_packages": [
+        "maven:org.apache.hugegraph:hugegraph-api",
+        "maven:org.apache.hugegraph:hugegraph-core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "HugeGraph-Server",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache HugeGraph-Server Improper Access Control Vulnerability"
+    },
+    "CVE-2024-34102": {
+      "dateAdded": "2024-07-17",
+      "ecosystems": [
+        "packagist",
+        "php-cms"
+      ],
+      "epss": 0.99994,
+      "example_packages": [
+        "packagist:magento/community-edition",
+        "php-cms:magento/product-community-edition"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Commerce and Magento Open Source",
+      "vendorProject": "Adobe",
+      "vulnerabilityName": "Adobe Commerce and Magento Open Source Improper Restriction of XML External Entity Reference (XXE) Vulnerability"
+    },
+    "CVE-2024-36401": {
+      "dateAdded": "2024-07-15",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99813,
+      "example_packages": [
+        "maven:org.geoserver.web:gs-web-app",
+        "maven:org.geoserver:gs-wfs"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "GeoServer",
+      "vendorProject": "OSGeo",
+      "vulnerabilityName": "OSGeo GeoServer GeoTools Eval Injection Vulnerability"
+    },
+    "CVE-2024-56145": {
+      "dateAdded": "2025-06-02",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.97405,
+      "example_packages": [
+        "packagist:craftcms/cms"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Craft CMS",
+      "vendorProject": "Craft CMS",
+      "vulnerabilityName": "Craft CMS Code Injection Vulnerability"
+    },
+    "CVE-2024-58136": {
+      "dateAdded": "2025-05-02",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.87757,
+      "example_packages": [
+        "packagist:yiisoft/yii2"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Yii",
+      "vendorProject": "Yiiframework",
+      "vulnerabilityName": "Yiiframework Yii Improper Protection of Alternate Path Vulnerability"
+    },
+    "CVE-2025-11953": {
+      "dateAdded": "2026-02-05",
+      "ecosystems": [
+        "npm"
+      ],
+      "epss": 0.9398,
+      "example_packages": [
+        "npm:@react-native-community/cli",
+        "npm:@react-native-community/cli-server-api"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "CLI",
+      "vendorProject": "React Native Community",
+      "vulnerabilityName": "React Native Community CLI OS Command Injection Vulnerability"
+    },
+    "CVE-2025-23209": {
+      "dateAdded": "2025-02-20",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.21776,
+      "example_packages": [
+        "packagist:craftcms/cms"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Craft CMS",
+      "vendorProject": "Craft CMS",
+      "vulnerabilityName": "Craft CMS Code Injection Vulnerability"
+    },
+    "CVE-2025-24016": {
+      "dateAdded": "2025-06-10",
+      "ecosystems": [
+        "go"
+      ],
+      "epss": 0.9384,
+      "example_packages": [
+        "go:github.com/wazuh/wazuh"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Wazuh Server",
+      "vendorProject": "Wazuh",
+      "vulnerabilityName": "Wazuh Server Deserialization of Untrusted Data Vulnerability"
+    },
+    "CVE-2025-24813": {
+      "dateAdded": "2025-04-01",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.99927,
+      "example_packages": [
+        "maven:org.apache.tomcat.embed:tomcat-embed-core",
+        "maven:org.apache.tomcat:tomcat-catalina"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Tomcat",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Tomcat Path Equivalence Vulnerability"
+    },
+    "CVE-2025-31125": {
+      "dateAdded": "2026-01-22",
+      "ecosystems": [
+        "npm"
+      ],
+      "epss": 0.65189,
+      "example_packages": [
+        "npm:vite"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Vitejs",
+      "vendorProject": "Vite",
+      "vulnerabilityName": "Vite Vitejs Improper Access Control Vulnerability"
+    },
+    "CVE-2025-32432": {
+      "dateAdded": "2026-03-20",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.99792,
+      "example_packages": [
+        "packagist:craftcms/cms"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Craft CMS",
+      "vendorProject": "Craft CMS",
+      "vulnerabilityName": "Craft CMS Code Injection Vulnerability"
+    },
+    "CVE-2025-3248": {
+      "dateAdded": "2025-05-05",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.99993,
+      "example_packages": [
+        "pypi:langflow",
+        "pypi:langflow-base"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "Langflow",
+      "vendorProject": "Langflow",
+      "vulnerabilityName": "Langflow Missing Authentication Vulnerability"
+    },
+    "CVE-2025-34291": {
+      "dateAdded": "2026-05-21",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.92808,
+      "example_packages": [
+        "pypi:langflow"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Langflow",
+      "vendorProject": "Langflow",
+      "vulnerabilityName": "Langflow Origin Validation Error Vulnerability"
+    },
+    "CVE-2025-35939": {
+      "dateAdded": "2025-06-02",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.01349,
+      "example_packages": [
+        "packagist:craftcms/cms"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Craft CMS",
+      "vendorProject": "Craft CMS",
+      "vulnerabilityName": "Craft CMS External Control of Assumed-Immutable Web Parameter Vulnerability"
+    },
+    "CVE-2025-49113": {
+      "dateAdded": "2026-02-20",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.98972,
+      "example_packages": [
+        "packagist:roundcube/roundcubemail"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Webmail",
+      "vendorProject": "Roundcube",
+      "vulnerabilityName": "RoundCube Webmail Deserialization of Untrusted Data Vulnerability"
+    },
+    "CVE-2025-54068": {
+      "dateAdded": "2026-03-20",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.97321,
+      "example_packages": [
+        "packagist:livewire/livewire"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Livewire",
+      "vendorProject": "Laravel",
+      "vulnerabilityName": "Laravel Livewire Code Injection Vulnerability"
+    },
+    "CVE-2025-54236": {
+      "dateAdded": "2025-10-24",
+      "ecosystems": [
+        "packagist"
+      ],
+      "epss": 0.94532,
+      "example_packages": [
+        "packagist:magento/community-edition",
+        "packagist:magento/project-community-edition"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Commerce and\u202fMagento",
+      "vendorProject": "Adobe",
+      "vulnerabilityName": "Adobe Commerce and\u202fMagento Improper Input Validation Vulnerability"
+    },
+    "CVE-2025-55182": {
+      "dateAdded": "2025-12-05",
+      "ecosystems": [
+        "npm"
+      ],
+      "epss": 0.99802,
+      "example_packages": [
+        "npm:react-server-dom-parcel",
+        "npm:react-server-dom-turbopack",
+        "npm:react-server-dom-webpack"
+      ],
+      "knownRansomwareCampaignUse": "Known",
+      "product": "React Server Components",
+      "vendorProject": "Meta",
+      "vulnerabilityName": "Meta React Server Components Remote Code Execution Vulnerability"
+    },
+    "CVE-2025-58360": {
+      "dateAdded": "2025-12-11",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.60522,
+      "example_packages": [
+        "maven:org.geoserver.web:gs-web-app"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "GeoServer",
+      "vendorProject": "OSGeo",
+      "vulnerabilityName": "OSGeo GeoServer Improper Restriction of XML External Entity Reference Vulnerability"
+    },
+    "CVE-2025-62593": {
+      "dateAdded": "2026-08-17",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.62459,
+      "example_packages": [
+        "pypi:ray"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Ray",
+      "vendorProject": "Ray-Project",
+      "vulnerabilityName": "Ray-Project Ray Code Injection Vulnerability"
+    },
+    "CVE-2025-68613": {
+      "dateAdded": "2026-03-11",
+      "ecosystems": [
+        "npm"
+      ],
+      "epss": 0.98994,
+      "example_packages": [
+        "npm:n8n"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "n8n",
+      "vendorProject": "n8n",
+      "vulnerabilityName": "n8n Improper Control of Dynamically-Managed Code Resources Vulnerability"
+    },
+    "CVE-2025-8110": {
+      "dateAdded": "2026-01-12",
+      "ecosystems": [
+        "go"
+      ],
+      "epss": 0.85202,
+      "example_packages": [
+        "go:gogs.io/gogs"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Gogs",
+      "vendorProject": "Gogs",
+      "vulnerabilityName": "Gogs Path Traversal Vulnerability"
+    },
+    "CVE-2026-0770": {
+      "dateAdded": "2026-07-21",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.63013,
+      "example_packages": [
+        "pypi:langflow"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Langflow",
+      "vendorProject": "Langflow",
+      "vulnerabilityName": "Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability"
+    },
+    "CVE-2026-33017": {
+      "dateAdded": "2026-03-25",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.24755,
+      "example_packages": [
+        "pypi:langflow"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Langflow",
+      "vendorProject": "Langflow",
+      "vulnerabilityName": "Langflow Code Injection Vulnerability"
+    },
+    "CVE-2026-34197": {
+      "dateAdded": "2026-04-16",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.15492,
+      "example_packages": [
+        "maven:org.apache.activemq:activemq-all",
+        "maven:org.apache.activemq:activemq-broker"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "ActiveMQ",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache ActiveMQ Improper Input Validation Vulnerability"
+    },
+    "CVE-2026-34486": {
+      "dateAdded": "2026-08-04",
+      "ecosystems": [
+        "maven"
+      ],
+      "epss": 0.06561,
+      "example_packages": [
+        "maven:org.apache.tomcat:tomcat",
+        "maven:org.apache.tomcat:tomcat-tribes"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Tomcat",
+      "vendorProject": "Apache",
+      "vulnerabilityName": "Apache Tomcat Missing Encryption of Sensitive Data Vulnerability"
+    },
+    "CVE-2026-39987": {
+      "dateAdded": "2026-04-23",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.37865,
+      "example_packages": [
+        "pypi:marimo"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Marimo",
+      "vendorProject": "Marimo",
+      "vulnerabilityName": "Marimo Remote Code Execution Vulnerability"
+    },
+    "CVE-2026-42208": {
+      "dateAdded": "2026-05-08",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.05772,
+      "example_packages": [
+        "pypi:litellm"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "LiteLLM",
+      "vendorProject": "BerriAI",
+      "vulnerabilityName": "BerriAI LiteLLM SQL Injection Vulnerability"
+    },
+    "CVE-2026-42271": {
+      "dateAdded": "2026-06-08",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.9257,
+      "example_packages": [
+        "pypi:litellm"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "LiteLLM",
+      "vendorProject": "BerriAI",
+      "vulnerabilityName": "BerriAI LiteLLM Command Injection Vulnerability"
+    },
+    "CVE-2026-48710": {
+      "dateAdded": "2026-09-02",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.07056,
+      "example_packages": [
+        "pypi:starlette"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Starlette",
+      "vendorProject": "Kludex",
+      "vulnerabilityName": "Kludex Starlette HTTP Request/Response Smuggling Vulnerability"
+    },
+    "CVE-2026-55255": {
+      "dateAdded": "2026-07-07",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.00887,
+      "example_packages": [
+        "pypi:langflow"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Langflow",
+      "vendorProject": "Langflow",
+      "vulnerabilityName": "Langflow Authorization Bypass Through User-Controlled Key Vulnerability"
+    },
+    "CVE-2026-59822": {
+      "dateAdded": "2026-09-02",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.00836,
+      "example_packages": [
+        "pypi:litellm"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "LiteLLM",
+      "vendorProject": "BerriAI",
+      "vulnerabilityName": "BerriAI LiteLLM Improper Authentication Vulnerability"
+    },
+    "CVE-2026-60004": {
+      "dateAdded": "2026-08-25",
+      "ecosystems": [
+        "go"
+      ],
+      "epss": 0.23988,
+      "example_packages": [
+        "go:gitea.dev"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Gitea",
+      "vendorProject": "Gitea",
+      "vulnerabilityName": "Gitea Code Injection Vulnerability"
+    },
+    "CVE-2026-64849": {
+      "dateAdded": "2026-08-19",
+      "ecosystems": [
+        "pypi"
+      ],
+      "epss": 0.09839,
+      "example_packages": [
+        "pypi:mlflow"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "MLflow",
+      "vendorProject": "MLflow",
+      "vulnerabilityName": "MLflow Server-Side Request Forgery Vulnerability"
+    },
+    "CVE-2026-9082": {
+      "dateAdded": "2026-05-22",
+      "ecosystems": [
+        "drupal-sa",
+        "packagist"
+      ],
+      "epss": 0.15701,
+      "example_packages": [
+        "drupal-sa:004",
+        "packagist:drupal/core"
+      ],
+      "knownRansomwareCampaignUse": "Unknown",
+      "product": "Core",
+      "vendorProject": "Drupal",
+      "vulnerabilityName": "Drupal Core SQL Injection Vulnerability"
+    }
+  },
+  "our_cves_in_kev": 125,
+  "source": "CISA Known Exploited Vulnerabilities catalog"
+}

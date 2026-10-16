@@ -109,6 +109,27 @@ thousands, so they're datasets rather than installable manifests:
 Everything in these two sections is a vulnerability *dataset* for research, keyed by
 version range rather than a single pin, and not counted in the installable-package total.
 
+## Enrichment & scanning
+
+Cross-references of yolo's CVEs against real-world exploitation signals (`ecosystems/enrichment/`):
+
+- **CISA KEV** (`kev.json`) — of our **29,613 distinct CVEs**, **125 are in CISA's
+  Known Exploited Vulnerabilities catalog** (actively exploited in the wild), **15 of
+  them ransomware-linked**. Includes Log4Shell (`CVE-2021-44228`), HTTP/2 Rapid Reset
+  (`CVE-2023-44487`), the Jenkins file-read RCE (`CVE-2024-23897`), and more.
+- **EPSS** (`epss.csv`) — FIRST exploit-probability score + percentile for every CVE
+  (29,256 scored), sorted descending, with an `in_kev` flag. **520 score ≥ 0.5.**
+- **`summary.json`** — the headline counts and the top 25 CVEs by EPSS.
+
+**SBOM** — `sbom.cdx.json` at the repo root is a CycloneDX 1.5 SBOM of all **11,589**
+installable components (one `purl` per ecosystem), ingestible by Trivy, Grype and
+OWASP Dependency-Track.
+
+**CI** — `.github/workflows/osv-scan.yml` runs OSV-Scanner across every manifest on
+push/PR and uploads SARIF to the GitHub Security tab. It is read-only — it parses
+manifests and never installs the packages. (The separate `vuln-actions.yml` is a
+`workflow_dispatch`-only fixture and does not run automatically.)
+
 ### Lockfiles
 
 Lockfiles are included so ecosystem-native scanners (`npm audit`, `bundler-audit`,
