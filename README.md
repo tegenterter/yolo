@@ -13,16 +13,17 @@ Snyk, Dependabot, Trivy, etc.
 
 - Generated from the **OSV npm advisory database** (`osv-vulnerabilities.storage.googleapis.com/npm/all.zip`).
 - Selection rule: non-malware advisories only, each with a `CVE-*` alias **or** a CWE
-  class; pinned to a concrete, enumerated vulnerable version; then verified to still be
-  **published on the npm registry**.
+  class. Each package is pinned to a real, **still-published** version that is known
+  vulnerable — either enumerated directly in the advisory, or the highest registry
+  version falling inside a vulnerable range (`introduced → fixed`).
 - `advisories.json` maps every pinned package → its version and the advisory/CVE IDs
   behind it.
 
 ## Contents
 
-- **1,436** known-vulnerable npm packages, each pinned to an exact vulnerable version
-- **2,648** distinct CVEs
-- **5,536** distinct advisories (CVE + GHSA/OSV)
+- **2,888** known-vulnerable npm packages, each pinned to an exact vulnerable version
+- **4,485** distinct CVEs
+- **7,653** distinct advisories (CVE + GHSA/OSV)
 
 See `advisories.json` for the full package → version → advisory-ID mapping.
 
