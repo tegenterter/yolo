@@ -44,6 +44,19 @@ advisory, or the highest registry version inside a vulnerable range. PyPI, RubyG
 crates.io, Go, NuGet, Packagist, Pub and Hex pins are verified against their live
 registry / module proxy; Maven pins use advisory-enumerated versions.
 
+### Language notes (.NET, Scala, PHP)
+
+Some languages map onto an ecosystem above rather than getting their own OSV feed:
+
+- **.NET → NuGet.** Besides `packages.config`/`packages.lock.json`, there's a modern
+  SDK-style `ecosystems/nuget/yolo.csproj` (`<PackageReference>`), which `osv-scanner`
+  parses directly.
+- **PHP → Packagist** (`ecosystems/packagist/`, Composer).
+- **Scala → Maven.** Scala libs publish to Maven Central, so they're inside the Maven
+  set. `ecosystems/scala/build.sbt` is an idiomatic sbt view of the 105 Scala-suffixed
+  artifacts (`_2.12`, `_2.13`, `_3`, …). It's a convenience view — these are already
+  counted in Maven and scanned via `pom.xml` (osv-scanner doesn't parse `build.sbt`).
+
 ### Lockfiles
 
 Lockfiles are included so ecosystem-native scanners (`npm audit`, `bundler-audit`,

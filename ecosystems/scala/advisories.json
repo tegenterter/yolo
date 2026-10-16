@@ -1,0 +1,750 @@
+{
+  "distinct_advisory_count": 78,
+  "distinct_cve_count": 77,
+  "ecosystem": "Maven (Scala subset)",
+  "note": "Scala-suffixed artifacts from the Maven set; scanned via ecosystems/maven/pom.xml.",
+  "package_count": 105,
+  "packages": {
+    "co.fs2:fs2-io_2.11": {
+      "ids": [
+        "CVE-2025-58369"
+      ],
+      "version": "2.1.0"
+    },
+    "co.fs2:fs2-io_2.12": {
+      "ids": [
+        "CVE-2022-31183",
+        "CVE-2025-58369"
+      ],
+      "version": "3.13.0-M1"
+    },
+    "co.fs2:fs2-io_2.13": {
+      "ids": [
+        "CVE-2022-31183",
+        "CVE-2025-58369"
+      ],
+      "version": "3.13.0-M1"
+    },
+    "co.fs2:fs2-io_3": {
+      "ids": [
+        "CVE-2022-31183",
+        "CVE-2025-58369"
+      ],
+      "version": "3.13.0-M1"
+    },
+    "co.fs2:fs2-io_sjs1_2.13": {
+      "ids": [
+        "CVE-2022-31183"
+      ],
+      "version": "3.2-148-d9af944"
+    },
+    "co.fs2:fs2-io_sjs1_3": {
+      "ids": [
+        "CVE-2022-31183"
+      ],
+      "version": "3.2-148-d9af944"
+    },
+    "com.jason-goodwin:authentikat-jwt_2.12": {
+      "ids": [
+        "CVE-2017-18239"
+      ],
+      "version": "0.4.5"
+    },
+    "com.lightbend.akka.management:akka-management_2.12": {
+      "ids": [
+        "CVE-2025-46548"
+      ],
+      "version": "1.4.1"
+    },
+    "com.lightbend.akka.management:akka-management_2.13": {
+      "ids": [
+        "CVE-2025-46548"
+      ],
+      "version": "1.5.0-M1"
+    },
+    "com.lightbend.akka.management:akka-management_3": {
+      "ids": [
+        "CVE-2025-46548"
+      ],
+      "version": "1.5.0-M1"
+    },
+    "com.softwaremill.akka-http-session:core_2.11": {
+      "ids": [
+        "CVE-2020-7780"
+      ],
+      "version": "0.5.10"
+    },
+    "com.softwaremill.akka-http-session:core_2.12": {
+      "ids": [
+        "CVE-2020-28452",
+        "CVE-2020-7780"
+      ],
+      "version": "0.6.0"
+    },
+    "com.softwaremill.akka-http-session:core_2.13": {
+      "ids": [
+        "CVE-2020-7780"
+      ],
+      "version": "0.5.10"
+    },
+    "com.twitter:twitter-server_2.12": {
+      "ids": [
+        "CVE-2020-35774"
+      ],
+      "version": "20.10.0"
+    },
+    "com.typesafe.akka:akka-actor_2.11": {
+      "ids": [
+        "CVE-2018-16115"
+      ],
+      "version": "2.5.15"
+    },
+    "com.typesafe.akka:akka-actor_2.12": {
+      "ids": [
+        "CVE-2018-16115"
+      ],
+      "version": "2.5.15"
+    },
+    "com.typesafe.akka:akka-cluster-metrics_2.13": {
+      "ids": [
+        "CVE-2025-53393"
+      ],
+      "version": "2.9.0-M1"
+    },
+    "com.typesafe.akka:akka-cluster-metrics_3": {
+      "ids": [
+        "CVE-2025-53393"
+      ],
+      "version": "2.9.0-M1"
+    },
+    "com.typesafe.akka:akka-http-core_2.11": {
+      "ids": [
+        "CVE-2017-1000118",
+        "CVE-2018-16131",
+        "CVE-2021-42697",
+        "CVE-2023-44487"
+      ],
+      "version": "10.1.15"
+    },
+    "com.typesafe.akka:akka-http-core_2.12": {
+      "ids": [
+        "CVE-2017-1000118",
+        "CVE-2018-16131",
+        "CVE-2021-42697",
+        "CVE-2023-44487"
+      ],
+      "version": "10.5.2"
+    },
+    "com.typesafe.akka:akka-http-core_2.13": {
+      "ids": [
+        "CVE-2021-42697",
+        "CVE-2023-44487"
+      ],
+      "version": "10.5.2"
+    },
+    "com.typesafe.akka:akka-stream-kafka_2.11": {
+      "ids": [
+        "CVE-2023-29471"
+      ],
+      "version": "2.0.7"
+    },
+    "com.typesafe.akka:akka-stream-kafka_2.12": {
+      "ids": [
+        "CVE-2023-29471"
+      ],
+      "version": "4.0.1"
+    },
+    "com.typesafe.akka:akka-stream-kafka_2.13": {
+      "ids": [
+        "CVE-2023-29471"
+      ],
+      "version": "4.0.1"
+    },
+    "com.typesafe.akka:akka-stream-kafka_3": {
+      "ids": [
+        "CVE-2023-29471"
+      ],
+      "version": "4.0.1"
+    },
+    "com.typesafe.play:play-ws_2.12": {
+      "ids": [
+        "CVE-2019-17598"
+      ],
+      "version": "2.6.23"
+    },
+    "com.typesafe.play:play_2.12": {
+      "ids": [
+        "CVE-2018-13864",
+        "CVE-2020-12480",
+        "CVE-2022-31018",
+        "CVE-2022-31023"
+      ],
+      "version": "2.8.15"
+    },
+    "com.typesafe.play:play_2.13": {
+      "ids": [
+        "CVE-2022-31018",
+        "CVE-2022-31023"
+      ],
+      "version": "2.8.15"
+    },
+    "edu.gemini:gsp-graphql-core_2.13": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.14.0"
+    },
+    "edu.gemini:gsp-graphql-core_3": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.14.0"
+    },
+    "edu.gemini:gsp-graphql-core_native0.4_2.13": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.14.0"
+    },
+    "edu.gemini:gsp-graphql-core_native0.4_3": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.14.0"
+    },
+    "edu.gemini:gsp-graphql-core_sjs1_2.13": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.14.0"
+    },
+    "edu.gemini:gsp-graphql-core_sjs1_3": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.14.0"
+    },
+    "io.spray:spray-json_2.10": {
+      "ids": [
+        "CVE-2018-18853",
+        "CVE-2018-18854",
+        "CVE-2018-18855"
+      ],
+      "version": "1.3.4"
+    },
+    "io.spray:spray-json_2.11": {
+      "ids": [
+        "CVE-2018-18853",
+        "CVE-2018-18854",
+        "CVE-2018-18855"
+      ],
+      "version": "1.3.4"
+    },
+    "io.spray:spray-json_2.12": {
+      "ids": [
+        "CVE-2018-18853",
+        "CVE-2018-18854",
+        "CVE-2018-18855"
+      ],
+      "version": "1.3.4"
+    },
+    "ml.combust.mleap:mleap-runtime_2.12": {
+      "ids": [
+        "CVE-2023-5245"
+      ],
+      "version": "0.23.0"
+    },
+    "org.apache.flink:flink-runtime_2.11": {
+      "ids": [
+        "CVE-2020-17519"
+      ],
+      "version": "1.11.2"
+    },
+    "org.apache.flink:flink-runtime_2.12": {
+      "ids": [
+        "CVE-2020-17519"
+      ],
+      "version": "1.11.2"
+    },
+    "org.apache.flink:flink-table-planner_2.12": {
+      "ids": [
+        "CVE-2026-35194"
+      ],
+      "version": "2.2.0"
+    },
+    "org.apache.kafka:kafka_2.10": {
+      "ids": [
+        "CVE-2024-56128",
+        "CVE-2025-27819"
+      ],
+      "version": "0.10.2.0"
+    },
+    "org.apache.kafka:kafka_2.11": {
+      "ids": [
+        "CVE-2021-38153",
+        "CVE-2024-56128",
+        "CVE-2025-27818",
+        "CVE-2025-27819"
+      ],
+      "version": "2.4.1"
+    },
+    "org.apache.kafka:kafka_2.12": {
+      "ids": [
+        "CVE-2021-38153",
+        "CVE-2024-56128",
+        "CVE-2025-27818",
+        "CVE-2025-27819"
+      ],
+      "version": "3.9.0"
+    },
+    "org.apache.kafka:kafka_2.13": {
+      "ids": [
+        "CVE-2021-38153",
+        "CVE-2024-56128",
+        "CVE-2025-27818",
+        "CVE-2025-27819"
+      ],
+      "version": "3.9.0"
+    },
+    "org.apache.kyuubi:kyuubi-server_2.12": {
+      "ids": [
+        "CVE-2025-66518"
+      ],
+      "version": "1.10.2"
+    },
+    "org.apache.pekko:pekko-management_2.12": {
+      "ids": [
+        "CVE-2025-46548"
+      ],
+      "version": "1.1.0"
+    },
+    "org.apache.pekko:pekko-management_2.13": {
+      "ids": [
+        "CVE-2025-46548"
+      ],
+      "version": "1.1.0"
+    },
+    "org.apache.pekko:pekko-management_3": {
+      "ids": [
+        "CVE-2025-46548"
+      ],
+      "version": "1.1.0"
+    },
+    "org.apache.spark:spark-core_2.10": {
+      "ids": [
+        "CVE-2017-12612",
+        "CVE-2017-7678",
+        "CVE-2018-11770",
+        "CVE-2018-11804",
+        "CVE-2018-1334",
+        "CVE-2018-17190",
+        "CVE-2018-8024",
+        "CVE-2022-31777",
+        "CVE-2025-54920"
+      ],
+      "version": "2.2.3"
+    },
+    "org.apache.spark:spark-core_2.11": {
+      "ids": [
+        "CVE-2017-12612",
+        "CVE-2017-7678",
+        "CVE-2018-11770",
+        "CVE-2018-11804",
+        "CVE-2018-1334",
+        "CVE-2018-17190",
+        "CVE-2018-8024",
+        "CVE-2019-10099",
+        "CVE-2022-31777",
+        "CVE-2025-54920"
+      ],
+      "version": "2.4.8"
+    },
+    "org.apache.spark:spark-core_2.12": {
+      "ids": [
+        "CVE-2022-31777",
+        "CVE-2023-22946",
+        "CVE-2025-54920",
+        "CVE-2026-32773"
+      ],
+      "version": "3.5.7"
+    },
+    "org.apache.spark:spark-core_2.13": {
+      "ids": [
+        "CVE-2022-31777",
+        "CVE-2023-22946",
+        "CVE-2025-54920",
+        "CVE-2026-32773"
+      ],
+      "version": "4.0.0"
+    },
+    "org.apache.spark:spark-hive-thriftserver_2.11": {
+      "ids": [
+        "CVE-2024-23945"
+      ],
+      "version": "2.4.8"
+    },
+    "org.apache.spark:spark-hive-thriftserver_2.12": {
+      "ids": [
+        "CVE-2024-23945"
+      ],
+      "version": "3.4.1"
+    },
+    "org.apache.spark:spark-network-common_2.12": {
+      "ids": [
+        "CVE-2025-55039"
+      ],
+      "version": "3.5.1"
+    },
+    "org.apache.spark:spark-network-common_2.13": {
+      "ids": [
+        "CVE-2025-55039"
+      ],
+      "version": "3.5.1"
+    },
+    "org.apache.spark:spark-parent_2.11": {
+      "ids": [
+        "CVE-2020-9480"
+      ],
+      "version": "2.4.5"
+    },
+    "org.apache.spark:spark-parent_2.12": {
+      "ids": [
+        "CVE-2022-33891",
+        "CVE-2023-32007"
+      ],
+      "version": "3.2.1"
+    },
+    "org.http4s:blaze-core_2.11": {
+      "ids": [
+        "CVE-2021-21293"
+      ],
+      "version": "0.14.14"
+    },
+    "org.http4s:blaze-core_2.12": {
+      "ids": [
+        "CVE-2021-21293"
+      ],
+      "version": "0.14.14"
+    },
+    "org.http4s:blaze-core_2.13": {
+      "ids": [
+        "CVE-2021-21293"
+      ],
+      "version": "0.14.14"
+    },
+    "org.http4s:blaze-http_2.12": {
+      "ids": [
+        "CVE-2026-73495"
+      ],
+      "version": "0.23.17"
+    },
+    "org.http4s:blaze-http_2.13": {
+      "ids": [
+        "CVE-2026-73494",
+        "CVE-2026-73495"
+      ],
+      "version": "1.0.0-M33"
+    },
+    "org.http4s:blaze-http_3": {
+      "ids": [
+        "CVE-2026-73494",
+        "CVE-2026-73495"
+      ],
+      "version": "1.0.0-M33"
+    },
+    "org.http4s:http4s-async-http-client_2.12": {
+      "ids": [
+        "GHSA-8hxh-r6f7-jf45"
+      ],
+      "version": "0.21.7"
+    },
+    "org.http4s:http4s-async-http-client_2.13": {
+      "ids": [
+        "GHSA-8hxh-r6f7-jf45"
+      ],
+      "version": "0.21.7"
+    },
+    "org.http4s:http4s-blaze-server_2.12": {
+      "ids": [
+        "CVE-2021-21294",
+        "CVE-2026-73493"
+      ],
+      "version": "0.23.17"
+    },
+    "org.http4s:http4s-blaze-server_2.13": {
+      "ids": [
+        "CVE-2021-21294",
+        "CVE-2026-73493",
+        "CVE-2026-73494"
+      ],
+      "version": "1.0.0-M10"
+    },
+    "org.http4s:http4s-blaze-server_3": {
+      "ids": [
+        "CVE-2026-73493"
+      ],
+      "version": "1.0.0-M22"
+    },
+    "org.http4s:http4s-client_2.12": {
+      "ids": [
+        "CVE-2021-41084",
+        "CVE-2026-69214",
+        "CVE-2026-69215"
+      ],
+      "version": "0.23.34"
+    },
+    "org.http4s:http4s-client_2.13": {
+      "ids": [
+        "CVE-2021-41084",
+        "CVE-2026-69214",
+        "CVE-2026-69215"
+      ],
+      "version": "1.0.0-M10"
+    },
+    "org.http4s:http4s-client_3": {
+      "ids": [
+        "CVE-2021-41084",
+        "CVE-2026-69214",
+        "CVE-2026-69215"
+      ],
+      "version": "1.0.0-M22"
+    },
+    "org.http4s:http4s-core_2.10": {
+      "ids": [
+        "CVE-2023-22465"
+      ],
+      "version": "0.9.3"
+    },
+    "org.http4s:http4s-core_2.11": {
+      "ids": [
+        "CVE-2023-22465"
+      ],
+      "version": "0.21.0-M1"
+    },
+    "org.http4s:http4s-core_2.12": {
+      "ids": [
+        "CVE-2023-22465"
+      ],
+      "version": "0.23.16"
+    },
+    "org.http4s:http4s-core_2.13": {
+      "ids": [
+        "CVE-2023-22465"
+      ],
+      "version": "1.0.0-M10"
+    },
+    "org.http4s:http4s-ember-core_2.12": {
+      "ids": [
+        "CVE-2025-59822",
+        "CVE-2026-54556",
+        "CVE-2026-69202",
+        "CVE-2026-69203",
+        "CVE-2026-69204",
+        "CVE-2026-69205",
+        "CVE-2026-69206",
+        "CVE-2026-69213",
+        "CVE-2026-69216",
+        "CVE-2026-69218",
+        "CVE-2026-88975"
+      ],
+      "version": "0.23.36"
+    },
+    "org.http4s:http4s-ember-core_2.13": {
+      "ids": [
+        "CVE-2025-59822",
+        "CVE-2026-54556",
+        "CVE-2026-69202",
+        "CVE-2026-69203",
+        "CVE-2026-69204",
+        "CVE-2026-69205",
+        "CVE-2026-69206",
+        "CVE-2026-69213",
+        "CVE-2026-69216",
+        "CVE-2026-69218",
+        "CVE-2026-88975"
+      ],
+      "version": "1.0.0-M10"
+    },
+    "org.http4s:http4s-ember-core_3": {
+      "ids": [
+        "CVE-2025-59822",
+        "CVE-2026-54556",
+        "CVE-2026-69202",
+        "CVE-2026-69203",
+        "CVE-2026-69204",
+        "CVE-2026-69205",
+        "CVE-2026-69206",
+        "CVE-2026-69213",
+        "CVE-2026-69216",
+        "CVE-2026-69218",
+        "CVE-2026-88975"
+      ],
+      "version": "1.0.0-M22"
+    },
+    "org.http4s:http4s-ember-server_2.12": {
+      "ids": [
+        "CVE-2026-69208"
+      ],
+      "version": "0.23.34"
+    },
+    "org.http4s:http4s-ember-server_2.13": {
+      "ids": [
+        "CVE-2026-69208"
+      ],
+      "version": "1.0.0-M10"
+    },
+    "org.http4s:http4s-ember-server_3": {
+      "ids": [
+        "CVE-2026-69208"
+      ],
+      "version": "1.0.0-M22"
+    },
+    "org.http4s:http4s-scala-xml_2.12": {
+      "ids": [
+        "CVE-2026-61741"
+      ],
+      "version": "0.24.0"
+    },
+    "org.http4s:http4s-scala-xml_2.13": {
+      "ids": [
+        "CVE-2026-61741"
+      ],
+      "version": "1.0.0-M10"
+    },
+    "org.http4s:http4s-scala-xml_3": {
+      "ids": [
+        "CVE-2026-61741"
+      ],
+      "version": "1.0.0-M22"
+    },
+    "org.http4s:http4s-server_2.10": {
+      "ids": [
+        "CVE-2021-39185",
+        "CVE-2021-41084"
+      ],
+      "version": "0.16.6"
+    },
+    "org.http4s:http4s-server_2.11": {
+      "ids": [
+        "CVE-2021-39185",
+        "CVE-2021-41084"
+      ],
+      "version": "0.21.0-M1"
+    },
+    "org.http4s:http4s-server_2.12": {
+      "ids": [
+        "CVE-2020-5280",
+        "CVE-2021-39185",
+        "CVE-2021-41084",
+        "CVE-2026-69201"
+      ],
+      "version": "0.23.34"
+    },
+    "org.http4s:http4s-server_2.13": {
+      "ids": [
+        "CVE-2021-39185",
+        "CVE-2021-41084",
+        "CVE-2026-69201"
+      ],
+      "version": "1.0.0-M10"
+    },
+    "org.http4s:http4s-server_3": {
+      "ids": [
+        "CVE-2021-39185",
+        "CVE-2021-41084",
+        "CVE-2026-69201"
+      ],
+      "version": "1.0.0-M22"
+    },
+    "org.scala-sbt:io_2.12": {
+      "ids": [
+        "CVE-2023-46122"
+      ],
+      "version": "1.9.1"
+    },
+    "org.scala-sbt:io_2.13": {
+      "ids": [
+        "CVE-2023-46122"
+      ],
+      "version": "1.9.1"
+    },
+    "org.scala-sbt:io_3": {
+      "ids": [
+        "CVE-2023-46122"
+      ],
+      "version": "1.9.1"
+    },
+    "org.typelevel:grackle-core_2.13": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.17.2"
+    },
+    "org.typelevel:grackle-core_3": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.17.2"
+    },
+    "org.typelevel:grackle-core_native0.4_2.13": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.17.2"
+    },
+    "org.typelevel:grackle-core_native0.4_3": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.17.2"
+    },
+    "org.typelevel:grackle-core_sjs1_2.13": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.17.2"
+    },
+    "org.typelevel:grackle-core_sjs1_3": {
+      "ids": [
+        "CVE-2023-50730"
+      ],
+      "version": "0.17.2"
+    },
+    "org.typelevel:jawn-parser_2.10": {
+      "ids": [
+        "CVE-2022-21653"
+      ],
+      "version": "0.14.1"
+    },
+    "org.typelevel:jawn-parser_2.11": {
+      "ids": [
+        "CVE-2022-21653"
+      ],
+      "version": "1.0.0-RC1"
+    },
+    "org.typelevel:jawn-parser_2.12": {
+      "ids": [
+        "CVE-2022-21653",
+        "CVE-2026-59990",
+        "CVE-2026-61814"
+      ],
+      "version": "1.6.0"
+    },
+    "org.typelevel:jawn-parser_2.13": {
+      "ids": [
+        "CVE-2022-21653",
+        "CVE-2026-59990",
+        "CVE-2026-61814"
+      ],
+      "version": "1.6.0"
+    },
+    "org.typelevel:jawn-parser_3": {
+      "ids": [
+        "CVE-2022-21653",
+        "CVE-2026-59990",
+        "CVE-2026-61814"
+      ],
+      "version": "1.6.0"
+    }
+  }
+}
