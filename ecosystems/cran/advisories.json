@@ -1,0 +1,73 @@
+{
+  "distinct_advisory_count": 14,
+  "distinct_cve_count": 0,
+  "ecosystem": "CRAN",
+  "note": null,
+  "package_count": 10,
+  "packages": {
+    "commonmark": {
+      "ids": [
+        "RSEC-2023-6",
+        "RSEC-2023-7",
+        "RSEC-2023-8"
+      ],
+      "version": "1.9.1"
+    },
+    "gdata": {
+      "ids": [
+        "RSEC-2023-9"
+      ],
+      "version": "2.19.0"
+    },
+    "gh": {
+      "ids": [
+        "RSEC-2025-0"
+      ],
+      "version": "1.4.1"
+    },
+    "haven": {
+      "ids": [
+        "RSEC-2023-5"
+      ],
+      "version": "1.1.0"
+    },
+    "igraph": {
+      "ids": [
+        "RSEC-2023-4"
+      ],
+      "version": "1.2.2"
+    },
+    "jsonlite": {
+      "ids": [
+        "RSEC-2023-3"
+      ],
+      "version": "1.8.7"
+    },
+    "plotly": {
+      "ids": [
+        "RSEC-2025-1"
+      ],
+      "version": "4.11.0"
+    },
+    "png": {
+      "ids": [
+        "RSEC-2026-1"
+      ],
+      "version": "0.1-8"
+    },
+    "readxl": {
+      "ids": [
+        "RSEC-2023-0",
+        "RSEC-2023-1",
+        "RSEC-2023-2"
+      ],
+      "version": "1.4.1"
+    },
+    "widgetframe": {
+      "ids": [
+        "RSEC-2026-0"
+      ],
+      "version": "0.3.1"
+    }
+  }
+}

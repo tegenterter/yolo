@@ -1,0 +1,205 @@
+{
+  "distinct_advisory_count": 32,
+  "distinct_cve_count": 20,
+  "ecosystem": "Hackage",
+  "note": null,
+  "package_count": 31,
+  "packages": {
+    "Cabal": {
+      "ids": [
+        "HSEC-2026-0006"
+      ],
+      "version": "3.16.1.0"
+    },
+    "aeson": {
+      "ids": [
+        "CVE-2022-3433",
+        "HSEC-2026-0007"
+      ],
+      "version": "2.2.5.0"
+    },
+    "base": {
+      "ids": [
+        "HSEC-2023-0007",
+        "HSEC-2024-0006"
+      ],
+      "version": "4.22.0.0"
+    },
+    "biscuit-haskell": {
+      "ids": [
+        "CVE-2022-31053",
+        "CVE-2024-41949",
+        "CVE-2024-42350"
+      ],
+      "version": "0.3.0.1"
+    },
+    "bz2": {
+      "ids": [
+        "CVE-2019-12900"
+      ],
+      "version": "1.0.1.0"
+    },
+    "bzlib": {
+      "ids": [
+        "CVE-2019-12900"
+      ],
+      "version": "0.5.1.0"
+    },
+    "bzlib-conduit": {
+      "ids": [
+        "CVE-2019-12900"
+      ],
+      "version": "0.3.0.2"
+    },
+    "cabal-install": {
+      "ids": [
+        "HSEC-2025-0005"
+      ],
+      "version": "3.2.0.0"
+    },
+    "cmark-gfm": {
+      "ids": [
+        "CVE-2023-24824"
+      ],
+      "version": "0.2.5"
+    },
+    "crypton": {
+      "ids": [
+        "HSEC-2025-0002"
+      ],
+      "version": "1.0.2"
+    },
+    "crypton-x509": {
+      "ids": [
+        "CVE-2026-9648"
+      ],
+      "version": "1.9.0"
+    },
+    "crypton-x509-store": {
+      "ids": [
+        "HSEC-2025-0006"
+      ],
+      "version": "1.6.11"
+    },
+    "crypton-x509-validation": {
+      "ids": [
+        "CVE-2026-9648"
+      ],
+      "version": "1.9.0"
+    },
+    "cryptonite": {
+      "ids": [
+        "HSEC-2025-0002"
+      ],
+      "version": "0.30"
+    },
+    "git-annex": {
+      "ids": [
+        "CVE-2014-6274",
+        "CVE-2017-12976",
+        "CVE-2018-10857",
+        "CVE-2018-10859",
+        "HSEC-2023-0012"
+      ],
+      "version": "6.20180529"
+    },
+    "hackage-server": {
+      "ids": [
+        "CVE-2026-40471",
+        "CVE-2026-40472"
+      ],
+      "version": "0.5.0"
+    },
+    "hledger-web": {
+      "ids": [
+        "CVE-2021-46888"
+      ],
+      "version": "1.22.2"
+    },
+    "jwt": {
+      "ids": [
+        "HSEC-2026-0010"
+      ],
+      "version": "0.11.0"
+    },
+    "keter": {
+      "ids": [
+        "HSEC-2024-0001"
+      ],
+      "version": "1.8.3"
+    },
+    "pandoc": {
+      "ids": [
+        "CVE-2023-35936"
+      ],
+      "version": "3.1.3"
+    },
+    "process": {
+      "ids": [
+        "CVE-2024-3566"
+      ],
+      "version": "1.6.22.0"
+    },
+    "spacecookie": {
+      "ids": [
+        "HSEC-2025-0004"
+      ],
+      "version": "1.0.0.2"
+    },
+    "text-iso8601": {
+      "ids": [
+        "HSEC-2026-0007"
+      ],
+      "version": "0.1.1.1"
+    },
+    "tls-extra": {
+      "ids": [
+        "CVE-2013-0243"
+      ],
+      "version": "0.4.6"
+    },
+    "toml-reader": {
+      "ids": [
+        "HSEC-2023-0007"
+      ],
+      "version": "0.1.0.0"
+    },
+    "x509": {
+      "ids": [
+        "CVE-2026-9648"
+      ],
+      "version": "1.7.7"
+    },
+    "x509-store": {
+      "ids": [
+        "HSEC-2025-0006"
+      ],
+      "version": "1.6.9"
+    },
+    "x509-validation": {
+      "ids": [
+        "CVE-2026-9648",
+        "HSEC-2023-0006"
+      ],
+      "version": "1.6.12"
+    },
+    "xml-conduit": {
+      "ids": [
+        "CVE-2021-4249"
+      ],
+      "version": "1.9.0.0"
+    },
+    "xmonad-contrib": {
+      "ids": [
+        "CVE-2013-1436"
+      ],
+      "version": "0.11.1"
+    },
+    "xz-clib": {
+      "ids": [
+        "CVE-2025-31115"
+      ],
+      "version": "5.8.0.1"
+    }
+  }
+}

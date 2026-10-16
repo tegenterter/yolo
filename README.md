@@ -21,9 +21,9 @@ Snyk, Dependabot, Trivy, etc.
 
 ## Contents
 
-**11,433 known-vulnerable packages across 10 ecosystems**, each pinned to an exact
-vulnerable version. Every ecosystem ships an idiomatic manifest, a lockfile, and an
-`advisories.json` sidecar (package → version → advisory/CVE IDs).
+**11,502 known-vulnerable packages across 14 installable ecosystems** (plus Julia as a
+dataset), each pinned to an exact vulnerable version. Every ecosystem ships an idiomatic
+manifest, a lockfile, and an `advisories.json` sidecar (package → version → advisory/CVE IDs).
 
 | Ecosystem | Manifest | Lockfile | Packages | Distinct CVEs |
 |-----------|----------|----------|---------:|--------------:|
@@ -36,8 +36,17 @@ vulnerable version. Every ecosystem ships an idiomatic manifest, a lockfile, and
 | crates.io | `ecosystems/cargo/Cargo.toml`      | `ecosystems/cargo/Cargo.lock`       |   600 |   273 |
 | RubyGems  | `ecosystems/rubygems/Gemfile`      | `ecosystems/rubygems/Gemfile.lock`  |   408 | 1,050 |
 | Hex       | `ecosystems/hex/mix.exs`           | `ecosystems/hex/mix.lock`           |    85 |   295 |
+| Hackage   | —                                  | `ecosystems/hackage/cabal.project.freeze` | 31 | 20 |
+| opam      | `ecosystems/ocaml/yolo.opam`       | —                                   |    18 |    20 |
 | Pub       | `ecosystems/pub/pubspec.yaml`      | `ecosystems/pub/pubspec.lock`       |    11 |    11 |
-| **Total** |                                    |                                     | **11,433** | |
+| CRAN      | —                                  | `ecosystems/cran/renv.lock`         |    10 |     0 |
+| Swift     | —                                  | `ecosystems/swift/Package.resolved` |    10 |    25 |
+| **Total** |                                    |                                     | **11,502** | |
+
+Julia adds **48** more as a dataset (`ecosystems/julia/advisories.json`): valid Julia
+manifests need per-package UUIDs that the advisory data doesn't carry. R (`renv.lock`),
+Haskell (`cabal.project.freeze`) and Swift (`Package.resolved`) are osv-scanner-native
+and mirrored to the repo root; opam is idiomatic but not osv-scanner-parsed.
 
 Each pin is a real, still-published version known to be vulnerable: enumerated in the
 advisory, or the highest registry version inside a vulnerable range. PyPI, RubyGems,
@@ -114,8 +123,9 @@ are scanned directly; PyPI's `==`-pinned `requirements.txt` is its own lock.
 pointed at the top level (not just `--recursive`) picks them all up:
 `package-lock.json`, `requirements.txt`, `go.mod`, `Cargo.lock`/`Cargo.toml`,
 `Gemfile`/`Gemfile.lock`, `packages.lock.json`, `pubspec.lock`, `mix.lock`, `pom.xml`,
-and a merged `composer.lock` (Packagist + PHP-CMS, 965 packages). The per-ecosystem
-copies under `ecosystems/` remain as well.
+a merged `composer.lock` (Packagist + PHP-CMS, 965 packages), plus `renv.lock`,
+`cabal.project.freeze` and `Package.resolved`. The per-ecosystem copies under
+`ecosystems/` remain as well.
 
 ## What was deliberately EXCLUDED
 

@@ -1,0 +1,89 @@
+{
+  "distinct_advisory_count": 30,
+  "distinct_cve_count": 25,
+  "ecosystem": "SwiftURL",
+  "note": null,
+  "package_count": 10,
+  "packages": {
+    "github.com/apple/swift-nio": {
+      "ids": [
+        "CVE-2022-3215",
+        "CVE-2026-28970",
+        "CVE-2026-28980",
+        "CVE-2026-43671",
+        "GHSA-mgc4-wqv7-4pxm"
+      ],
+      "version": "2.41.0"
+    },
+    "github.com/apple/swift-nio-extras": {
+      "ids": [
+        "CVE-2022-3252",
+        "CVE-2026-28975"
+      ],
+      "version": "1.11.0"
+    },
+    "github.com/apple/swift-nio-http2": {
+      "ids": [
+        "CVE-2022-0618",
+        "CVE-2022-24666",
+        "CVE-2022-24667",
+        "CVE-2022-24668",
+        "CVE-2023-44487",
+        "CVE-2026-28898",
+        "GHSA-gpgx-whwh-r297",
+        "GHSA-pv7r-9vjg-g3f9",
+        "GHSA-wfvq-p7qf-vv64",
+        "GHSA-xvr7-p2c6-j83w"
+      ],
+      "version": "1.0.0"
+    },
+    "github.com/apple/swift-nio-ssl": {
+      "ids": [
+        "CVE-2019-8849"
+      ],
+      "version": "2.0.0"
+    },
+    "github.com/ionic-team/capacitor-swift-pm": {
+      "ids": [
+        "CVE-2026-103922"
+      ],
+      "version": "8.5.0"
+    },
+    "github.com/mongodb/mongo-swift-driver": {
+      "ids": [
+        "CVE-2021-32050"
+      ],
+      "version": "1.0.0"
+    },
+    "github.com/swift-server/async-http-client": {
+      "ids": [
+        "CVE-2023-0040"
+      ],
+      "version": "1.13.0"
+    },
+    "github.com/swift-server/swift-prometheus": {
+      "ids": [
+        "CVE-2024-28867"
+      ],
+      "version": "2.0.0-alpha.1"
+    },
+    "github.com/vapor/vapor": {
+      "ids": [
+        "CVE-2020-15230",
+        "CVE-2021-21328",
+        "CVE-2021-32742",
+        "CVE-2022-31005",
+        "CVE-2022-31019",
+        "CVE-2023-44386",
+        "CVE-2024-21631"
+      ],
+      "version": "4.83.2"
+    },
+    "swift-crypto": {
+      "ids": [
+        "CVE-2026-28815"
+      ],
+      "version": "4.0.0"
+    }
+  }
+}

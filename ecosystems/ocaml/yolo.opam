@@ -1,0 +1,24 @@
+# Security-research fixture: known-vulnerable packages for SCA/scanner testing. Do NOT install outside a disposable sandbox.
+opam-version: "2.0"
+name: "yolo-vuln-ocaml"
+version: "0.0.0"
+depends: [
+  "albatross" {= "2.7.1"}
+  "arp" {= "4.0.0"}
+  "cohttp" {= "6.2.2"}
+  "cstruct" {= "6.2.0"}
+  "jose" {= "0.10.0"}
+  "mirage-crypto" {= "2.1.0"}
+  "mirage-crypto-ec" {= "2.3.0"}
+  "mirage-crypto-pk" {= "2.2.0"}
+  "mirage-net-xen" {= "1.4.1"}
+  "mirage-xen" {= "3.2.0"}
+  "netchannel" {= "1.10.0"}
+  "ocaml" {= "5.5.0-alpha1"}
+  "opam-devel" {= "2.5.1"}
+  "opam-repository" {= "2.1.4"}
+  "solo5" {= "0.7.4"}
+  "tar" {= "v3.4.0"}
+  "tls" {= "2.0.4"}
+  "utcp" {= "0.0.5"}
+]

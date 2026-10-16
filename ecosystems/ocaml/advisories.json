@@ -1,0 +1,126 @@
+{
+  "distinct_advisory_count": 27,
+  "distinct_cve_count": 20,
+  "ecosystem": "opam",
+  "note": null,
+  "package_count": 18,
+  "packages": {
+    "albatross": {
+      "ids": [
+        "CVE-2026-96609",
+        "OSEC-2025-01"
+      ],
+      "version": "2.7.1"
+    },
+    "arp": {
+      "ids": [
+        "OSEC-2026-02"
+      ],
+      "version": "4.0.0"
+    },
+    "cohttp": {
+      "ids": [
+        "OSEC-2026-16"
+      ],
+      "version": "6.2.2"
+    },
+    "cstruct": {
+      "ids": [
+        "CVE-2026-89087"
+      ],
+      "version": "6.2.0"
+    },
+    "jose": {
+      "ids": [
+        "CVE-2026-89086"
+      ],
+      "version": "0.10.0"
+    },
+    "mirage-crypto": {
+      "ids": [
+        "CVE-2026-87732"
+      ],
+      "version": "2.1.0"
+    },
+    "mirage-crypto-ec": {
+      "ids": [
+        "CVE-2026-87733",
+        "CVE-2026-87736",
+        "CVE-2026-87737"
+      ],
+      "version": "2.3.0"
+    },
+    "mirage-crypto-pk": {
+      "ids": [
+        "CVE-2026-87735"
+      ],
+      "version": "2.2.0"
+    },
+    "mirage-net-xen": {
+      "ids": [
+        "OSEC-2016-02"
+      ],
+      "version": "1.4.1"
+    },
+    "mirage-xen": {
+      "ids": [
+        "OSEC-2019-02"
+      ],
+      "version": "3.2.0"
+    },
+    "netchannel": {
+      "ids": [
+        "OSEC-2019-01"
+      ],
+      "version": "1.10.0"
+    },
+    "ocaml": {
+      "ids": [
+        "CVE-2015-8869",
+        "CVE-2017-9772",
+        "CVE-2018-9838",
+        "CVE-2026-28364",
+        "CVE-2026-34353",
+        "CVE-2026-41083"
+      ],
+      "version": "5.5.0-alpha1"
+    },
+    "opam-devel": {
+      "ids": [
+        "CVE-2026-41082",
+        "CVE-2026-57825"
+      ],
+      "version": "2.5.1"
+    },
+    "opam-repository": {
+      "ids": [
+        "OSEC-2023-01"
+      ],
+      "version": "2.1.4"
+    },
+    "solo5": {
+      "ids": [
+        "CVE-2022-46770"
+      ],
+      "version": "0.7.4"
+    },
+    "tar": {
+      "ids": [
+        "CVE-2026-45390"
+      ],
+      "version": "v3.4.0"
+    },
+    "tls": {
+      "ids": [
+        "CVE-2026-45389"
+      ],
+      "version": "2.0.4"
+    },
+    "utcp": {
+      "ids": [
+        "CVE-2026-87734"
+      ],
+      "version": "0.0.5"
+    }
+  }
+}
