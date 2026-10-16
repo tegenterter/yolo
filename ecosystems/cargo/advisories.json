@@ -1,0 +1,3865 @@
+{
+  "distinct_advisory_count": 435,
+  "distinct_cve_count": 273,
+  "ecosystem": "crates.io",
+  "package_count": 600,
+  "packages": {
+    "Deno": {
+      "ids": [
+        "CVE-2023-28445"
+      ],
+      "version": "1.32.0"
+    },
+    "Simple-Wayland-HotKey-Daemon": {
+      "ids": [
+        "CVE-2022-27814",
+        "CVE-2022-27815",
+        "CVE-2022-27816",
+        "CVE-2022-27817",
+        "CVE-2022-27818",
+        "CVE-2022-27819"
+      ],
+      "version": "1.2.0"
+    },
+    "SurrealDB": {
+      "ids": [
+        "CVE-2025-11060",
+        "CVE-2025-71390"
+      ],
+      "version": "2.3.7"
+    },
+    "Tauri": {
+      "ids": [
+        "CVE-2022-41874"
+      ],
+      "version": "1.1.1"
+    },
+    "aardvark-dns": {
+      "ids": [
+        "CVE-2024-8418"
+      ],
+      "version": "1.12.1"
+    },
+    "abi_stable": {
+      "ids": [
+        "CVE-2020-36212",
+        "CVE-2020-36213"
+      ],
+      "version": "0.9.0"
+    },
+    "abomonation": {
+      "ids": [
+        "CVE-2021-45708"
+      ],
+      "version": "0.7.3"
+    },
+    "abox": {
+      "ids": [
+        "CVE-2020-36441"
+      ],
+      "version": "0.4.0"
+    },
+    "acc_reader": {
+      "ids": [
+        "CVE-2020-36513",
+        "CVE-2020-36514"
+      ],
+      "version": "2.0.0"
+    },
+    "activitypub_federation": {
+      "ids": [
+        "CVE-2025-25194",
+        "CVE-2026-33693"
+      ],
+      "version": "0.6.6"
+    },
+    "actix-codec": {
+      "ids": [
+        "CVE-2020-35902"
+      ],
+      "version": "0.2.0"
+    },
+    "actix-files": {
+      "ids": [
+        "CVE-2026-72813",
+        "CVE-2026-72814"
+      ],
+      "version": "0.6.9"
+    },
+    "actix-http": {
+      "ids": [
+        "CVE-2020-35901",
+        "CVE-2021-38512",
+        "CVE-2026-73051"
+      ],
+      "version": "3.12.0"
+    },
+    "actix-service": {
+      "ids": [
+        "CVE-2020-35899"
+      ],
+      "version": "1.0.5"
+    },
+    "actix-utils": {
+      "ids": [
+        "CVE-2020-35898"
+      ],
+      "version": "1.0.6"
+    },
+    "actix-web": {
+      "ids": [
+        "CVE-2018-25024",
+        "CVE-2018-25025",
+        "CVE-2018-25026"
+      ],
+      "version": "0.7.19"
+    },
+    "actix-web-lab": {
+      "ids": [
+        "GHSA-vhj5-x93p-67jw"
+      ],
+      "version": "0.25.0"
+    },
+    "adtensor": {
+      "ids": [
+        "CVE-2021-29936"
+      ],
+      "version": "0.0.3"
+    },
+    "aes-gcm": {
+      "ids": [
+        "CVE-2023-42811"
+      ],
+      "version": "0.10.2"
+    },
+    "afire": {
+      "ids": [
+        "GHSA-3227-r97m-8j95"
+      ],
+      "version": "1.0.0"
+    },
+    "age": {
+      "ids": [
+        "GHSA-4fg7-vxc8-qx5w",
+        "RUSTSEC-2024-0433"
+      ],
+      "version": "0.11.0"
+    },
+    "alg_ds": {
+      "ids": [
+        "CVE-2020-36432"
+      ],
+      "version": "0.3.2"
+    },
+    "algorithmica": {
+      "ids": [
+        "CVE-2021-31996"
+      ],
+      "version": "0.1.10"
+    },
+    "aligned_box": {
+      "ids": [
+        "RUSTSEC-2026-0282"
+      ],
+      "version": "0.3.0"
+    },
+    "aliyun-oss-client": {
+      "ids": [
+        "CVE-2022-39397"
+      ],
+      "version": "0.8.0"
+    },
+    "aliyundrive-webdav": {
+      "ids": [
+        "CVE-2024-29640"
+      ],
+      "version": "2.3.3"
+    },
+    "alloy-dyn-abi": {
+      "ids": [
+        "CVE-2025-62370"
+      ],
+      "version": "1.4.0"
+    },
+    "alloy-json-abi": {
+      "ids": [
+        "GHSA-8327-84cj-8xjm",
+        "RUSTSEC-2024-0362"
+      ],
+      "version": "1.7.3"
+    },
+    "alpm-rs": {
+      "ids": [
+        "CVE-2020-35885"
+      ],
+      "version": "0.1.24"
+    },
+    "ammonia": {
+      "ids": [
+        "CVE-2019-15542",
+        "CVE-2021-38193",
+        "CVE-2026-102342",
+        "CVE-2026-63430",
+        "GHSA-mm7x-qfjj-5g2c",
+        "GHSA-p2g9-94wh-65c2",
+        "RUSTSEC-2021-0157",
+        "RUSTSEC-2021-0158",
+        "RUSTSEC-2022-0003",
+        "RUSTSEC-2025-0071"
+      ],
+      "version": "4.2.2"
+    },
+    "anchor-lang": {
+      "ids": [
+        "CVE-2026-45137",
+        "GHSA-429q-fhh4-r6hj",
+        "RUSTSEC-2026-0146"
+      ],
+      "version": "1.0.0-rc.1"
+    },
+    "anon-vec": {
+      "ids": [
+        "GHSA-pr59-jjr4-gcf6"
+      ],
+      "version": "0.1.1"
+    },
+    "anstream": {
+      "ids": [
+        "GHSA-2rxc-gjrp-vjhx",
+        "RUSTSEC-2024-0404"
+      ],
+      "version": "0.6.7"
+    },
+    "anyhow": {
+      "ids": [
+        "RUSTSEC-2026-0190"
+      ],
+      "version": "1.0.102"
+    },
+    "anymap": {
+      "ids": [
+        "CVE-2021-38187"
+      ],
+      "version": "0.12.1"
+    },
+    "aovec": {
+      "ids": [
+        "CVE-2020-36207"
+      ],
+      "version": "1.1.0"
+    },
+    "apache-avro": {
+      "ids": [
+        "CVE-2022-35724",
+        "CVE-2022-36124",
+        "CVE-2022-36125"
+      ],
+      "version": "0.0.1"
+    },
+    "apimock": {
+      "ids": [
+        "RUSTSEC-2026-0276"
+      ],
+      "version": "4.8.0"
+    },
+    "apimock-server": {
+      "ids": [
+        "RUSTSEC-2026-0277"
+      ],
+      "version": "5.19.0"
+    },
+    "apollo-compiler": {
+      "ids": [
+        "CVE-2025-31496"
+      ],
+      "version": "1.26.0"
+    },
+    "apollo-router": {
+      "ids": [
+        "CVE-2023-41317",
+        "CVE-2023-45812",
+        "CVE-2024-28101",
+        "CVE-2024-32971",
+        "CVE-2024-43414",
+        "CVE-2024-43783",
+        "CVE-2025-32032",
+        "CVE-2025-32033",
+        "CVE-2025-32034",
+        "CVE-2025-32380",
+        "CVE-2025-64173",
+        "CVE-2025-64347",
+        "GHSA-hff2-gcpx-8f4p"
+      ],
+      "version": "2.12.0"
+    },
+    "appendix": {
+      "ids": [
+        "CVE-2020-36469"
+      ],
+      "version": "2.0.0"
+    },
+    "arc-swap": {
+      "ids": [
+        "CVE-2020-35711"
+      ],
+      "version": "1.0.0"
+    },
+    "arenavec": {
+      "ids": [
+        "CVE-2021-29930",
+        "CVE-2021-29931",
+        "GHSA-3632-54q8-m96x"
+      ],
+      "version": "0.1.1"
+    },
+    "ark-r1cs-std": {
+      "ids": [
+        "CVE-2021-38194"
+      ],
+      "version": "0.3.0"
+    },
+    "arr": {
+      "ids": [
+        "CVE-2020-35886",
+        "CVE-2020-35887",
+        "CVE-2020-35888"
+      ],
+      "version": "0.6.1"
+    },
+    "array-init-cursor": {
+      "ids": [
+        "GHSA-67r5-rqwv-9p9q",
+        "RUSTSEC-2025-0019"
+      ],
+      "version": "0.2.0"
+    },
+    "array-macro": {
+      "ids": [
+        "GHSA-7v4j-8wvr-v55r",
+        "GHSA-83gg-pwxf-jr89",
+        "RUSTSEC-2020-0161",
+        "RUSTSEC-2022-0017"
+      ],
+      "version": "2.1.1"
+    },
+    "array-queue": {
+      "ids": [
+        "CVE-2020-35900",
+        "GHSA-xqjr-wfx3-gmxv",
+        "RUSTSEC-2025-0054"
+      ],
+      "version": "0.4.3"
+    },
+    "array-tools": {
+      "ids": [
+        "CVE-2020-36452"
+      ],
+      "version": "0.3.1"
+    },
+    "arrayfire": {
+      "ids": [
+        "CVE-2018-20998"
+      ],
+      "version": "3.5.0"
+    },
+    "arrow": {
+      "ids": [
+        "GHSA-h588-76vg-prgj",
+        "GHSA-qgrp-8f3v-q85p",
+        "GHSA-r7cj-wmwv-hfw5",
+        "RUSTSEC-2021-0116",
+        "RUSTSEC-2021-0117",
+        "RUSTSEC-2021-0118"
+      ],
+      "version": "6.3.0"
+    },
+    "arrow2": {
+      "ids": [
+        "GHSA-5j8w-r7g8-5472",
+        "GHSA-wv8j-m3hx-924j",
+        "RUSTSEC-2022-0012"
+      ],
+      "version": "0.18.0"
+    },
+    "arti": {
+      "ids": [
+        "CVE-2024-35312",
+        "CVE-2024-35313"
+      ],
+      "version": "1.2.2"
+    },
+    "ascii": {
+      "ids": [
+        "GHSA-mrrw-grhq-86gf",
+        "RUSTSEC-2023-0015"
+      ],
+      "version": "0.9.2"
+    },
+    "ascon_aead": {
+      "ids": [
+        "CVE-2025-27498"
+      ],
+      "version": "0.4.2"
+    },
+    "ash": {
+      "ids": [
+        "CVE-2021-45688"
+      ],
+      "version": "0.33.0+1.2.186"
+    },
+    "asn1_der": {
+      "ids": [
+        "CVE-2019-15549"
+      ],
+      "version": "0.6.1"
+    },
+    "astral-tokio-tar": {
+      "ids": [
+        "CVE-2025-59825",
+        "CVE-2025-62518",
+        "CVE-2026-32766",
+        "GHSA-3cv2-h65g-fgmm",
+        "GHSA-fp55-jw48-c537",
+        "GHSA-xx64-wwv2-hcqq",
+        "RUSTSEC-2026-0112",
+        "RUSTSEC-2026-0113",
+        "RUSTSEC-2026-0145"
+      ],
+      "version": "0.6.1"
+    },
+    "async-coap": {
+      "ids": [
+        "CVE-2020-36444"
+      ],
+      "version": "0.1.0"
+    },
+    "async-graphql": {
+      "ids": [
+        "CVE-2024-47614",
+        "GHSA-xq3c-8gqm-v648",
+        "RUSTSEC-2022-0037"
+      ],
+      "version": "7.0.9"
+    },
+    "async-h1": {
+      "ids": [
+        "CVE-2020-26281",
+        "CVE-2020-36202"
+      ],
+      "version": "2.2.1"
+    },
+    "async-nats": {
+      "ids": [
+        "GHSA-f5v5-ccqc-6w36",
+        "RUSTSEC-2023-0027"
+      ],
+      "version": "0.28.0"
+    },
+    "atom": {
+      "ids": [
+        "CVE-2020-35897"
+      ],
+      "version": "0.3.5"
+    },
+    "atomic-option": {
+      "ids": [
+        "CVE-2020-36219"
+      ],
+      "version": "0.1.2"
+    },
+    "atty": {
+      "ids": [
+        "GHSA-g98v-hv3f-hcfr"
+      ],
+      "version": "0.2.14"
+    },
+    "autorand": {
+      "ids": [
+        "CVE-2020-36210"
+      ],
+      "version": "0.2.2"
+    },
+    "av-data": {
+      "ids": [
+        "CVE-2021-25904"
+      ],
+      "version": "0.2.2"
+    },
+    "aws-kms-tls-auth": {
+      "ids": [
+        "GHSA-5whh-4q9j-7v28"
+      ],
+      "version": "0.0.2"
+    },
+    "aws-lc-fips-sys": {
+      "ids": [
+        "CVE-2026-3337",
+        "CVE-2026-4428"
+      ],
+      "version": "0.13.12"
+    },
+    "aws-lc-sys": {
+      "ids": [
+        "CVE-2026-3336",
+        "CVE-2026-3337",
+        "CVE-2026-3338",
+        "CVE-2026-4428",
+        "GHSA-394x-vwmw-crm3",
+        "RUSTSEC-2026-0044"
+      ],
+      "version": "0.38.0"
+    },
+    "aws-sdk-accessanalyzer": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-account": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-acm": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-acmpca": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-aiops": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.17.0"
+    },
+    "aws-sdk-amp": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-amplify": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.97.0"
+    },
+    "aws-sdk-amplifybackend": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-amplifyuibuilder": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-apigateway": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-apigatewaymanagement": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-apigatewayv2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-appconfig": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-appconfigdata": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-appfabric": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-appflow": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-appintegrations": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-applicationautoscaling": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-applicationcostprofiler": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-applicationdiscovery": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-applicationinsights": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-applicationsignals": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.66.0"
+    },
+    "aws-sdk-appmesh": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-apprunner": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-appstream": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-appsync": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.101.0"
+    },
+    "aws-sdk-arcregionswitch": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.8.0"
+    },
+    "aws-sdk-arczonalshift": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-artifact": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.78.0"
+    },
+    "aws-sdk-athena": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-auditmanager": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-autoscaling": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.99.0"
+    },
+    "aws-sdk-autoscalingplans": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-b2bi": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-backup": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-backupgateway": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-backupsearch": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.37.0"
+    },
+    "aws-sdk-batch": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.99.0"
+    },
+    "aws-sdk-bcmdashboards": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.6.0"
+    },
+    "aws-sdk-bcmdataexports": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.85.0"
+    },
+    "aws-sdk-bcmpricingcalculator": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.43.0"
+    },
+    "aws-sdk-bcmrecommendedactions": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.6.0"
+    },
+    "aws-sdk-bedrock": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.119.0"
+    },
+    "aws-sdk-bedrockagent": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.118.0"
+    },
+    "aws-sdk-bedrockagentcore": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.16.0"
+    },
+    "aws-sdk-bedrockagentcorecontrol": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.20.0"
+    },
+    "aws-sdk-bedrockagentruntime": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.115.0"
+    },
+    "aws-sdk-bedrockdataautomation": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.41.0"
+    },
+    "aws-sdk-bedrockdataautomationruntime": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.39.0"
+    },
+    "aws-sdk-bedrockruntime": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.112.0"
+    },
+    "aws-sdk-billing": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.42.0"
+    },
+    "aws-sdk-billingconductor": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-braket": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-budgets": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-chatbot": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.78.0"
+    },
+    "aws-sdk-chime": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-chimesdkidentity": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-chimesdkmediapipelines": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-chimesdkmeetings": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-chimesdkmessaging": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-chimesdkvoice": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-cleanrooms": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.106.0"
+    },
+    "aws-sdk-cleanroomsml": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-cloud9": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-cloudcontrol": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-clouddirectory": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-cloudformation": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.98.0"
+    },
+    "aws-sdk-cloudfront": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.101.0"
+    },
+    "aws-sdk-cloudfrontkeyvaluestore": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.87.0"
+    },
+    "aws-sdk-cloudhsm": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-cloudhsmv2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-cloudsearch": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-cloudsearchdomain": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-cloudtrail": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-cloudtraildata": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-cloudwatch": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.96.0"
+    },
+    "aws-sdk-cloudwatchevents": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-cloudwatchlogs": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.106.0"
+    },
+    "aws-sdk-codeartifact": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-codebuild": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.112.0"
+    },
+    "aws-sdk-codecatalyst": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-codecommit": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-codeconnections": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.72.0"
+    },
+    "aws-sdk-codedeploy": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-codeguruprofiler": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-codegurureviewer": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-codegurusecurity": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-codepipeline": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.98.0"
+    },
+    "aws-sdk-codestarconnections": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-codestarnotifications": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-cognitoidentity": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-cognitoidentityprovider": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.102.0"
+    },
+    "aws-sdk-cognitosync": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-comprehend": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-comprehendmedical": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-computeoptimizer": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-config": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-connect": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.135.0"
+    },
+    "aws-sdk-connectcampaigns": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-connectcampaignsv2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.40.0"
+    },
+    "aws-sdk-connectcases": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.96.0"
+    },
+    "aws-sdk-connectcontactlens": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-connectparticipant": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-controlcatalog": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.73.0"
+    },
+    "aws-sdk-controltower": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-costandusagereport": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-costexplorer": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.100.0"
+    },
+    "aws-sdk-costoptimizationhub": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-customerprofiles": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.97.0"
+    },
+    "aws-sdk-databasemigration": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.97.0"
+    },
+    "aws-sdk-databrew": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-dataexchange": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-datapipeline": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-datasync": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.96.0"
+    },
+    "aws-sdk-datazone": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.111.0"
+    },
+    "aws-sdk-dax": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-deadline": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.82.0"
+    },
+    "aws-sdk-detective": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-devicefarm": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-devopsguru": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-directconnect": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-directory": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-directoryservicedata": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.45.0"
+    },
+    "aws-sdk-dlm": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-docdb": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-docdbelastic": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-drs": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-dsql": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.43.0"
+    },
+    "aws-sdk-dynamodb": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.97.0"
+    },
+    "aws-sdk-dynamodbstreams": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-ebs": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-ec2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.180.0"
+    },
+    "aws-sdk-ec2instanceconnect": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-ecr": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.97.0"
+    },
+    "aws-sdk-ecrpublic": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-ecs": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.103.1"
+    },
+    "aws-sdk-efs": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-eks": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.112.0"
+    },
+    "aws-sdk-eksauth": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.85.0"
+    },
+    "aws-sdk-elasticache": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-elasticbeanstalk": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-elasticloadbalancing": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-elasticloadbalancingv2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.98.0"
+    },
+    "aws-sdk-elasticsearch": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-elastictranscoder": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-emr": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-emrcontainers": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-emrserverless": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.96.0"
+    },
+    "aws-sdk-entityresolution": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.97.0"
+    },
+    "aws-sdk-eventbridge": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-evidently": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-evs": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.18.0"
+    },
+    "aws-sdk-finspace": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-finspacedata": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-firehose": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.96.0"
+    },
+    "aws-sdk-fis": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-fms": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-forecast": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-forecastquery": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-frauddetector": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-freetier": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.86.0"
+    },
+    "aws-sdk-fsx": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.99.0"
+    },
+    "aws-sdk-gamelift": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-gameliftstreams": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.30.0"
+    },
+    "aws-sdk-geomaps": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.43.0"
+    },
+    "aws-sdk-geoplaces": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.42.0"
+    },
+    "aws-sdk-georoutes": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.42.0"
+    },
+    "aws-sdk-glacier": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-globalaccelerator": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-glue": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.127.0"
+    },
+    "aws-sdk-grafana": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-greengrass": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-greengrassv2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-groundstation": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-guardduty": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.102.0"
+    },
+    "aws-sdk-health": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-healthlake": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-iam": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-identitystore": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-imagebuilder": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-inspector": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-inspector2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.98.0"
+    },
+    "aws-sdk-inspectorscan": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-internetmonitor": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-invoicing": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.39.0"
+    },
+    "aws-sdk-iot": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.99.0"
+    },
+    "aws-sdk-iotanalytics": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-iotdataplane": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-iotdeviceadvisor": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-iotevents": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-ioteventsdata": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-iotfleetwise": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-iotjobsdataplane": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-iotmanagedintegrations": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.30.0"
+    },
+    "aws-sdk-iotsecuretunneling": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-iotsitewise": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-iotthingsgraph": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-iottwinmaker": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-iotwireless": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-ivs": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-ivschat": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-ivsrealtime": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.99.0"
+    },
+    "aws-sdk-kafka": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-kafkaconnect": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-kendra": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-kendraranking": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.87.0"
+    },
+    "aws-sdk-keyspaces": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-keyspacesstreams": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.15.0"
+    },
+    "aws-sdk-kinesis": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-kinesisanalytics": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-kinesisanalyticsv2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-kinesisvideo": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-kinesisvideoarchivedmedia": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-kinesisvideomedia": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-kinesisvideosignaling": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-kinesisvideowebrtcstorage": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-kms": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-lakeformation": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-lambda": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.103.0"
+    },
+    "aws-sdk-launchwizard": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-lexmodelbuilding": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-lexmodelsv2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-lexruntime": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-lexruntimev2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-licensemanager": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-licensemanagerlinuxsubscriptions": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-licensemanagerusersubscriptions": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-lightsail": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-location": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-lookoutequipment": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-m2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-machinelearning": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-macie2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-mailmanager": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.71.0"
+    },
+    "aws-sdk-managedblockchain": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-managedblockchainquery": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-marketplaceagreement": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.85.0"
+    },
+    "aws-sdk-marketplacecatalog": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-marketplacecommerceanalytics": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-marketplacedeployment": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.85.0"
+    },
+    "aws-sdk-marketplaceentitlement": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-marketplacemetering": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-marketplacereporting": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.44.0"
+    },
+    "aws-sdk-mediaconnect": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-mediaconvert": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.109.0"
+    },
+    "aws-sdk-medialive": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.113.0"
+    },
+    "aws-sdk-mediapackage": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-mediapackagev2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.98.0"
+    },
+    "aws-sdk-mediapackagevod": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-mediastore": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-mediastoredata": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-mediatailor": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.96.0"
+    },
+    "aws-sdk-medicalimaging": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-memorydb": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-mgn": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-migrationhub": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-migrationhubconfig": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-migrationhuborchestrator": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-migrationhubrefactorspaces": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-migrationhubstrategy": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-mpa": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.15.0"
+    },
+    "aws-sdk-mq": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-mturk": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-mwaa": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-neptune": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-neptunedata": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-neptunegraph": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-networkfirewall": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.97.0"
+    },
+    "aws-sdk-networkflowmonitor": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.42.0"
+    },
+    "aws-sdk-networkmanager": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-networkmonitor": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.79.0"
+    },
+    "aws-sdk-notifications": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.41.0"
+    },
+    "aws-sdk-notificationscontacts": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.39.0"
+    },
+    "aws-sdk-oam": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-observabilityadmin": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.41.0"
+    },
+    "aws-sdk-odb": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.14.0"
+    },
+    "aws-sdk-omics": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-opensearch": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.102.0"
+    },
+    "aws-sdk-opensearchserverless": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-organizations": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.99.0"
+    },
+    "aws-sdk-osis": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-outposts": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.98.0"
+    },
+    "aws-sdk-panorama": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-partnercentralselling": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.42.0"
+    },
+    "aws-sdk-paymentcryptography": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-paymentcryptographydata": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-pcaconnectorad": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-pcaconnectorscep": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.58.0"
+    },
+    "aws-sdk-pcs": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.57.0"
+    },
+    "aws-sdk-personalize": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-personalizeevents": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-personalizeruntime": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-pi": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-pinpoint": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-pinpointemail": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-pinpointsmsvoice": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-pinpointsmsvoicev2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.96.0"
+    },
+    "aws-sdk-pipes": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-polly": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-pricing": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-proton": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.87.0"
+    },
+    "aws-sdk-qapps": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.56.0"
+    },
+    "aws-sdk-qbusiness": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.103.0"
+    },
+    "aws-sdk-qconnect": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.97.0"
+    },
+    "aws-sdk-quicksight": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.110.0"
+    },
+    "aws-sdk-ram": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-rbin": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-rds": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.113.0"
+    },
+    "aws-sdk-rdsdata": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-redshift": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-redshiftdata": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-redshiftserverless": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-rekognition": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-repostspace": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.87.0"
+    },
+    "aws-sdk-resiliencehub": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-resourceexplorer2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-resourcegroups": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-resourcegroupstagging": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.87.0"
+    },
+    "aws-sdk-rolesanywhere": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-route53": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.99.0"
+    },
+    "aws-sdk-route53domains": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-route53profiles": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.67.0"
+    },
+    "aws-sdk-route53recoverycluster": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-route53recoverycontrolconfig": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-route53recoveryreadiness": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-route53resolver": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-rtbfabric": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.2.0"
+    },
+    "aws-sdk-rum": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-s3": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.111.0"
+    },
+    "aws-sdk-s3control": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.102.0"
+    },
+    "aws-sdk-s3outposts": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-s3tables": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.42.0"
+    },
+    "aws-sdk-s3vectors": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.13.0"
+    },
+    "aws-sdk-sagemaker": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.165.0"
+    },
+    "aws-sdk-sagemakera2iruntime": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-sagemakeredge": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-sagemakerfeaturestoreruntime": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-sagemakergeospatial": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-sagemakermetrics": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-sagemakerruntime": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-savingsplans": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-scheduler": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-schemas": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-secretsmanager": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-securityhub": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.96.0"
+    },
+    "aws-sdk-securityir": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.41.0"
+    },
+    "aws-sdk-securitylake": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-serverlessapplicationrepository": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-servicecatalog": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-servicecatalogappregistry": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-servicediscovery": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-servicequotas": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-ses": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-sesv2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.102.0"
+    },
+    "aws-sdk-sfn": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-shield": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-signer": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-simspaceweaver": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-snowball": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.87.0"
+    },
+    "aws-sdk-snowdevicemanagement": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-sns": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-socialmessaging": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.43.0"
+    },
+    "aws-sdk-sqs": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-ssm": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.98.0"
+    },
+    "aws-sdk-ssmcontacts": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.87.0"
+    },
+    "aws-sdk-ssmguiconnect": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.23.0"
+    },
+    "aws-sdk-ssmincidents": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-ssmquicksetup": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.52.0"
+    },
+    "aws-sdk-ssmsap": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-sso": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-ssoadmin": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-ssooidc": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-storagegateway": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.95.0"
+    },
+    "aws-sdk-sts": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-supplychain": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.83.0"
+    },
+    "aws-sdk-support": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-supportapp": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-swf": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-synthetics": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.96.0"
+    },
+    "aws-sdk-taxsettings": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.66.0"
+    },
+    "aws-sdk-textract": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-timestreaminfluxdb": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.77.0"
+    },
+    "aws-sdk-timestreamquery": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.92.0"
+    },
+    "aws-sdk-timestreamwrite": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-tnb": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-transcribe": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.93.0"
+    },
+    "aws-sdk-transcribestreaming": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-transfer": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.101.0"
+    },
+    "aws-sdk-translate": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-trustedadvisor": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-verifiedpermissions": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.98.0"
+    },
+    "aws-sdk-voiceid": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-vpclattice": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.91.0"
+    },
+    "aws-sdk-waf": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-wafregional": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-wafv2": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.100.0"
+    },
+    "aws-sdk-wellarchitected": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-wisdom": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sdk-workdocs": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-workmail": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.90.0"
+    },
+    "aws-sdk-workmailmessageflow": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.88.0"
+    },
+    "aws-sdk-workspaces": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.104.0"
+    },
+    "aws-sdk-workspacesinstances": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.15.0"
+    },
+    "aws-sdk-workspacesthinclient": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-workspacesweb": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.94.0"
+    },
+    "aws-sdk-xray": {
+      "ids": [
+        "GHSA-g59m-gf8j-gjf5"
+      ],
+      "version": "1.89.0"
+    },
+    "aws-sigv4": {
+      "ids": [
+        "CVE-2023-30610"
+      ],
+      "version": "0.55.0"
+    },
+    "aws-smithy-http-server": {
+      "ids": [
+        "CVE-2026-16756"
+      ],
+      "version": "0.66.4"
+    },
+    "aws-smithy-json": {
+      "ids": [
+        "CVE-2026-18140"
+      ],
+      "version": "0.62.6"
+    },
+    "axum-core": {
+      "ids": [
+        "CVE-2022-3212",
+        "GHSA-2gg5-7c4v-6xx2"
+      ],
+      "version": "0.3.0-rc.1"
+    },
+    "azure_core": {
+      "ids": [
+        "RUSTSEC-2026-0275"
+      ],
+      "version": "0.21.0"
+    },
+    "bam": {
+      "ids": [
+        "CVE-2021-28027"
+      ],
+      "version": "0.1.2"
+    },
+    "base64": {
+      "ids": [
+        "CVE-2017-1000430"
+      ],
+      "version": "0.5.1"
+    },
+    "basic_dsp_matrix": {
+      "ids": [
+        "CVE-2021-25906"
+      ],
+      "version": "0.9.1"
+    },
+    "bat": {
+      "ids": [
+        "CVE-2021-36753"
+      ],
+      "version": "0.18.1"
+    },
+    "bcder": {
+      "ids": [
+        "CVE-2023-39914"
+      ],
+      "version": "0.7.2"
+    },
+    "bcrypt": {
+      "ids": [
+        "RUSTSEC-2026-0199"
+      ],
+      "version": "0.19.1"
+    },
+    "beef": {
+      "ids": [
+        "CVE-2020-36442"
+      ],
+      "version": "0.4.4"
+    },
+    "below": {
+      "ids": [
+        "CVE-2025-27591"
+      ],
+      "version": "0.8.1"
+    },
+    "better-macro": {
+      "ids": [
+        "CVE-2021-38196"
+      ],
+      "version": "1.0.4"
+    },
+    "bigint": {
+      "ids": [
+        "CVE-2020-35880"
+      ],
+      "version": "4.4.3"
+    },
+    "binary_vec_io": {
+      "ids": [
+        "GHSA-wwxp-hxh6-8gf8"
+      ],
+      "version": "0.1.12"
+    },
+    "bingrep": {
+      "ids": [
+        "CVE-2021-39480"
+      ],
+      "version": "0.8.5"
+    },
+    "binjs_io": {
+      "ids": [
+        "CVE-2021-45683"
+      ],
+      "version": "0.2.1"
+    },
+    "bip322": {
+      "ids": [
+        "RUSTSEC-2026-0334"
+      ],
+      "version": "0.0.10"
+    },
+    "birdcage": {
+      "ids": [
+        "GHSA-wj7f-468m-6mv8"
+      ],
+      "version": "0.6.0"
+    },
+    "biscuit-auth": {
+      "ids": [
+        "CVE-2022-31053",
+        "CVE-2024-41949",
+        "CVE-2024-42350"
+      ],
+      "version": "4.1.1"
+    },
+    "bite": {
+      "ids": [
+        "CVE-2020-36511"
+      ],
+      "version": "0.0.5"
+    },
+    "bitvec": {
+      "ids": [
+        "CVE-2020-35862"
+      ],
+      "version": "0.17.3"
+    },
+    "blake2": {
+      "ids": [
+        "CVE-2019-16143"
+      ],
+      "version": "0.8.0"
+    },
+    "block_buffer": {
+      "ids": [
+        "GHSA-qwgh-2vcv-g2f7"
+      ],
+      "version": "0.12.0"
+    },
+    "blurhash": {
+      "ids": [
+        "CVE-2023-42447"
+      ],
+      "version": "0.1.1"
+    },
+    "boa_engine": {
+      "ids": [
+        "CVE-2024-43367"
+      ],
+      "version": "0.18.0"
+    },
+    "borrowck_sacrifices": {
+      "ids": [
+        "GHSA-xcpm-76hf-c9cc",
+        "RUSTSEC-2025-0107"
+      ],
+      "version": "0.1.0"
+    },
+    "borsh": {
+      "ids": [
+        "GHSA-fjx5-qpf4-xjf2",
+        "RUSTSEC-2023-0033"
+      ],
+      "version": "0.11.0"
+    },
+    "boxlite": {
+      "ids": [
+        "CVE-2026-46695",
+        "CVE-2026-46703"
+      ],
+      "version": "0.8.2"
+    },
+    "boxlite-cli": {
+      "ids": [
+        "CVE-2026-46703"
+      ],
+      "version": "0.8.2"
+    },
+    "bra": {
+      "ids": [
+        "CVE-2021-25905"
+      ],
+      "version": "0.1.0"
+    },
+    "branca": {
+      "ids": [
+        "CVE-2020-35918"
+      ],
+      "version": "0.9.2"
+    },
+    "brillig": {
+      "ids": [
+        "CVE-2026-41197"
+      ],
+      "version": "0.46.0"
+    },
+    "bronzedb-protocol": {
+      "ids": [
+        "CVE-2021-45682"
+      ],
+      "version": "0.1.0"
+    },
+    "buffa": {
+      "ids": [
+        "CVE-2026-55406",
+        "CVE-2026-55407"
+      ],
+      "version": "0.7.1"
+    },
+    "buffered-reader": {
+      "ids": [
+        "CVE-2023-53161",
+        "GHSA-q5h2-xq96-6gmc"
+      ],
+      "version": "1.1.4"
+    },
+    "buffoon": {
+      "ids": [
+        "CVE-2020-36512"
+      ],
+      "version": "0.5.0"
+    },
+    "bumpalo": {
+      "ids": [
+        "CVE-2020-35861",
+        "GHSA-f85w-wvc7-crwc",
+        "RUSTSEC-2022-0078"
+      ],
+      "version": "3.11.0"
+    },
+    "bun_collections": {
+      "ids": [
+        "RUSTSEC-2026-0309"
+      ],
+      "version": "0.2.0"
+    },
+    "bunch": {
+      "ids": [
+        "CVE-2020-36450"
+      ],
+      "version": "0.1.0"
+    },
+    "buttplug": {
+      "ids": [
+        "CVE-2020-36218"
+      ],
+      "version": "1.0.3"
+    },
+    "byte_struct": {
+      "ids": [
+        "CVE-2021-28033"
+      ],
+      "version": "0.6.0"
+    },
+    "bytes": {
+      "ids": [
+        "CVE-2026-25541"
+      ],
+      "version": "1.11.0"
+    },
+    "bzip2": {
+      "ids": [
+        "CVE-2023-22895"
+      ],
+      "version": "0.4.3"
+    },
+    "cache": {
+      "ids": [
+        "CVE-2020-36448",
+        "CVE-2021-25903"
+      ],
+      "version": "0.2.0"
+    },
+    "caja": {
+      "ids": [
+        "RUSTSEC-2026-0130"
+      ],
+      "version": "0.2.1"
+    },
+    "calamine": {
+      "ids": [
+        "CVE-2021-26951"
+      ],
+      "version": "0.16.2"
+    },
+    "candid": {
+      "ids": [
+        "CVE-2023-6245"
+      ],
+      "version": "0.9.9"
+    },
+    "cap-async-std": {
+      "ids": [
+        "CVE-2024-51756"
+      ],
+      "version": "3.4.0"
+    },
+    "cap-primitives": {
+      "ids": [
+        "CVE-2024-51756"
+      ],
+      "version": "3.4.0"
+    },
+    "cap-std": {
+      "ids": [
+        "CVE-2024-51756"
+      ],
+      "version": "3.4.0"
+    },
+    "capnp": {
+      "ids": [
+        "CVE-2022-46149",
+        "GHSA-5w5r-mf82-595p",
+        "RUSTSEC-2025-0143"
+      ],
+      "version": "0.23.2"
+    },
+    "cargo": {
+      "ids": [
+        "CVE-2022-36113",
+        "CVE-2022-36114",
+        "CVE-2022-46176",
+        "CVE-2023-38497",
+        "CVE-2026-5222",
+        "CVE-2026-5223"
+      ],
+      "version": "0.66.0"
+    },
+    "cassandra": {
+      "ids": [
+        "RUSTSEC-2016-0006"
+      ],
+      "version": "0.8.1"
+    },
+    "cassandra-cpp": {
+      "ids": [
+        "CVE-2024-27284"
+      ],
+      "version": "2.0.1"
+    },
+    "cbox": {
+      "ids": [
+        "CVE-2020-35860"
+      ],
+      "version": "0.3.0"
+    },
+    "cdr": {
+      "ids": [
+        "CVE-2021-26305"
+      ],
+      "version": "0.2.3"
+    },
+    "cel": {
+      "ids": [
+        "CVE-2025-62162"
+      ],
+      "version": "0.11.3"
+    },
+    "cell-project": {
+      "ids": [
+        "GHSA-p75v-367r-2v23",
+        "RUSTSEC-2020-0164"
+      ],
+      "version": "0.1.3"
+    },
+    "cgc": {
+      "ids": [
+        "CVE-2020-36466",
+        "CVE-2020-36467",
+        "CVE-2020-36468"
+      ],
+      "version": "0.4.0"
+    },
+    "cggmp21": {
+      "ids": [
+        "CVE-2025-66016",
+        "CVE-2025-66017",
+        "GHSA-rm66-9gh4-4gp8",
+        "RUSTSEC-2024-0393"
+      ],
+      "version": "0.6.3"
+    },
+    "cggmp21-keygen": {
+      "ids": [
+        "GHSA-7jjx-3qw9-j6h6",
+        "RUSTSEC-2024-0392"
+      ],
+      "version": "0.1.0"
+    },
+    "cggmp24": {
+      "ids": [
+        "CVE-2025-66016",
+        "CVE-2025-66017"
+      ],
+      "version": "0.1.0"
+    },
+    "chacha20": {
+      "ids": [
+        "CVE-2019-25005"
+      ],
+      "version": "0.2.2"
+    },
+    "chan": {
+      "ids": [
+        "RUSTSEC-2018-0014"
+      ],
+      "version": "0.1.23"
+    },
+    "chrono": {
+      "ids": [
+        "GHSA-cqpr-pcm7-m3jc",
+        "RUSTSEC-2020-0159"
+      ],
+      "version": "0.4.19"
+    },
+    "chttp": {
+      "ids": [
+        "CVE-2019-16140"
+      ],
+      "version": "0.1.2"
+    },
+    "chunky": {
+      "ids": [
+        "CVE-2020-36433"
+      ],
+      "version": "0.3.7"
+    },
+    "circular-buffer": {
+      "ids": [
+        "RUSTSEC-2026-0256"
+      ],
+      "version": "2.0.0"
+    },
+    "ckb": {
+      "ids": [
+        "CVE-2021-45698",
+        "CVE-2021-45699",
+        "CVE-2021-45700",
+        "GHSA-29c2-65rj-h343",
+        "GHSA-3gjh-29fv-8hr6",
+        "GHSA-7fw6-6mfj-g3q2",
+        "GHSA-84x2-2qv6-qg56",
+        "GHSA-9mfc-chwf-7whf",
+        "GHSA-h4c3-5275-vrmg",
+        "GHSA-hjqq-29pw-96wj",
+        "GHSA-j35p-q24r-5367",
+        "GHSA-mcmr-49x3-4jqm",
+        "GHSA-p2gm-ffr3-w2xw",
+        "GHSA-pr39-8257-fxc2",
+        "GHSA-q669-2vfg-cxcg",
+        "GHSA-q73f-w3h7-7wcc",
+        "GHSA-r9rv-9mh8-pxf4",
+        "GHSA-wjxc-pjx9-4wvm"
+      ],
+      "version": "0.101.8"
+    },
+    "clatter": {
+      "ids": [
+        "CVE-2026-24785"
+      ],
+      "version": "2.1.0"
+    },
+    "claxon": {
+      "ids": [
+        "CVE-2018-20992"
+      ],
+      "version": "0.4.0"
+    },
+    "cmov": {
+      "ids": [
+        "CVE-2026-23519",
+        "CVE-2026-50185"
+      ],
+      "version": "0.5.3"
+    },
+    "cocoon": {
+      "ids": [
+        "CVE-2024-21530"
+      ],
+      "version": "0.3.3"
+    },
+    "codewhale-tui": {
+      "ids": [
+        "CVE-2026-75856",
+        "CVE-2026-75857",
+        "CVE-2026-75858",
+        "CVE-2026-75859",
+        "CVE-2026-75911",
+        "CVE-2026-75912",
+        "CVE-2026-75913",
+        "CVE-2026-75914",
+        "CVE-2026-75915"
+      ],
+      "version": "0.8.63"
+    },
+    "columnar": {
+      "ids": [
+        "CVE-2021-45685"
+      ],
+      "version": "0.13.2"
+    },
+    "compact_arena": {
+      "ids": [
+        "CVE-2019-16139"
+      ],
+      "version": "0.3.2"
+    },
+    "compu-brotli-sys": {
+      "ids": [
+        "CVE-2020-36846",
+        "CVE-2020-8927"
+      ],
+      "version": "0.1.3"
+    },
+    "comrak": {
+      "ids": [
+        "CVE-2021-27671",
+        "CVE-2021-38186",
+        "CVE-2023-28626",
+        "CVE-2023-28631",
+        "GHSA-xxmq-4vph-956w"
+      ],
+      "version": "0.16.0"
+    },
+    "concread": {
+      "ids": [
+        "CVE-2020-35928"
+      ],
+      "version": "0.2.5"
+    },
+    "conduit-hyper": {
+      "ids": [
+        "CVE-2022-39294"
+      ],
+      "version": "0.4.1"
+    },
+    "connectrpc": {
+      "ids": [
+        "RUSTSEC-2026-0304"
+      ],
+      "version": "0.9.0"
+    },
+    "conquer-once": {
+      "ids": [
+        "CVE-2020-36208"
+      ],
+      "version": "0.3.1"
+    },
+    "conqueue": {
+      "ids": [
+        "CVE-2020-36437"
+      ],
+      "version": "0.3.0"
+    },
+    "containers": {
+      "ids": [
+        "CVE-2021-25907"
+      ],
+      "version": "0.9.10"
+    },
+    "convec": {
+      "ids": [
+        "CVE-2020-36445"
+      ],
+      "version": "2.0.1"
+    },
+    "cookie": {
+      "ids": [
+        "CVE-2017-18589"
+      ],
+      "version": "0.7.5"
+    },
+    "coreos-installer": {
+      "ids": [
+        "CVE-2021-20319",
+        "CVE-2021-3917"
+      ],
+      "version": "0.10.0"
+    },
+    "coreutils": {
+      "ids": [
+        "CVE-2026-35344",
+        "CVE-2026-35345",
+        "CVE-2026-35348",
+        "CVE-2026-35350",
+        "CVE-2026-35351",
+        "CVE-2026-35352",
+        "CVE-2026-35354",
+        "CVE-2026-35357",
+        "CVE-2026-35359",
+        "CVE-2026-35360",
+        "CVE-2026-35364",
+        "CVE-2026-35367",
+        "CVE-2026-35368",
+        "CVE-2026-35372",
+        "CVE-2026-35374",
+        "CVE-2026-35375",
+        "CVE-2026-35376",
+        "CVE-2026-35377",
+        "CVE-2026-35378",
+        "CVE-2026-35379",
+        "CVE-2026-35380",
+        "GHSA-2cxp-xq3c-mjxx",
+        "GHSA-532v-xp3f-837c",
+        "GHSA-53gr-wmf4-8hh3",
+        "GHSA-66fx-fqv6-5wwx",
+        "GHSA-67hp-f6hq-2h6g",
+        "GHSA-7259-cwhx-3xx3",
+        "GHSA-79rc-qpw3-jv92",
+        "GHSA-88ch-q68x-36v7",
+        "GHSA-9gqx-53gp-c8g3",
+        "GHSA-ggc5-46rg-mr4v",
+        "GHSA-gpcg-h6x2-c26p",
+        "GHSA-hj9r-8pfm-rmjj",
+        "GHSA-hwhf-8p2f-45wr",
+        "GHSA-m26v-hjq3-x245",
+        "GHSA-q94g-3gcf-66x7",
+        "GHSA-rx8h-33gr-vhj9",
+        "GHSA-v24v-f45g-w7jf",
+        "GHSA-v762-x3cf-5mfg",
+        "GHSA-vchc-9ggh-3236",
+        "GHSA-vf87-345h-9qhx",
+        "GHSA-vp6q-mv9j-j428",
+        "GHSA-w8m4-4v35-v6x3",
+        "GHSA-xh5h-p8c5-4w4x"
+      ],
+      "version": "0.12.0"
+    },
+    "cortex-m-rt": {
+      "ids": [
+        "GHSA-xw5j-gv2g-mjm2",
+        "RUSTSEC-2023-0014"
+      ],
+      "version": "0.7.2"
+    },
+    "cosmwasm": {
+      "ids": [
+        "CVE-2025-25500"
+      ],
+      "version": "0.7.2"
+    },
+    "cosmwasm-std": {
+      "ids": [
+        "CVE-2024-58263",
+        "GHSA-rm83-pxjx-pr5j"
+      ],
+      "version": "2.0.1"
+    },
+    "cosmwasm-vm": {
+      "ids": [
+        "GHSA-2q97-m5rc-p3gp",
+        "GHSA-75qh-gg76-p2w4",
+        "GHSA-mx2j-7cmv-353c",
+        "GHSA-rg2q-2jh9-447q",
+        "GHSA-vmqh-5232-v43r",
+        "RUSTSEC-2024-0361",
+        "RUSTSEC-2024-0366"
+      ],
+      "version": "2.2.0"
+    },
+    "cranelift-codegen": {
+      "ids": [
+        "CVE-2021-32629",
+        "CVE-2022-23636",
+        "CVE-2022-31104",
+        "CVE-2022-31146",
+        "CVE-2022-31169",
+        "CVE-2023-26489",
+        "CVE-2023-27477"
+      ],
+      "version": "0.93.0"
+    },
+    "crayon": {
+      "ids": [
+        "CVE-2020-35889",
+        "GHSA-xfhw-6mc4-mgxf"
+      ],
+      "version": "0.7.1"
+    },
+    "crossbeam": {
+      "ids": [
+        "CVE-2018-20996",
+        "GHSA-8gj8-hv75-gp94",
+        "GHSA-rwf4-gx62-rqfw",
+        "RUSTSEC-2022-0020",
+        "RUSTSEC-2022-0029"
+      ],
+      "version": "0.6.0"
+    },
+    "crossbeam-channel": {
+      "ids": [
+        "CVE-2020-15254",
+        "CVE-2020-35904",
+        "CVE-2025-4574",
+        "GHSA-9g55-pg62-m8hh",
+        "GHSA-w443-5h3j-jqcp",
+        "RUSTSEC-2022-0019"
+      ],
+      "version": "0.4.3"
+    },
+    "crossbeam-deque": {
+      "ids": [
+        "CVE-2021-32810"
+      ],
+      "version": "0.8.0"
+    },
+    "crossbeam-epoch": {
+      "ids": [
+        "RUSTSEC-2026-0204"
+      ],
+      "version": "0.9.19"
+    },
+    "crossbeam-queue": {
+      "ids": [
+        "GHSA-6888-wf7j-34jq",
+        "RUSTSEC-2022-0021"
+      ],
+      "version": "0.2.2"
+    },
+    "crossbeam-utils": {
+      "ids": [
+        "CVE-2022-23639"
+      ],
+      "version": "0.8.6"
+    },
+    "crust": {
+      "ids": [
+        "RUSTSEC-2019-0032"
+      ],
+      "version": "0.32.1"
+    },
+    "crypto2": {
+      "ids": [
+        "CVE-2021-45709"
+      ],
+      "version": "0.1.2"
+    },
+    "cryptoki": {
+      "ids": [
+        "RUSTSEC-2026-0286"
+      ],
+      "version": "0.12.0"
+    },
+    "csv-sniffer": {
+      "ids": [
+        "CVE-2021-45686"
+      ],
+      "version": "0.1.1"
+    },
+    "curve25519-dalek": {
+      "ids": [
+        "CVE-2024-58262",
+        "GHSA-4hff-hh47-7788"
+      ],
+      "version": "4.1.2"
+    },
+    "cxx": {
+      "ids": [
+        "RUSTSEC-2026-0202"
+      ],
+      "version": "1.0.194"
+    },
+    "cyfs-base": {
+      "ids": [
+        "GHSA-g753-ghr7-q33w"
+      ],
+      "version": "0.6.12"
+    },
+    "dahl-salso": {
+      "ids": [
+        "RUSTSEC-2026-0129"
+      ],
+      "version": "0.6.6"
+    },
+    "dashmap": {
+      "ids": [
+        "GHSA-mpg5-fvwp-42m2",
+        "RUSTSEC-2022-0002"
+      ],
+      "version": "5.0.0"
+    },
+    "datadog-opentelemetry": {
+      "ids": [
+        "CVE-2026-54788"
+      ],
+      "version": "0.3.2"
+    },
+    "dbn": {
+      "ids": [
+        "GHSA-pfr9-2p92-qrhq",
+        "RUSTSEC-2024-0377"
+      ],
+      "version": "0.22.0"
+    },
+    "dcap-qvl": {
+      "ids": [
+        "CVE-2026-22696"
+      ],
+      "version": "0.3.8"
+    },
+    "dces": {
+      "ids": [
+        "CVE-2020-36459"
+      ],
+      "version": "0.3.1"
+    },
+    "dcrypt-algorithms": {
+      "ids": [
+        "RUSTSEC-2026-0238"
+      ],
+      "version": "1.2.3"
+    },
+    "dcrypt-api": {
+      "ids": [
+        "RUSTSEC-2026-0242"
+      ],
+      "version": "1.2.3"
+    },
+    "dcrypt-sign": {
+      "ids": [
+        "RUSTSEC-2026-0240"
+      ],
+      "version": "1.2.3"
+    },
+    "dcrypt-symmetric": {
+      "ids": [
+        "RUSTSEC-2026-0239"
+      ],
+      "version": "1.2.3"
+    },
+    "deepseek-tui": {
+      "ids": [
+        "CVE-2026-45310",
+        "CVE-2026-45311",
+        "CVE-2026-45373",
+        "CVE-2026-45374",
+        "CVE-2026-75856",
+        "CVE-2026-75857",
+        "CVE-2026-75858",
+        "CVE-2026-75911",
+        "CVE-2026-75912",
+        "CVE-2026-75913",
+        "CVE-2026-75914",
+        "CVE-2026-75915"
+      ],
+      "version": "0.8.41"
+    },
+    "deepseek-tui-cli": {
+      "ids": [
+        "CVE-2026-45310",
+        "CVE-2026-45311"
+      ],
+      "version": "0.8.22"
+    },
+    "deno": {
+      "ids": [
+        "CVE-2021-32619",
+        "CVE-2021-41641",
+        "CVE-2022-24783",
+        "CVE-2023-22499",
+        "CVE-2023-26103",
+        "CVE-2023-28446",
+        "CVE-2023-33966",
+        "CVE-2024-21486",
+        "CVE-2024-27931",
+        "CVE-2024-27932",
+        "CVE-2024-27933",
+        "CVE-2024-27934",
+        "CVE-2024-27935",
+        "CVE-2024-27936",
+        "CVE-2024-34346",
+        "CVE-2025-21620",
+        "CVE-2025-24015",
+        "CVE-2025-48888",
+        "CVE-2025-48935",
+        "CVE-2025-61785",
+        "CVE-2025-61786",
+        "CVE-2025-61787",
+        "CVE-2026-22863",
+        "CVE-2026-22864",
+        "CVE-2026-27190",
+        "CVE-2026-32260",
+        "CVE-2026-44726",
+        "CVE-2026-49401",
+        "CVE-2026-49402",
+        "CVE-2026-49406",
+        "CVE-2026-49411",
+        "CVE-2026-49440",
+        "CVE-2026-49859",
+        "CVE-2026-49860",
+        "CVE-2026-49983",
+        "CVE-2026-55517",
+        "GHSA-xr9w-x6gw-c9mj"
+      ],
+      "version": "1.39.0"
+    },
+    "deno_doc": {
+      "ids": [
+        "CVE-2024-32468"
+      ],
+      "version": "0.118.0"
+    }
+  }
+}

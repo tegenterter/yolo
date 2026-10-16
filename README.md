@@ -21,11 +21,25 @@ Snyk, Dependabot, Trivy, etc.
 
 ## Contents
 
-- **2,953** known-vulnerable npm packages, each pinned to an exact vulnerable version
-- **4,498** distinct CVEs
-- **7,717** distinct advisories (CVE + GHSA/OSV)
+**9,759 known-vulnerable packages across 6 ecosystems**, each pinned to an exact
+vulnerable version. Every ecosystem ships an idiomatic manifest plus an
+`advisories.json` sidecar (package → version → advisory/CVE IDs).
 
-See `advisories.json` for the full package → version → advisory-ID mapping.
+| Ecosystem | Manifest | Packages | Distinct CVEs |
+|-----------|----------|---------:|--------------:|
+| npm       | `package.json`                     | 2,953 | 4,498 |
+| PyPI      | `ecosystems/pypi/requirements.txt` | 1,614 | 6,391 |
+| Maven     | `ecosystems/maven/pom.xml`         | 2,945 | 6,556 |
+| Go        | `ecosystems/go/go.mod`             | 1,239 | 4,056 |
+| crates.io | `ecosystems/cargo/Cargo.toml`      |   600 |   273 |
+| RubyGems  | `ecosystems/rubygems/Gemfile`      |   408 | 1,050 |
+| **Total** |                                    | **9,759** | |
+
+The root `package.json` / `advisories.json` cover npm (7,717 advisories total).
+Each pin is a real, still-published version known to be vulnerable: enumerated in
+the advisory, or the highest registry version inside a vulnerable range. For PyPI,
+RubyGems, crates.io and Go, pins are verified against the live registry / module
+proxy; Maven pins use advisory-enumerated versions.
 
 ## What was deliberately EXCLUDED
 
@@ -67,4 +81,12 @@ npm install --ignore-scripts --no-audit --no-fund
 npm audit
 ```
 
-Do not deploy this. Do not `import`/`require` these packages in anything real.
+**Scan every ecosystem at once** — `osv-scanner` walks the repo and reads all the
+manifests (`requirements.txt`, `go.mod`, `Gemfile`, `Cargo.toml`, `pom.xml`, …)
+without installing anything:
+
+```bash
+osv-scanner scan --recursive .
+```
+
+Do not deploy this. Do not install or import these packages in anything real.
